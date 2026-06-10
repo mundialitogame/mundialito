@@ -344,7 +344,7 @@ export class Match {
     let airLand = 0;
     if (power01 >= TUNE.airThresh) {
       const redFrac = (power01 - TUNE.airThresh) / (1 - TUNE.airThresh);
-      airTotal = 8 + redFrac * TUNE.airMax;
+      airTotal = (8 + redFrac * TUNE.airMax) * (1 + this.rng.noise() * TUNE.airScatter);
       const airTime = 0.85 + redFrac * 0.75; // short chips hang, punts drive
       speed = (airTotal / airTime) * (1 + this.rng.noise() * 0.04);
       airLand = TUNE.airLandSpeed + redFrac * TUNE.airLandSpeedMax;
@@ -479,10 +479,10 @@ export class Match {
       }
     }
 
-    const trapRoll = (s: Side, i: number, speed: number, moving: boolean): boolean => {
+    const trapRoll = (s: Side, i: number, speed: number, moving: boolean, bouncing = false): boolean => {
       const pl = this.player(s, i);
       // a gentle ball to a standing, unpressured receiver always sticks
-      if (speed < TUNE.softTrapSpeed && !moving) {
+      if (speed < TUNE.softTrapSpeed && !moving && !bouncing) {
         let minOpp = 99;
         const rp = discAt(s, i);
         for (const d of this.discs) if (d.side !== s) minOpp = Math.min(minOpp, dist(discAt(d.side, d.idx), rp));
@@ -492,6 +492,7 @@ export class Match {
       const ctlF = 1.55 - pl.ctl / 99;
       let pTrap = TUNE.trapBase + pl.ctl * TUNE.trapStat - speed * TUNE.trapSpeed * ctlF;
       if (moving) pTrap -= TUNE.trapMoving * (1.35 - pl.ctl / 99);
+      if (bouncing) pTrap -= TUNE.bounceTrap * (1.35 - pl.ctl / 99);
       return this.rng.next() < clamp(pTrap, 0.1, 0.97);
     };
 
@@ -503,6 +504,7 @@ export class Match {
 
     const lastD = new Map<number, number>();
     let airLeft = airTotal;
+    let bounceLeft = 0;
     const airAll = Math.max(airTotal, 1e-6);
     let frameAcc = 0;
     let stepCount = 0;
@@ -744,6 +746,7 @@ export class Match {
         if (dist(p, dp) < minD) p = add(dp, mul(norm(sub(p, dp)), minD));
         const pl = this.player(hitDisc.side, hitDisc.idx);
         const sNow = len(w);
+        const bouncing = bounceLeft > 0;
         if (hitDisc.side === kickSide) {
           // a ball too hot to handle skids straight past (your striker isn't
           // going to "trap" your own shot) — occasionally it clips him
@@ -758,9 +761,10 @@ export class Match {
             frames.push({ t, x: p.x, y: p.y });
             continue;
           }
-          // teammate receives (harder on the run, easier with good control)
+          // teammate receives (harder on the run or off a bounce,
+          // easier with good control)
           const mv = movers.find((mm) => mm.key === key && !mm.done);
-          if (trapRoll(hitDisc.side, hitDisc.idx, sNow, !!mv)) {
+          if (trapRoll(hitDisc.side, hitDisc.idx, sNow, !!mv, bouncing)) {
             if (mv) finishMover(mv, t);
             events.push({ kind: "trap", t, side: hitDisc.side, idx: hitDisc.idx });
             out.owner = { side: hitDisc.side, idx: hitDisc.idx };
@@ -815,13 +819,20 @@ export class Match {
         airLeft -= speed * dt;
         if (airLeft <= 0) {
           airLeft = 0;
-          w = mul(norm(w), Math.min(len(w), airLand || 14)); // landing kills the pace
+          // touchdown: the pace dies, the ball skips on awkwardly for a while
+          const jit = ((this.rng.noise() * 5) * Math.PI) / 180;
+          w = fromAng(angOf(w) + jit, Math.min(len(w), airLand || 14));
+          bounceLeft = TUNE.bounceRun;
         }
+      } else if (bounceLeft > 0) {
+        bounceLeft -= speed * dt;
+        if (bounceLeft < 0) bounceLeft = 0;
       }
       t += dt;
       frameAcc += dt;
       if (frameAcc >= 1 / 60) {
-        frames.push({ t, x: p.x, y: p.y, air: airLeft > 0 ? airLeft / airAll : 0 });
+        const air = airLeft > 0 ? airLeft / airAll : bounceLeft > 0 ? 0.24 * (bounceLeft / TUNE.bounceRun) : 0;
+        frames.push({ t, x: p.x, y: p.y, air });
         frameAcc = 0;
       }
     }

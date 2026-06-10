@@ -1,4 +1,4 @@
-import { h, clear } from "./dom.ts";
+import { h, clear, surname } from "./dom.ts";
 import { FORMATIONS, SLOT_LABELS } from "../engine/match.ts";
 import * as sfx from "../audio/sfx.ts";
 
@@ -27,10 +27,7 @@ export function lineupEditor(opts: LineupOpts): HTMLElement {
     return { x: x01 * 100, y: ((y01 - 0.3) / 0.7) * 82 + 6 };
   }
 
-  function lastName(n: string): string {
-    const parts = n.split(" ");
-    return parts.length > 1 ? parts[parts.length - 1] : n;
-  }
+  const lastName = surname;
 
   function render() {
     clear(root);

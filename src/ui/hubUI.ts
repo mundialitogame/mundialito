@@ -1,5 +1,7 @@
-import { h, showScreen, mount } from "./dom.ts";
+import { h, showScreen, mount, surname } from "./dom.ts";
 import { lineupEditor } from "./lineup.ts";
+import { Match } from "../engine/match.ts";
+import { aiChooseKick, aiDefense, aiAttackRuns, aiMaybeDribble } from "../engine/ai.ts";
 import type { SquadData } from "../data/types.ts";
 import {
   USER, STAGES, userGroupIdx, groupLetter, groupTable, mdFixtures,
@@ -33,7 +35,8 @@ export function hubScreen(data: SquadData, run: RunState, goTitle: () => void) {
         ),
         h("div", { class: "sm muted center" },
           opp === USER ? "" : `their rating ${data.nations.find((n) => n.name === opp)!.rating.toFixed(0)} · yours ${buildUserTeam(data, run).rating.toFixed(0)}${run.stage > 0 ? " · knockout — draws go to penalties" : ""}`),
-        h("button", { class: "btn hot", onclick: () => play() }, "PLAY MATCH")
+        h("button", { class: "btn hot", onclick: () => play() }, "PLAY MATCH"),
+        h("button", { class: "btn small", style: "width:100%", onclick: () => simulate() }, "SIMULATE (LET THE GAFFER WATCH)")
       )
     : null;
 
@@ -53,6 +56,91 @@ export function hubScreen(data: SquadData, run: RunState, goTitle: () => void) {
       onDone: (res) => afterMatch(oppId, res)
     });
     mount(el);
+  }
+
+  /** quick AI-vs-AI sim of the next fixture, shown as a ticking minute feed */
+  function simulate() {
+    sfx.tick();
+    const oppId = userNextOpponent(run)!;
+    const user = buildUserTeam(data, run);
+    const oppTeam = buildOpponent(data, oppId);
+    const seed = (run.seed ^ hashStr(`${oppId}|s${run.stage}|m${run.groupMd}`)) >>> 0;
+    const m = new Match([user, oppTeam], {
+      seed, knockout: run.stage > 0, aiSkill: aiSkill(data, run, oppId),
+      kicksPerHalf: run.kicksPerHalf, formations: [run.formation, opponentFormation(oppTeam)]
+    });
+    const uSkill = Math.max(0.2, Math.min(0.97, 0.22 + ((user.rating - 70) / 22) * 0.55));
+    const oSkill = aiSkill(data, run, oppId);
+    const goals: { min: number; side: 0 | 1; scorer?: string; own?: boolean }[] = [];
+    let guard = 0;
+    while (m.phase !== "over" && guard++ < 700) {
+      if (m.phase === "defense") {
+        m.opts.aiSkill = m.defenseSide() === 0 ? uSkill : oSkill;
+        aiDefense(m);
+      } else if (m.phase === "aim") {
+        m.opts.aiSkill = m.kicker().side === 0 ? uSkill : oSkill;
+        aiAttackRuns(m);
+        const d = aiMaybeDribble(m);
+        if (d) m.dribble(d);
+        else {
+          const c = aiChooseKick(m);
+          m.kick(c.dir, c.power01);
+        }
+        const adv = m.applyFlight();
+        if (adv.goal) goals.push({ min: m.clockMin(), side: adv.goal.side, scorer: adv.goal.scorer, own: adv.goal.own });
+      } else if (m.phase === "penalty") {
+        const r = m.matchPenalty(m.rng.next() < 0.5 ? -0.8 : 0.8, 0.85);
+        const adv = m.finishMatchPenalty(r.scored);
+        if (adv.goal) goals.push({ min: m.clockMin(), side: adv.goal.side, scorer: adv.goal.scorer });
+      } else if (m.phase === "shootout") {
+        m.penKick(m.rng.next() < 0.5 ? -0.78 : 0.78, 0.85);
+      } else break;
+    }
+    const res: MatchResult = {
+      sa: m.score[0], sb: m.score[1],
+      pens: m.penWinner !== null ? [m.penScore[0], m.penScore[1]] : undefined
+    };
+    simTicker(oppId, goals, res);
+  }
+
+  function simTicker(oppId: string, goals: { min: number; side: 0 | 1; scorer?: string; own?: boolean }[], res: MatchResult) {
+    const scoreEl = h("div", { class: "bigscore" }, "0–0");
+    const minEl = h("div", { class: "center", style: "font-weight:800;font-size:26px;font-variant-numeric:tabular-nums" }, "0’");
+    const feed = h("div", { class: "panel flat", style: "min-height:120px" });
+    const contBtn = h("button", { class: "btn primary", disabled: true, onclick: () => afterMatch(oppId, res) }, "CONTINUE") as HTMLButtonElement;
+    showScreen(
+      h("div", { class: "kicker center", style: "margin-top:5vh" }, "SIMULATING"),
+      h("p", { class: "center", style: "font-weight:800;font-size:19px" }, `⭐ ${run.teamName}  VS  ${flagOf(oppId)} ${nameOf(oppId).toUpperCase()}`),
+      scoreEl, minEl,
+      h("div", { class: "stripe-rule" }),
+      feed, contBtn
+    );
+    const t0 = performance.now();
+    const dur = 5200;
+    let gi = 0;
+    let sa = 0, sb = 0;
+    const step = () => {
+      const k = Math.min(1, (performance.now() - t0) / dur);
+      const minute = Math.floor(k * 90);
+      minEl.textContent = `${minute}’`;
+      while (gi < goals.length && goals[gi].min <= minute) {
+        const g = goals[gi++];
+        if (g.side === 0) sa++; else sb++;
+        scoreEl.textContent = `${sa}–${sb}`;
+        sfx.cheer(g.side === 0 ? 0.55 : 0.3);
+        feed.append(h("div", { class: "sm", style: "font-weight:700;padding:2px 0" },
+          `⚽ ${g.min}’ ${g.own ? "OWN GOAL" : g.scorer ? surname(g.scorer).toUpperCase() : "GOAL"} (${g.side === 0 ? run.teamName : nameOf(oppId).toUpperCase()})`));
+      }
+      if (k < 1) requestAnimationFrame(step);
+      else {
+        if (res.pens) feed.append(h("div", { class: "sm", style: "font-weight:800;padding:2px 0" },
+          `🥅 PENALTIES ${res.pens[0]}–${res.pens[1]}`));
+        feed.append(h("div", { class: "sm muted", style: "padding:2px 0" }, "FULL TIME"));
+        sfx.whistle(3);
+        contBtn.disabled = false;
+      }
+    };
+    requestAnimationFrame(step);
   }
 
   function afterMatch(oppId: string, res: MatchResult) {

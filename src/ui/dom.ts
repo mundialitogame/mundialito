@@ -39,6 +39,17 @@ export function mount(node: Node) {
   r.append(node);
 }
 
+const PARTICLES = new Set(["van", "de", "der", "den", "del", "della", "da", "di", "dos", "du", "la", "le", "el", "al", "bin", "ben", "ter", "ten", "von", "saint", "st."]);
+
+/** display surname, keeping name particles: "Virgil van Dijk" -> "van Dijk" */
+export function surname(full: string): string {
+  const parts = full.trim().split(/\s+/);
+  if (parts.length < 2) return full;
+  let i = parts.length - 1;
+  while (i > 1 && PARTICLES.has(parts[i - 1].toLowerCase())) i--;
+  return parts.slice(i === parts.length - 1 ? i : i, parts.length).join(" ");
+}
+
 export function statDots(v: number): string {
   // 1..5 pips with halves, rendered as ●◐○
   const pips = Math.max(0.5, Math.min(5, Math.round(((v - 45) / 11) * 2) / 2));

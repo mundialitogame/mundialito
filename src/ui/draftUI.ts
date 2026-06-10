@@ -1,4 +1,4 @@
-import { h, showScreen } from "./dom.ts";
+import { h, showScreen, surname } from "./dom.ts";
 import { playerSticker } from "./cards.ts";
 import { lineupEditor } from "./lineup.ts";
 import { Draft, PICKS, defaultStarters } from "../game/draft.ts";
@@ -99,7 +99,7 @@ export function draftScreen(data: SquadData, onDone: (d: DraftDone) => void) {
       const p = draft.playerOf(pk)!;
       t.append(h("div", { class: "tray-slot filled" },
         h("div", { class: "f" }, n.flag),
-        h("div", { class: "n" }, lastName(p.name)),
+        h("div", { class: "n" }, surname(p.name)),
         h("div", { class: "muted" }, p.pos)
       ));
     }
@@ -143,7 +143,4 @@ export function draftScreen(data: SquadData, onDone: (d: DraftDone) => void) {
   }
 }
 
-function lastName(n: string): string {
-  const parts = n.split(" ");
-  return parts.length > 1 ? parts.slice(1).join(" ") : n;
-}
+

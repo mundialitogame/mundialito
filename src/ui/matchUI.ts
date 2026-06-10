@@ -5,7 +5,7 @@ import { TUNE, PITCH } from "../engine/tuning.ts";
 import type { Team } from "../data/types.ts";
 import { PitchRenderer, freshRenderState } from "./pitch.ts";
 import type { RenderState } from "./pitch.ts";
-import { h, clear } from "./dom.ts";
+import { h, clear, surname } from "./dom.ts";
 import * as sfx from "../audio/sfx.ts";
 
 export interface MatchResult {
@@ -71,8 +71,7 @@ export function startMatch(o: MatchOptions): HTMLElement {
   }
 
   function lastName(n: string): string {
-    const parts = n.split(" ");
-    return (parts.length > 1 ? parts[parts.length - 1] : parts[0]).toUpperCase();
+    return surname(n).toUpperCase();
   }
 
   function setHint(t: string) { hint.textContent = t; }
@@ -600,7 +599,6 @@ export function startMatch(o: MatchOptions): HTMLElement {
     finished = true;
     cancelAnimationFrame(raf);
     window.removeEventListener("resize", onResize);
-    sfx.stopCrowd();
     root.remove();
     o.onDone(r);
   }
@@ -612,7 +610,6 @@ export function startMatch(o: MatchOptions): HTMLElement {
     R.fit();
     loop();
     sfx.unlockAudio();
-    sfx.startCrowd();
     sfx.whistle(1);
     updateScore();
     void pump();

@@ -67,6 +67,9 @@ export const TUNE = {
   airLandSpeedMax: 22, // + at full red
   airSavePen: 0.75, // keeper reach factor against dipping shots
   airOverBar: 0.32, // air fraction above which a goal-bound ball clears the bar
+  airScatter: 0.06, // landing-spot noise on lofted balls
+  bounceRun: 13, // distance the ball stays awkwardly bouncy after touchdown
+  bounceTrap: 0.22, // first-touch penalty on a bouncing ball, scaled by ctl
 
   // interception (soft lunge)
   intR: 1.7, // base radius beyond body

@@ -1,4 +1,5 @@
 import { PITCH, TUNE } from "../engine/tuning.ts";
+import { surname } from "./dom.ts";
 import { rollDistance } from "../engine/physics.ts";
 import type { V2 } from "../engine/physics.ts";
 import type { Match, Side } from "../engine/match.ts";
@@ -347,8 +348,7 @@ export class PitchRenderer {
     c.textBaseline = "middle";
     c.fillText(String(isGk ? 1 : pl.num || idx + 2), x, y + 1);
     // name plate: you should know your players (and theirs)
-    const parts = pl.name.split(" ");
-    const ln = (parts.length > 1 ? parts[parts.length - 1] : parts[0]).toUpperCase();
+    const ln = surname(pl.name).toUpperCase();
     c.font = `800 ${Math.max(8, Math.min(10.5, this.s * 0.45))}px "Avenir Next Condensed","Arial Narrow",sans-serif`;
     c.lineWidth = 2.6;
     c.strokeStyle = "rgba(28,20,10,0.85)";
