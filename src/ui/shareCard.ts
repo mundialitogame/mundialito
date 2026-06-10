@@ -84,6 +84,6 @@ export function makeShareCard(data: SquadData, run: RunState): HTMLCanvasElement
 
   c.font = font(17, 700);
   c.fillStyle = "#4a463a";
-  c.fillText("DRAFT YOUR OWN — MUNDIALITO.MUNDIALITOGAME.WORKERS.DEV", W / 2, H - 44);
+  c.fillText("DRAFT YOUR OWN AT MUNDIALITO.UK", W / 2, H - 44);
   return cv;
 }
