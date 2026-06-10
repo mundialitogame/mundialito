@@ -1,0 +1,451 @@
+19	Manchester City
+17	Bayern Munich
+16	Paris Saint-Germain
+15	Arsenal
+14	Barcelona
+12	Atlético Madrid
+12	Manchester United
+12	Al-Hilal
+12	Crystal Palace
+11	Borussia Dortmund
+11	Liverpool
+11	Galatasaray
+10	PSV Eindhoven
+10	Slavia Prague
+10	Fenerbahçe
+10	Milan
+10	Sunderland
+10	Real Madrid
+9	Flamengo
+9	Al-Ahli
+9	Al Ahly
+9	Aston Villa
+9	Al-Nassr
+8	TSG Hoffenheim
+8	Mamelodi Sundowns
+8	Orlando Pirates
+8	Celtic
+8	Atalanta
+8	Benfica
+8	VfB Stuttgart
+8	Villarreal
+8	Nice
+8	Eintracht Frankfurt
+8	Newcastle United
+8	Lille
+8	Brighton & Hove Albion
+8	Chelsea
+8	Tottenham Hotspur
+7	Bayer Leverkusen
+7	Viktoria Plzeň
+7	Real Betis
+7	Al-Duhail
+7	Inter Milan
+7	Strasbourg
+7	Palmeiras
+7	Sporting CP
+7	Al-Hussein
+6	Wolverhampton Wanderers
+6	Fulham
+6	Al-Qadsiah
+6	Mainz 05
+6	Young Boys
+6	Juventus
+6	Monaco
+6	Esteghlal
+6	Marseille
+6	RB Leipzig
+6	Persepolis
+5	Lyon
+5	Guadalajara
+5	Burnley
+5	Feyenoord
+5	Borussia Mönchengladbach
+5	Rangers
+5	Norwich City
+5	Al-Sadd
+5	Bologna
+5	Nottingham Forest
+5	Bournemouth
+5	Roma
+5	Club Brugge
+5	River Plate
+5	İstanbul Başakşehir
+5	Real Sociedad
+5	VfL Wolfsburg
+5	Pyramids
+5	Tractor
+5	Auckland FC
+4	West Ham United
+4	Braga
+4	América
+4	Midtjylland
+4	Los Angeles FC
+4	Beşiktaş
+4	FC St. Pauli
+4	Sassuolo
+4	Lens
+4	Al-Rayyan
+4	Al-Wakrah
+4	Rennes
+4	SC Freiburg
+4	Leeds United
+4	FC Augsburg
+4	Al-Ittihad
+4	Brentford
+4	Auxerre
+4	Genk
+4	Napoli
+4	Everton
+4	Atlético Mineiro
+4	Ajax
+4	Athletic Bilbao
+4	Pakhtakor
+4	Al-Zawraa
+4	Al-Karma
+3	Sparta Prague
+3	Chicago Fire FC
+3	Jeonbuk Hyundai Motors
+3	Swansea City
+3	Pafos
+3	Hull City
+3	Rijeka
+3	Inter Miami CF
+3	Orlando City SC
+3	Toronto FC
+3	Union Saint-Gilloise
+3	Al-Arabi
+3	Al-Gharafa
+3	Hamburger SV
+3	Lorient
+3	Sevilla
+3	FC Dallas
+3	Çaykur Rizespor
+3	Al Ain
+3	Torino
+3	Heart of Midlothian
+3	Melbourne City
+3	New York City FC
+3	Watford
+3	Leicester City
+3	Vancouver Whitecaps FC
+3	Porto
+3	Kasımpaşa
+3	PEC Zwolle
+3	Venezia
+3	Charleroi
+3	Werder Bremen
+3	Le Havre
+3	Copenhagen
+3	Zamalek
+3	Oviedo
+3	Sepahan
+3	Wellington Phoenix
+3	Minnesota United FC
+3	Al-Talaba
+3	Al-Shorta
+3	Bodø/Glimt
+3	Como
+3	Al-Faisaly
+3	Neftchi Fergana
+3	Nasaf
+2	PAOK
+2	Genoa
+2	Cruz Azul
+2	Toluca
+2	AEL Limassol
+2	Tijuana
+2	Anderlecht
+2	Dynamo Moscow
+2	Hannover 96
+2	Philadelphia Union
+2	FC Tokyo
+2	Kashima Antlers
+2	Stoke City
+2	Ulsan HD
+2	Red Star Belgrade
+2	Brøndby
+2	Schalke 04
+2	Red Bull Salzburg
+2	Middlesbrough
+2	Dender
+2	Southampton
+2	Grêmio
+2	Zenit Saint Petersburg
+2	LDU Quito
+2	Lugano
+2	Vizela
+2	Girona
+2	Olympiacos
+2	Al-Ettifaq
+2	Wrexham
+2	Kilmarnock
+2	Dinamo Zagreb
+2	Parma
+2	Castellón
+2	Cerro Porteño
+2	Cremonese
+2	Atlanta United FC
+2	Independiente
+2	Columbus Crew
+2	Coventry City
+2	Miami FC
+2	RKC Waalwijk
+2	Volendam
+2	Iğdır
+2	Kifisia
+2	Telstar
+2	Maccabi Haifa
+2	Sheffield United
+2	NEC
+2	Huracán
+2	Internacional
+2	UNAM
+2	Maribor
+2	Panathinaikos
+2	Trabzonspor
+2	Sint-Truiden
+2	Derby County
+2	Celta Vigo
+2	Club Africain
+2	Espérance de Tunis
+2	Al-Najma
+2	Nordsjælland
+2	ZED
+2	Kalba
+2	Foolad
+2	Standard Liège
+2	Viking
+2	Saint-Étienne
+2	Al Bataeh
+2	Krasnodar
+2	San Diego FC
+2	Osasuna
+2	Dibba
+2	Rayo Vallecano
+2	USM Alger
+2	LASK
+2	Selangor
+2	Al-Wehdat
+2	Mallorca
+2	AEL
+2	Dinamo Samarqand
+2	Saprissa
+2	Plaza Amador
+2	Universidad Católica
+1	Hradec Králové
+1	Lokomotiv Moscow
+1	Santos Laguna
+1	AEK Athens
+1	AZ
+1	Pumas
+1	Polokwane City
+1	Tondela
+1	Molde
+1	Siwelele
+1	Kaizer Chiefs
+1	Gangwon FC
+1	Birmingham City
+1	Austria Wien
+1	Daejeon Hana Citizen
+1	Zhejiang
+1	Gaziantep
+1	Sampdoria
+1	Jagiellonia Białystok
+1	Borac Banja Luka
+1	Astana
+1	Karlsruher SC
+1	Universitatea Cluj
+1	Slovan Liberec
+1	Barnsley
+1	Hajduk Split
+1	Austin FC
+1	Cultural Leonesa
+1	Al-Shamal
+1	Valencia
+1	Pisa
+1	Fortuna Düsseldorf
+1	Santos
+1	Botafogo
+1	Bastia
+1	Angers
+1	El Paso Locomotive FC
+1	Nancy
+1	Sochaux
+1	Colorado Springs Switchbacks FC
+1	Almere City
+1	Ferencváros
+1	Gent
+1	Cosmos Koblenz
+1	Zulte Waregem
+1	Tatran Prešov
+1	Violette
+1	RS Berkane
+1	AS FAR
+1	Mechelen
+1	Hibernian
+1	Charlton Athletic
+1	Ipswich Town
+1	Levante
+1	APOEL
+1	Grazer AK
+1	Albirex Niigata
+1	Heracles Almelo
+1	Randers
+1	Melbourne Victory
+1	Sydney FC
+1	Colorado Rapids
+1	Machida Zelvia
+1	San Lorenzo
+1	Lanús
+1	São Paulo
+1	Independiente Rivadavia
+1	Olimpia
+1	Portsmouth
+1	Red Bull Bragantino
+1	Talleres
+1	New England Revolution
+1	FC Cincinnati
+1	Charlotte FC
+1	Seattle Sounders FC
+1	Toulouse
+1	Sparta Rotterdam
+1	Abha
+1	Zürich
+1	Rotherham United
+1	Beveren
+1	Terengganu
+1	Kayserispor
+1	Den Bosch
+1	Konyaspor
+1	VVV-Venlo
+1	Independiente del Valle
+1	Antwerp
+1	Pachuca
+1	Gil Vicente
+1	Cercle Brugge
+1	Sanfrecce Hiroshima
+1	Reims
+1	Corinthians
+1	Udinese
+1	Holstein Kiel
+1	AIK
+1	Mjällby AIF
+1	Malmö FF
+1	Servette
+1	Dynamo Makhachkala
+1	Union Berlin
+1	CS Sfaxien
+1	Étoile du Sahel
+1	IFK Norrköping
+1	US Monastir
+1	Barcelona B
+1	El Gouna
+1	Shabab Al Ahli
+1	Rostov
+1	Al Nasr
+1	Al Wahda
+1	Malavan
+1	Millwall
+1	Peterborough United
+1	Motherwell
+1	Lechia Gdańsk
+1	Portland Timbers
+1	Western Sydney Wanderers
+1	Port Vale
+1	Silkeborg
+1	Newcastle Jets
+1	Braintree Town
+1	Chaves
+1	Torreense
+1	Shamrock Rovers
+1	Estrela Amadora
+1	FCSB
+1	Akron Tolyatti
+1	Apollon Limassol
+1	Montana
+1	Ludogorets Razgrad
+1	Puskás Akadémia
+1	Farense
+1	Omonia
+1	Vitória de Guimarães
+1	Casa Pia
+1	SJK
+1	Maccabi Tel Aviv
+1	Neom
+1	Al-Ula
+1	Monterrey
+1	Fluminense
+1	UANL
+1	Estudiantes
+1	Real Salt Lake
+1	Port
+1	Pogoń Szczecin
+1	AEK Larnaca
+1	Al Dhafra
+1	Luton Town
+1	Nashville SC
+1	Utrecht
+1	Cracovia
+1	AGF
+1	Sarpsborg 08
+1	Persib
+1	Samsunspor
+1	Stade Nyonnais
+1	JS Kabylie
+1	Twente
+1	Győri ETO
+1	Hellas Verona
+1	Granada
+1	Frosinone
+1	Paris FC
+1	Boca Juniors
+1	Elche
+1	Wolfsberger AC
+1	FC Seoul
+1	Raja Casablanca
+1	Al-Sailiya
+1	Al-Quwa Al-Jawiya
+1	Qatar SC
+1	Al-Shabab
+1	Atlético Nacional
+1	Atlas
+1	Cagliari
+1	Racing Santander
+1	Athletico Paranaense
+1	Rosario Central
+1	Nantes
+1	Vélez Sarsfield
+1	Vasco da Gama
+1	Widzew Łódź
+1	Montpellier
+1	Atromitos
+1	Spartak Moscow
+1	Alanyaspor
+1	Noah
+1	Espanyol
+1	Al Jazira
+1	Aris Limassol
+1	Navbahor Namangan
+1	Baniyas
+1	Bukhara
+1	Surkhon Termiz
+1	AGMK
+1	Fiorentina
+1	St. Gallen
+1	St Patrick's Athletic
+1	Hearts of Oak
+1	Nacional
+1	Slovan Bratislava
+1	Pari Nizhny Novgorod
+1	Ironi Kiryat Shmona
+1	Juárez
+1	León
+1	Mazatlán
+1	Marathón
+1	Puerto Cabello
+1	Universidad de Concepción
+1	Cobresal
+1	Al-Fayha
+1	Turan Tovuz
+1	Deportivo La Guaira

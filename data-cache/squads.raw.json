@@ -1,0 +1,11504 @@
+[
+ {
+  "nation": "Czech Republic",
+  "group": "A",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Matěj Kovář",
+    "age": 26,
+    "caps": 20,
+    "goals": 0,
+    "club": "PSV Eindhoven"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "David Zima",
+    "age": 25,
+    "caps": 25,
+    "goals": 1,
+    "club": "Slavia Prague"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Tomáš Holeš",
+    "age": 33,
+    "caps": 41,
+    "goals": 2,
+    "club": "Slavia Prague"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Robin Hranáč",
+    "age": 26,
+    "caps": 14,
+    "goals": 1,
+    "club": "TSG Hoffenheim"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Vladimír Coufal",
+    "age": 33,
+    "caps": 62,
+    "goals": 2,
+    "club": "TSG Hoffenheim"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Štěpán Chaloupek",
+    "age": 23,
+    "caps": 5,
+    "goals": 0,
+    "club": "Slavia Prague"
+   },
+   {
+    "num": 7,
+    "pos": "DF",
+    "name": "Ladislav Krejčí",
+    "age": 27,
+    "caps": 27,
+    "goals": 5,
+    "club": "Wolverhampton Wanderers"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Vladimír Darida",
+    "age": 35,
+    "caps": 79,
+    "goals": 8,
+    "club": "Hradec Králové"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Adam Hložek",
+    "age": 23,
+    "caps": 43,
+    "goals": 5,
+    "club": "TSG Hoffenheim"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Patrik Schick",
+    "age": 30,
+    "caps": 53,
+    "goals": 26,
+    "club": "Bayer Leverkusen"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Jan Kuchta",
+    "age": 29,
+    "caps": 31,
+    "goals": 3,
+    "club": "Sparta Prague"
+   },
+   {
+    "num": 12,
+    "pos": "MF",
+    "name": "Lukáš Červ",
+    "age": 25,
+    "caps": 17,
+    "goals": 2,
+    "club": "Viktoria Plzeň"
+   },
+   {
+    "num": 13,
+    "pos": "FW",
+    "name": "Mojmír Chytil",
+    "age": 27,
+    "caps": 22,
+    "goals": 6,
+    "club": "Slavia Prague"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "David Jurásek",
+    "age": 25,
+    "caps": 18,
+    "goals": 1,
+    "club": "Slavia Prague"
+   },
+   {
+    "num": 15,
+    "pos": "FW",
+    "name": "Pavel Šulc",
+    "age": 25,
+    "caps": 21,
+    "goals": 5,
+    "club": "Lyon"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "Jindřich Staněk",
+    "age": 30,
+    "caps": 14,
+    "goals": 0,
+    "club": "Slavia Prague"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Lukáš Provod",
+    "age": 29,
+    "caps": 38,
+    "goals": 3,
+    "club": "Slavia Prague"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Michal Sadílek",
+    "age": 27,
+    "caps": 35,
+    "goals": 1,
+    "club": "Slavia Prague"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Tomáš Chorý",
+    "age": 31,
+    "caps": 22,
+    "goals": 7,
+    "club": "Slavia Prague"
+   },
+   {
+    "num": 20,
+    "pos": "DF",
+    "name": "Jaroslav Zelený",
+    "age": 33,
+    "caps": 23,
+    "goals": 0,
+    "club": "Sparta Prague"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "David Douděra",
+    "age": 28,
+    "caps": 17,
+    "goals": 2,
+    "club": "Slavia Prague"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Tomáš Souček",
+    "age": 31,
+    "caps": 90,
+    "goals": 17,
+    "club": "West Ham United"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Lukáš Horníček",
+    "age": 23,
+    "caps": 1,
+    "goals": 0,
+    "club": "Braga"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Alexandr Sojka",
+    "age": 23,
+    "caps": 2,
+    "goals": 0,
+    "club": "Viktoria Plzeň"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Hugo Sochůrek",
+    "age": 18,
+    "caps": 1,
+    "goals": 0,
+    "club": "Sparta Prague"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Denis Višinský",
+    "age": 23,
+    "caps": 2,
+    "goals": 1,
+    "club": "Viktoria Plzeň"
+   }
+  ]
+ },
+ {
+  "nation": "Mexico",
+  "group": "A",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Raúl Rangel",
+    "age": 26,
+    "caps": 14,
+    "goals": 0,
+    "club": "Guadalajara"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Jorge Sánchez",
+    "age": 28,
+    "caps": 59,
+    "goals": 3,
+    "club": "PAOK"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "César Montes",
+    "age": 29,
+    "caps": 67,
+    "goals": 4,
+    "club": "Lokomotiv Moscow"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Edson Álvarez",
+    "age": 28,
+    "caps": 98,
+    "goals": 7,
+    "club": "Fenerbahçe"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Johan Vásquez",
+    "age": 27,
+    "caps": 46,
+    "goals": 3,
+    "club": "Genoa"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Érik Lira",
+    "age": 26,
+    "caps": 25,
+    "goals": 0,
+    "club": "Cruz Azul"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Luis Romo",
+    "age": 31,
+    "caps": 63,
+    "goals": 4,
+    "club": "Guadalajara"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Álvaro Fidalgo",
+    "age": 29,
+    "caps": 4,
+    "goals": 0,
+    "club": "Real Betis"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Raúl Jiménez",
+    "age": 35,
+    "caps": 124,
+    "goals": 45,
+    "club": "Fulham"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Alexis Vega",
+    "age": 28,
+    "caps": 52,
+    "goals": 7,
+    "club": "Toluca"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Santiago Giménez",
+    "age": 25,
+    "caps": 47,
+    "goals": 6,
+    "club": "Milan"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Carlos Acevedo",
+    "age": 30,
+    "caps": 7,
+    "goals": 0,
+    "club": "Santos Laguna"
+   },
+   {
+    "num": 13,
+    "pos": "GK",
+    "name": "Guillermo Ochoa",
+    "age": 40,
+    "caps": 152,
+    "goals": 0,
+    "club": "AEL Limassol"
+   },
+   {
+    "num": 14,
+    "pos": "FW",
+    "name": "Armando González",
+    "age": 23,
+    "caps": 7,
+    "goals": 1,
+    "club": "Guadalajara"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Israel Reyes",
+    "age": 26,
+    "caps": 34,
+    "goals": 2,
+    "club": "América"
+   },
+   {
+    "num": 16,
+    "pos": "FW",
+    "name": "Julián Quiñones",
+    "age": 29,
+    "caps": 22,
+    "goals": 2,
+    "club": "Al-Qadsiah"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Orbelín Pineda",
+    "age": 30,
+    "caps": 92,
+    "goals": 12,
+    "club": "AEK Athens"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Obed Vargas",
+    "age": 20,
+    "caps": 6,
+    "goals": 0,
+    "club": "Atlético Madrid"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Gilberto Mora",
+    "age": 17,
+    "caps": 8,
+    "goals": 0,
+    "club": "Tijuana"
+   },
+   {
+    "num": 20,
+    "pos": "DF",
+    "name": "Mateo Chávez",
+    "age": 22,
+    "caps": 10,
+    "goals": 0,
+    "club": "AZ"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "César Huerta",
+    "age": 25,
+    "caps": 26,
+    "goals": 3,
+    "club": "Anderlecht"
+   },
+   {
+    "num": 22,
+    "pos": "FW",
+    "name": "Guillermo Martínez",
+    "age": 31,
+    "caps": 12,
+    "goals": 3,
+    "club": "Pumas"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Jesús Gallardo",
+    "age": 31,
+    "caps": 121,
+    "goals": 3,
+    "club": "Toluca"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Luis Chávez",
+    "age": 30,
+    "caps": 45,
+    "goals": 5,
+    "club": "Dynamo Moscow"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Roberto Alvarado",
+    "age": 27,
+    "caps": 67,
+    "goals": 5,
+    "club": "Guadalajara"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Brian Gutiérrez",
+    "age": 22,
+    "caps": 7,
+    "goals": 2,
+    "club": "Guadalajara"
+   }
+  ]
+ },
+ {
+  "nation": "South Africa",
+  "group": "A",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Ronwen Williams",
+    "age": 34,
+    "caps": 62,
+    "goals": 0,
+    "club": "Mamelodi Sundowns"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Thabang Matuludi",
+    "age": 27,
+    "caps": 2,
+    "goals": 0,
+    "club": "Polokwane City"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Khulumani Ndamane",
+    "age": 22,
+    "caps": 5,
+    "goals": 0,
+    "club": "Mamelodi Sundowns"
+   },
+   {
+    "num": 4,
+    "pos": "MF",
+    "name": "Teboho Mokoena",
+    "age": 29,
+    "caps": 51,
+    "goals": 9,
+    "club": "Mamelodi Sundowns"
+   },
+   {
+    "num": 5,
+    "pos": "MF",
+    "name": "Thalente Mbatha",
+    "age": 26,
+    "caps": 14,
+    "goals": 3,
+    "club": "Orlando Pirates"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Aubrey Modiba",
+    "age": 30,
+    "caps": 44,
+    "goals": 3,
+    "club": "Mamelodi Sundowns"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Oswin Appollis",
+    "age": 24,
+    "caps": 25,
+    "goals": 8,
+    "club": "Orlando Pirates"
+   },
+   {
+    "num": 8,
+    "pos": "FW",
+    "name": "Tshepang Moremi",
+    "age": 25,
+    "caps": 9,
+    "goals": 1,
+    "club": "Orlando Pirates"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Lyle Foster",
+    "age": 25,
+    "caps": 26,
+    "goals": 10,
+    "club": "Burnley"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Relebohile Mofokeng",
+    "age": 21,
+    "caps": 12,
+    "goals": 0,
+    "club": "Orlando Pirates"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Themba Zwane",
+    "age": 36,
+    "caps": 53,
+    "goals": 12,
+    "club": "Mamelodi Sundowns"
+   },
+   {
+    "num": 12,
+    "pos": "FW",
+    "name": "Thapelo Maseko",
+    "age": 22,
+    "caps": 9,
+    "goals": 1,
+    "club": "AEL Limassol"
+   },
+   {
+    "num": 13,
+    "pos": "MF",
+    "name": "Sphephelo Sithole",
+    "age": 27,
+    "caps": 27,
+    "goals": 1,
+    "club": "Tondela"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Mbekezeli Mbokazi",
+    "age": 20,
+    "caps": 10,
+    "goals": 1,
+    "club": "Chicago Fire FC"
+   },
+   {
+    "num": 15,
+    "pos": "FW",
+    "name": "Iqraam Rayners",
+    "age": 30,
+    "caps": 13,
+    "goals": 4,
+    "club": "Mamelodi Sundowns"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "Sipho Chaine",
+    "age": 29,
+    "caps": 3,
+    "goals": 0,
+    "club": "Orlando Pirates"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Evidence Makgopa",
+    "age": 26,
+    "caps": 26,
+    "goals": 6,
+    "club": "Orlando Pirates"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Samukele Kabini",
+    "age": 22,
+    "caps": 5,
+    "goals": 0,
+    "club": "Molde"
+   },
+   {
+    "num": 19,
+    "pos": "DF",
+    "name": "Nkosinathi Sibisi",
+    "age": 30,
+    "caps": 19,
+    "goals": 0,
+    "club": "Orlando Pirates"
+   },
+   {
+    "num": 20,
+    "pos": "DF",
+    "name": "Khuliso Mudau",
+    "age": 31,
+    "caps": 32,
+    "goals": 1,
+    "club": "Mamelodi Sundowns"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "Ime Okon",
+    "age": 22,
+    "caps": 7,
+    "goals": 1,
+    "club": "Hannover 96"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Ricardo Goss",
+    "age": 32,
+    "caps": 4,
+    "goals": 0,
+    "club": "Siwelele"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Jayden Adams",
+    "age": 25,
+    "caps": 4,
+    "goals": 0,
+    "club": "Mamelodi Sundowns"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Olwethu Makhanya",
+    "age": 22,
+    "caps": 0,
+    "goals": 0,
+    "club": "Philadelphia Union"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Kamogelo Sebelebele",
+    "age": 23,
+    "caps": 2,
+    "goals": 0,
+    "club": "Orlando Pirates"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Bradley Cross",
+    "age": 25,
+    "caps": 0,
+    "goals": 0,
+    "club": "Kaizer Chiefs"
+   }
+  ]
+ },
+ {
+  "nation": "South Korea",
+  "group": "A",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Kim Seung-gyu",
+    "age": 35,
+    "caps": 87,
+    "goals": 0,
+    "club": "FC Tokyo"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Lee Han-beom",
+    "age": 23,
+    "caps": 8,
+    "goals": 0,
+    "club": "Midtjylland"
+   },
+   {
+    "num": 3,
+    "pos": "MF",
+    "name": "Lee Gi-hyuk",
+    "age": 25,
+    "caps": 3,
+    "goals": 0,
+    "club": "Gangwon FC"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Kim Min-jae",
+    "age": 29,
+    "caps": 79,
+    "goals": 4,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Kim Tae-hyeon",
+    "age": 25,
+    "caps": 7,
+    "goals": 0,
+    "club": "Kashima Antlers"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Hwang In-beom",
+    "age": 29,
+    "caps": 73,
+    "goals": 6,
+    "club": "Feyenoord"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Son Heung-min",
+    "age": 33,
+    "caps": 144,
+    "goals": 56,
+    "club": "Los Angeles FC"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Paik Seung-ho",
+    "age": 29,
+    "caps": 27,
+    "goals": 3,
+    "club": "Birmingham City"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Cho Gue-sung",
+    "age": 28,
+    "caps": 44,
+    "goals": 12,
+    "club": "Midtjylland"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Lee Jae-sung",
+    "age": 33,
+    "caps": 105,
+    "goals": 15,
+    "club": "Mainz 05"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Hwang Hee-chan",
+    "age": 30,
+    "caps": 79,
+    "goals": 17,
+    "club": "Wolverhampton Wanderers"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Song Bum-keun",
+    "age": 28,
+    "caps": 3,
+    "goals": 0,
+    "club": "Jeonbuk Hyundai Motors"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Lee Tae-seok",
+    "age": 23,
+    "caps": 15,
+    "goals": 1,
+    "club": "Austria Wien"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Cho Wi-je",
+    "age": 24,
+    "caps": 1,
+    "goals": 0,
+    "club": "Jeonbuk Hyundai Motors"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Kim Moon-hwan",
+    "age": 30,
+    "caps": 35,
+    "goals": 0,
+    "club": "Daejeon Hana Citizen"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Park Jin-seob",
+    "age": 30,
+    "caps": 14,
+    "goals": 1,
+    "club": "Zhejiang"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Bae Jun-ho",
+    "age": 22,
+    "caps": 13,
+    "goals": 2,
+    "club": "Stoke City"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Oh Hyeon-gyu",
+    "age": 25,
+    "caps": 27,
+    "goals": 6,
+    "club": "Beşiktaş"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Lee Kang-in",
+    "age": 25,
+    "caps": 47,
+    "goals": 11,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Yang Hyun-jun",
+    "age": 24,
+    "caps": 9,
+    "goals": 0,
+    "club": "Celtic"
+   },
+   {
+    "num": 21,
+    "pos": "GK",
+    "name": "Jo Hyeon-woo",
+    "age": 34,
+    "caps": 48,
+    "goals": 0,
+    "club": "Ulsan HD"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Seol Young-woo",
+    "age": 27,
+    "caps": 34,
+    "goals": 0,
+    "club": "Red Star Belgrade"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Jens Castrop",
+    "age": 22,
+    "caps": 7,
+    "goals": 0,
+    "club": "Borussia Mönchengladbach"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Kim Jin-gyu",
+    "age": 29,
+    "caps": 22,
+    "goals": 3,
+    "club": "Jeonbuk Hyundai Motors"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Eom Ji-sung",
+    "age": 24,
+    "caps": 9,
+    "goals": 2,
+    "club": "Swansea City"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Lee Dong-gyeong",
+    "age": 28,
+    "caps": 18,
+    "goals": 4,
+    "club": "Ulsan HD"
+   }
+  ]
+ },
+ {
+  "nation": "Bosnia and Herzegovina",
+  "group": "B",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Nikola Vasilj",
+    "age": 30,
+    "caps": 26,
+    "goals": 0,
+    "club": "FC St. Pauli"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Nihad Mujakić",
+    "age": 28,
+    "caps": 12,
+    "goals": 1,
+    "club": "Gaziantep"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Dennis Hadžikadunić",
+    "age": 27,
+    "caps": 32,
+    "goals": 0,
+    "club": "Sampdoria"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Tarik Muharemović",
+    "age": 23,
+    "caps": 14,
+    "goals": 1,
+    "club": "Sassuolo"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Sead Kolašinac",
+    "age": 32,
+    "caps": 65,
+    "goals": 0,
+    "club": "Atalanta"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Benjamin Tahirović",
+    "age": 23,
+    "caps": 28,
+    "goals": 2,
+    "club": "Brøndby"
+   },
+   {
+    "num": 7,
+    "pos": "DF",
+    "name": "Amar Dedić",
+    "age": 23,
+    "caps": 28,
+    "goals": 1,
+    "club": "Benfica"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Armin Gigović",
+    "age": 24,
+    "caps": 20,
+    "goals": 1,
+    "club": "Young Boys"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Samed Baždar",
+    "age": 22,
+    "caps": 13,
+    "goals": 1,
+    "club": "Jagiellonia Białystok"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Ermedin Demirović",
+    "age": 28,
+    "caps": 40,
+    "goals": 4,
+    "club": "VfB Stuttgart"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Edin Džeko",
+    "age": 40,
+    "caps": 148,
+    "goals": 73,
+    "club": "Schalke 04"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Mladen Jurkas",
+    "age": 18,
+    "caps": 0,
+    "goals": 0,
+    "club": "Borac Banja Luka"
+   },
+   {
+    "num": 13,
+    "pos": "MF",
+    "name": "Ivan Bašić",
+    "age": 24,
+    "caps": 17,
+    "goals": 0,
+    "club": "Astana"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Ivan Šunjić",
+    "age": 29,
+    "caps": 11,
+    "goals": 0,
+    "club": "Pafos"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Amar Memić",
+    "age": 25,
+    "caps": 13,
+    "goals": 1,
+    "club": "Viktoria Plzeň"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Amir Hadžiahmetović",
+    "age": 29,
+    "caps": 36,
+    "goals": 0,
+    "club": "Hull City"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Dženis Burnić",
+    "age": 28,
+    "caps": 20,
+    "goals": 0,
+    "club": "Karlsruher SC"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Nikola Katić",
+    "age": 29,
+    "caps": 17,
+    "goals": 2,
+    "club": "Schalke 04"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Kerim Alajbegović",
+    "age": 18,
+    "caps": 10,
+    "goals": 1,
+    "club": "Red Bull Salzburg"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Esmir Bajraktarević",
+    "age": 21,
+    "caps": 16,
+    "goals": 1,
+    "club": "PSV Eindhoven"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "Stjepan Radeljić",
+    "age": 28,
+    "caps": 5,
+    "goals": 0,
+    "club": "Rijeka"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Martin Zlomislić",
+    "age": 27,
+    "caps": 3,
+    "goals": 0,
+    "club": "Rijeka"
+   },
+   {
+    "num": 23,
+    "pos": "FW",
+    "name": "Haris Tabaković",
+    "age": 31,
+    "caps": 10,
+    "goals": 4,
+    "club": "Borussia Mönchengladbach"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Nidal Čelik",
+    "age": 19,
+    "caps": 2,
+    "goals": 0,
+    "club": "Lens"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Jovo Lukić",
+    "age": 27,
+    "caps": 3,
+    "goals": 0,
+    "club": "Universitatea Cluj"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Ermin Mahmić",
+    "age": 21,
+    "caps": 2,
+    "goals": 0,
+    "club": "Slovan Liberec"
+   }
+  ]
+ },
+ {
+  "nation": "Canada",
+  "group": "B",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Dayne St. Clair",
+    "age": 29,
+    "caps": 20,
+    "goals": 0,
+    "club": "Inter Miami CF"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Alistair Johnston",
+    "age": 27,
+    "caps": 58,
+    "goals": 1,
+    "club": "Celtic"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Alfie Jones",
+    "age": 28,
+    "caps": 2,
+    "goals": 0,
+    "club": "Middlesbrough"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Luc de Fougerolles",
+    "age": 20,
+    "caps": 13,
+    "goals": 0,
+    "club": "Dender"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Joel Waterman",
+    "age": 30,
+    "caps": 17,
+    "goals": 0,
+    "club": "Chicago Fire FC"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Mathieu Choinière",
+    "age": 27,
+    "caps": 23,
+    "goals": 0,
+    "club": "Los Angeles FC"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Stephen Eustáquio",
+    "age": 29,
+    "caps": 56,
+    "goals": 4,
+    "club": "Los Angeles FC"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Ismaël Koné",
+    "age": 23,
+    "caps": 40,
+    "goals": 4,
+    "club": "Sassuolo"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Cyle Larin",
+    "age": 31,
+    "caps": 90,
+    "goals": 30,
+    "club": "Southampton"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Jonathan David",
+    "age": 26,
+    "caps": 77,
+    "goals": 39,
+    "club": "Juventus"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Liam Millar",
+    "age": 26,
+    "caps": 41,
+    "goals": 1,
+    "club": "Hull City"
+   },
+   {
+    "num": 12,
+    "pos": "FW",
+    "name": "Tani Oluwaseyi",
+    "age": 26,
+    "caps": 24,
+    "goals": 2,
+    "club": "Villarreal"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Derek Cornelius",
+    "age": 28,
+    "caps": 44,
+    "goals": 1,
+    "club": "Rangers"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Jacob Shaffelburg",
+    "age": 26,
+    "caps": 31,
+    "goals": 6,
+    "club": "Los Angeles FC"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Moïse Bombito",
+    "age": 26,
+    "caps": 20,
+    "goals": 0,
+    "club": "Nice"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "Maxime Crépeau",
+    "age": 32,
+    "caps": 32,
+    "goals": 0,
+    "club": "Orlando City SC"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Tajon Buchanan",
+    "age": 27,
+    "caps": 60,
+    "goals": 8,
+    "club": "Villarreal"
+   },
+   {
+    "num": 18,
+    "pos": "GK",
+    "name": "Owen Goodman",
+    "age": 22,
+    "caps": 0,
+    "goals": 0,
+    "club": "Barnsley"
+   },
+   {
+    "num": 19,
+    "pos": "DF",
+    "name": "Alphonso Davies",
+    "age": 25,
+    "caps": 58,
+    "goals": 15,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Ali Ahmed",
+    "age": 25,
+    "caps": 24,
+    "goals": 1,
+    "club": "Norwich City"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Jonathan Osorio",
+    "age": 33,
+    "caps": 90,
+    "goals": 10,
+    "club": "Toronto FC"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Richie Laryea",
+    "age": 31,
+    "caps": 75,
+    "goals": 1,
+    "club": "Toronto FC"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Niko Sigur",
+    "age": 22,
+    "caps": 19,
+    "goals": 2,
+    "club": "Hajduk Split"
+   },
+   {
+    "num": 24,
+    "pos": "FW",
+    "name": "Promise David",
+    "age": 24,
+    "caps": 10,
+    "goals": 3,
+    "club": "Union Saint-Gilloise"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Nathan Saliba",
+    "age": 22,
+    "caps": 15,
+    "goals": 2,
+    "club": "Anderlecht"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Jayden Nelson",
+    "age": 24,
+    "caps": 14,
+    "goals": 3,
+    "club": "Austin FC"
+   }
+  ]
+ },
+ {
+  "nation": "Qatar",
+  "group": "B",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Mahmud Abunada",
+    "age": 26,
+    "caps": 5,
+    "goals": 0,
+    "club": "Al-Rayyan"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Pedro Miguel",
+    "age": 35,
+    "caps": 99,
+    "goals": 3,
+    "club": "Al-Sadd"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Lucas Mendes",
+    "age": 35,
+    "caps": 25,
+    "goals": 1,
+    "club": "Al-Wakrah"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Issa Laye",
+    "age": 28,
+    "caps": 4,
+    "goals": 0,
+    "club": "Al-Arabi"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Jassem Gaber",
+    "age": 24,
+    "caps": 32,
+    "goals": 1,
+    "club": "Al-Rayyan"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Abdulaziz Hatem",
+    "age": 36,
+    "caps": 117,
+    "goals": 11,
+    "club": "Al-Rayyan"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Ahmed Alaaeldin",
+    "age": 33,
+    "caps": 68,
+    "goals": 9,
+    "club": "Al-Rayyan"
+   },
+   {
+    "num": 8,
+    "pos": "FW",
+    "name": "Edmilson Junior",
+    "age": 31,
+    "caps": 16,
+    "goals": 0,
+    "club": "Al-Duhail"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Mohammed Muntari",
+    "age": 32,
+    "caps": 67,
+    "goals": 16,
+    "club": "Al-Gharafa"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Hassan Al-Haydos",
+    "age": 35,
+    "caps": 186,
+    "goals": 41,
+    "club": "Al-Sadd"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Akram Afif",
+    "age": 29,
+    "caps": 125,
+    "goals": 39,
+    "club": "Al-Sadd"
+   },
+   {
+    "num": 12,
+    "pos": "MF",
+    "name": "Karim Boudiaf",
+    "age": 35,
+    "caps": 118,
+    "goals": 5,
+    "club": "Al-Duhail"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Ayoub Al-Oui",
+    "age": 21,
+    "caps": 6,
+    "goals": 0,
+    "club": "Al-Gharafa"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Homam Ahmed",
+    "age": 26,
+    "caps": 68,
+    "goals": 3,
+    "club": "Cultural Leonesa"
+   },
+   {
+    "num": 15,
+    "pos": "FW",
+    "name": "Yusuf Abdurisag",
+    "age": 26,
+    "caps": 39,
+    "goals": 3,
+    "club": "Al-Wakrah"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Boualem Khoukhi",
+    "age": 35,
+    "caps": 116,
+    "goals": 20,
+    "club": "Al-Sadd"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Ahmed Al-Ganehi",
+    "age": 25,
+    "caps": 13,
+    "goals": 1,
+    "club": "Al-Gharafa"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Sultan Al-Brake",
+    "age": 30,
+    "caps": 17,
+    "goals": 0,
+    "club": "Al-Duhail"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Almoez Ali",
+    "age": 29,
+    "caps": 115,
+    "goals": 55,
+    "club": "Al-Duhail"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Ahmed Fathy",
+    "age": 33,
+    "caps": 48,
+    "goals": 0,
+    "club": "Al-Arabi"
+   },
+   {
+    "num": 21,
+    "pos": "GK",
+    "name": "Salah Zakaria",
+    "age": 27,
+    "caps": 8,
+    "goals": 0,
+    "club": "Al-Duhail"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Meshaal Barsham",
+    "age": 28,
+    "caps": 52,
+    "goals": 0,
+    "club": "Al-Sadd"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Assim Madibo",
+    "age": 29,
+    "caps": 51,
+    "goals": 0,
+    "club": "Al-Wakrah"
+   },
+   {
+    "num": 24,
+    "pos": "FW",
+    "name": "Tahsin Jamshid",
+    "age": 19,
+    "caps": 3,
+    "goals": 0,
+    "club": "Al-Duhail"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Al-Hashmi Al-Hussain",
+    "age": 22,
+    "caps": 8,
+    "goals": 0,
+    "club": "Al-Arabi"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Mohamed Manai",
+    "age": 23,
+    "caps": 10,
+    "goals": 0,
+    "club": "Al-Shamal"
+   }
+  ]
+ },
+ {
+  "nation": "Switzerland",
+  "group": "B",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Gregor Kobel",
+    "age": 28,
+    "caps": 21,
+    "goals": 0,
+    "club": "Borussia Dortmund"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Miro Muheim",
+    "age": 28,
+    "caps": 10,
+    "goals": 0,
+    "club": "Hamburger SV"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Silvan Widmer",
+    "age": 33,
+    "caps": 60,
+    "goals": 5,
+    "club": "Mainz 05"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Nico Elvedi",
+    "age": 29,
+    "caps": 67,
+    "goals": 3,
+    "club": "Borussia Mönchengladbach"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Manuel Akanji",
+    "age": 30,
+    "caps": 81,
+    "goals": 4,
+    "club": "Inter Milan"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Denis Zakaria",
+    "age": 29,
+    "caps": 65,
+    "goals": 3,
+    "club": "Monaco"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Breel Embolo",
+    "age": 29,
+    "caps": 86,
+    "goals": 24,
+    "club": "Rennes"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Remo Freuler",
+    "age": 34,
+    "caps": 88,
+    "goals": 11,
+    "club": "Bologna"
+   },
+   {
+    "num": 9,
+    "pos": "MF",
+    "name": "Johan Manzambi",
+    "age": 20,
+    "caps": 12,
+    "goals": 3,
+    "club": "SC Freiburg"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Granit Xhaka",
+    "age": 33,
+    "caps": 146,
+    "goals": 17,
+    "club": "Sunderland"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Dan Ndoye",
+    "age": 25,
+    "caps": 31,
+    "goals": 8,
+    "club": "Nottingham Forest"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Yvon Mvogo",
+    "age": 32,
+    "caps": 13,
+    "goals": 0,
+    "club": "Lorient"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Ricardo Rodriguez",
+    "age": 33,
+    "caps": 138,
+    "goals": 9,
+    "club": "Real Betis"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Ardon Jashari",
+    "age": 23,
+    "caps": 8,
+    "goals": 0,
+    "club": "Milan"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Djibril Sow",
+    "age": 29,
+    "caps": 52,
+    "goals": 0,
+    "club": "Sevilla"
+   },
+   {
+    "num": 16,
+    "pos": "FW",
+    "name": "Christian Fassnacht",
+    "age": 32,
+    "caps": 23,
+    "goals": 5,
+    "club": "Young Boys"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Rubén Vargas",
+    "age": 27,
+    "caps": 61,
+    "goals": 11,
+    "club": "Sevilla"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Eray Cömert",
+    "age": 28,
+    "caps": 22,
+    "goals": 0,
+    "club": "Valencia"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Noah Okafor",
+    "age": 26,
+    "caps": 25,
+    "goals": 2,
+    "club": "Leeds United"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Michel Aebischer",
+    "age": 29,
+    "caps": 40,
+    "goals": 2,
+    "club": "Pisa"
+   },
+   {
+    "num": 21,
+    "pos": "GK",
+    "name": "Marvin Keller",
+    "age": 23,
+    "caps": 1,
+    "goals": 0,
+    "club": "Young Boys"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Fabian Rieder",
+    "age": 24,
+    "caps": 28,
+    "goals": 1,
+    "club": "FC Augsburg"
+   },
+   {
+    "num": 23,
+    "pos": "FW",
+    "name": "Zeki Amdouni",
+    "age": 25,
+    "caps": 29,
+    "goals": 11,
+    "club": "Burnley"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Aurèle Amenda",
+    "age": 22,
+    "caps": 7,
+    "goals": 0,
+    "club": "Eintracht Frankfurt"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Luca Jaquez",
+    "age": 23,
+    "caps": 3,
+    "goals": 0,
+    "club": "VfB Stuttgart"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Cedric Itten",
+    "age": 29,
+    "caps": 15,
+    "goals": 5,
+    "club": "Fortuna Düsseldorf"
+   }
+  ]
+ },
+ {
+  "nation": "Brazil",
+  "group": "C",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Alisson",
+    "age": 33,
+    "caps": 78,
+    "goals": 0,
+    "club": "Liverpool"
+   },
+   {
+    "num": 2,
+    "pos": "MF",
+    "name": "Éderson Silva",
+    "age": 26,
+    "caps": 3,
+    "goals": 0,
+    "club": "Atalanta"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Gabriel Magalhães",
+    "age": 28,
+    "caps": 17,
+    "goals": 1,
+    "club": "Arsenal"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Marquinhos",
+    "age": 32,
+    "caps": 105,
+    "goals": 7,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 5,
+    "pos": "MF",
+    "name": "Casemiro",
+    "age": 34,
+    "caps": 86,
+    "goals": 9,
+    "club": "Manchester United"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Alex Sandro",
+    "age": 35,
+    "caps": 45,
+    "goals": 2,
+    "club": "Flamengo"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Vinícius Júnior",
+    "age": 25,
+    "caps": 49,
+    "goals": 9,
+    "club": "Real Madrid"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Bruno Guimarães",
+    "age": 28,
+    "caps": 43,
+    "goals": 3,
+    "club": "Newcastle United"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Matheus Cunha",
+    "age": 27,
+    "caps": 23,
+    "goals": 1,
+    "club": "Manchester United"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Neymar",
+    "age": 34,
+    "caps": 128,
+    "goals": 79,
+    "club": "Santos"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Raphinha",
+    "age": 29,
+    "caps": 39,
+    "goals": 11,
+    "club": "Barcelona"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Weverton",
+    "age": 38,
+    "caps": 11,
+    "goals": 0,
+    "club": "Grêmio"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Danilo Luiz",
+    "age": 34,
+    "caps": 70,
+    "goals": 1,
+    "club": "Flamengo"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Bremer",
+    "age": 29,
+    "caps": 8,
+    "goals": 1,
+    "club": "Juventus"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Léo Pereira",
+    "age": 30,
+    "caps": 4,
+    "goals": 0,
+    "club": "Flamengo"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Douglas Santos",
+    "age": 32,
+    "caps": 7,
+    "goals": 0,
+    "club": "Zenit Saint Petersburg"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Fabinho",
+    "age": 32,
+    "caps": 33,
+    "goals": 0,
+    "club": "Al-Ittihad"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Danilo Santos",
+    "age": 25,
+    "caps": 4,
+    "goals": 2,
+    "club": "Botafogo"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Endrick",
+    "age": 19,
+    "caps": 17,
+    "goals": 4,
+    "club": "Lyon"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Lucas Paquetá",
+    "age": 28,
+    "caps": 63,
+    "goals": 13,
+    "club": "Flamengo"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Luiz Henrique",
+    "age": 25,
+    "caps": 15,
+    "goals": 2,
+    "club": "Zenit Saint Petersburg"
+   },
+   {
+    "num": 22,
+    "pos": "FW",
+    "name": "Gabriel Martinelli",
+    "age": 24,
+    "caps": 23,
+    "goals": 4,
+    "club": "Arsenal"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Ederson Moraes",
+    "age": 32,
+    "caps": 32,
+    "goals": 0,
+    "club": "Fenerbahçe"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Roger Ibañez",
+    "age": 27,
+    "caps": 7,
+    "goals": 0,
+    "club": "Al-Ahli"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Igor Thiago",
+    "age": 24,
+    "caps": 4,
+    "goals": 2,
+    "club": "Brentford"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Rayan",
+    "age": 19,
+    "caps": 2,
+    "goals": 1,
+    "club": "Bournemouth"
+   }
+  ]
+ },
+ {
+  "nation": "Haiti",
+  "group": "C",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Johny Placide",
+    "age": 38,
+    "caps": 81,
+    "goals": 0,
+    "club": "Bastia"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Carlens Arcus",
+    "age": 29,
+    "caps": 53,
+    "goals": 1,
+    "club": "Angers"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Keeto Thermoncy",
+    "age": 20,
+    "caps": 1,
+    "goals": 0,
+    "club": "Young Boys"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Ricardo Adé",
+    "age": 36,
+    "caps": 59,
+    "goals": 2,
+    "club": "LDU Quito"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Hannes Delcroix",
+    "age": 27,
+    "caps": 7,
+    "goals": 0,
+    "club": "Lugano"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Carl Sainté",
+    "age": 23,
+    "caps": 26,
+    "goals": 0,
+    "club": "El Paso Locomotive FC"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Derrick Etienne Jr.",
+    "age": 29,
+    "caps": 48,
+    "goals": 8,
+    "club": "Toronto FC"
+   },
+   {
+    "num": 8,
+    "pos": "DF",
+    "name": "Martin Expérience",
+    "age": 27,
+    "caps": 21,
+    "goals": 0,
+    "club": "Nancy"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Duckens Nazon",
+    "age": 32,
+    "caps": 78,
+    "goals": 44,
+    "club": "Esteghlal"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Jean-Ricner Bellegarde",
+    "age": 27,
+    "caps": 10,
+    "goals": 0,
+    "club": "Wolverhampton Wanderers"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Louicius Deedson",
+    "age": 25,
+    "caps": 32,
+    "goals": 10,
+    "club": "FC Dallas"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Alexandre Pierre",
+    "age": 25,
+    "caps": 15,
+    "goals": 0,
+    "club": "Sochaux"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Duke Lacroix",
+    "age": 32,
+    "caps": 16,
+    "goals": 3,
+    "club": "Colorado Springs Switchbacks FC"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Leverton Pierre",
+    "age": 28,
+    "caps": 33,
+    "goals": 0,
+    "club": "Vizela"
+   },
+   {
+    "num": 15,
+    "pos": "FW",
+    "name": "Ruben Providence",
+    "age": 24,
+    "caps": 15,
+    "goals": 3,
+    "club": "Almere City"
+   },
+   {
+    "num": 16,
+    "pos": "FW",
+    "name": "Lenny Joseph",
+    "age": 25,
+    "caps": 2,
+    "goals": 1,
+    "club": "Ferencváros"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Danley Jean Jacques",
+    "age": 26,
+    "caps": 30,
+    "goals": 6,
+    "club": "Philadelphia Union"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Wilson Isidor",
+    "age": 25,
+    "caps": 4,
+    "goals": 2,
+    "club": "Sunderland"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Yassin Fortuné",
+    "age": 27,
+    "caps": 4,
+    "goals": 0,
+    "club": "Vizela"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Frantzdy Pierrot",
+    "age": 31,
+    "caps": 51,
+    "goals": 34,
+    "club": "Çaykur Rizespor"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Josué Casimir",
+    "age": 24,
+    "caps": 7,
+    "goals": 0,
+    "club": "Auxerre"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Jean-Kévin Duverne",
+    "age": 28,
+    "caps": 17,
+    "goals": 1,
+    "club": "Gent"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Josué Duverger",
+    "age": 26,
+    "caps": 6,
+    "goals": 0,
+    "club": "Cosmos Koblenz"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Wilguens Paugain",
+    "age": 24,
+    "caps": 8,
+    "goals": 0,
+    "club": "Zulte Waregem"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Dominique Simon",
+    "age": 25,
+    "caps": 2,
+    "goals": 0,
+    "club": "Tatran Prešov"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Woodensky Pierre",
+    "age": 21,
+    "caps": 1,
+    "goals": 0,
+    "club": "Violette"
+   }
+  ]
+ },
+ {
+  "nation": "Morocco",
+  "group": "C",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Yassine Bounou",
+    "age": 35,
+    "caps": 90,
+    "goals": 0,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Achraf Hakimi",
+    "age": 27,
+    "caps": 96,
+    "goals": 11,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Noussair Mazraoui",
+    "age": 28,
+    "caps": 45,
+    "goals": 2,
+    "club": "Manchester United"
+   },
+   {
+    "num": 4,
+    "pos": "MF",
+    "name": "Sofyan Amrabat",
+    "age": 29,
+    "caps": 75,
+    "goals": 0,
+    "club": "Real Betis"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Nayef Aguerd",
+    "age": 30,
+    "caps": 64,
+    "goals": 2,
+    "club": "Marseille"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Ayyoub Bouaddi",
+    "age": 18,
+    "caps": 3,
+    "goals": 0,
+    "club": "Lille"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Chemsdine Talbi",
+    "age": 21,
+    "caps": 5,
+    "goals": 0,
+    "club": "Sunderland"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Azzedine Ounahi",
+    "age": 26,
+    "caps": 49,
+    "goals": 9,
+    "club": "Girona"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Soufiane Rahimi",
+    "age": 30,
+    "caps": 37,
+    "goals": 12,
+    "club": "Al Ain"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Brahim Díaz",
+    "age": 26,
+    "caps": 26,
+    "goals": 14,
+    "club": "Real Madrid"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Ismael Saibari",
+    "age": 25,
+    "caps": 31,
+    "goals": 9,
+    "club": "PSV Eindhoven"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Munir Mohamedi",
+    "age": 37,
+    "caps": 53,
+    "goals": 0,
+    "club": "RS Berkane"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Zakaria El Ouahdi",
+    "age": 24,
+    "caps": 3,
+    "goals": 0,
+    "club": "Genk"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Issa Diop",
+    "age": 29,
+    "caps": 4,
+    "goals": 0,
+    "club": "Fulham"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Samir El Mourabet",
+    "age": 20,
+    "caps": 4,
+    "goals": 0,
+    "club": "Strasbourg"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Gessime Yassine",
+    "age": 20,
+    "caps": 5,
+    "goals": 0,
+    "club": "Strasbourg"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Abde Ezzalzouli",
+    "age": 24,
+    "caps": 37,
+    "goals": 2,
+    "club": "Real Betis"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Chadi Riad",
+    "age": 22,
+    "caps": 6,
+    "goals": 1,
+    "club": "Crystal Palace"
+   },
+   {
+    "num": 19,
+    "pos": "DF",
+    "name": "Youssef Belammari",
+    "age": 27,
+    "caps": 19,
+    "goals": 0,
+    "club": "Al Ahly"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Ayoub El Kaabi",
+    "age": 32,
+    "caps": 71,
+    "goals": 35,
+    "club": "Olympiacos"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Ayoube Amaimouni",
+    "age": 21,
+    "caps": 2,
+    "goals": 0,
+    "club": "Eintracht Frankfurt"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Ahmed Reda Tagnaouti",
+    "age": 30,
+    "caps": 3,
+    "goals": 0,
+    "club": "AS FAR"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Bilal El Khannouss",
+    "age": 22,
+    "caps": 37,
+    "goals": 3,
+    "club": "VfB Stuttgart"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Neil El Aynaoui",
+    "age": 24,
+    "caps": 16,
+    "goals": 2,
+    "club": "Roma"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Redouane Halhal",
+    "age": 23,
+    "caps": 3,
+    "goals": 0,
+    "club": "Mechelen"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Anass Salah-Eddine",
+    "age": 24,
+    "caps": 9,
+    "goals": 0,
+    "club": "PSV Eindhoven"
+   }
+  ]
+ },
+ {
+  "nation": "Scotland",
+  "group": "C",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Angus Gunn",
+    "age": 30,
+    "caps": 22,
+    "goals": 0,
+    "club": "Nottingham Forest"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Aaron Hickey",
+    "age": 24,
+    "caps": 21,
+    "goals": 0,
+    "club": "Brentford"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Andy Robertson",
+    "age": 32,
+    "caps": 94,
+    "goals": 4,
+    "club": "Liverpool"
+   },
+   {
+    "num": 4,
+    "pos": "MF",
+    "name": "Scott McTominay",
+    "age": 29,
+    "caps": 70,
+    "goals": 15,
+    "club": "Napoli"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Grant Hanley",
+    "age": 34,
+    "caps": 68,
+    "goals": 2,
+    "club": "Hibernian"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Kieran Tierney",
+    "age": 29,
+    "caps": 56,
+    "goals": 2,
+    "club": "Celtic"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "John McGinn",
+    "age": 31,
+    "caps": 86,
+    "goals": 20,
+    "club": "Aston Villa"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Tyler Fletcher",
+    "age": 19,
+    "caps": 2,
+    "goals": 0,
+    "club": "Manchester United"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Lyndon Dykes",
+    "age": 30,
+    "caps": 51,
+    "goals": 10,
+    "club": "Charlton Athletic"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Ché Adams",
+    "age": 29,
+    "caps": 47,
+    "goals": 13,
+    "club": "Torino"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Ryan Christie",
+    "age": 31,
+    "caps": 68,
+    "goals": 10,
+    "club": "Bournemouth"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Liam Kelly",
+    "age": 30,
+    "caps": 3,
+    "goals": 0,
+    "club": "Rangers"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Jack Hendry",
+    "age": 31,
+    "caps": 38,
+    "goals": 3,
+    "club": "Al-Ettifaq"
+   },
+   {
+    "num": 14,
+    "pos": "FW",
+    "name": "Ross Stewart",
+    "age": 29,
+    "caps": 3,
+    "goals": 0,
+    "club": "Southampton"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "John Souttar",
+    "age": 29,
+    "caps": 24,
+    "goals": 2,
+    "club": "Rangers"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Dominic Hyam",
+    "age": 30,
+    "caps": 4,
+    "goals": 0,
+    "club": "Wrexham"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Ben Gannon-Doak",
+    "age": 20,
+    "caps": 14,
+    "goals": 1,
+    "club": "Bournemouth"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "George Hirst",
+    "age": 27,
+    "caps": 10,
+    "goals": 1,
+    "club": "Ipswich Town"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Lewis Ferguson",
+    "age": 26,
+    "caps": 24,
+    "goals": 1,
+    "club": "Bologna"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Lawrence Shankland",
+    "age": 30,
+    "caps": 20,
+    "goals": 7,
+    "club": "Heart of Midlothian"
+   },
+   {
+    "num": 21,
+    "pos": "GK",
+    "name": "Craig Gordon",
+    "age": 43,
+    "caps": 84,
+    "goals": 0,
+    "club": "Heart of Midlothian"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Nathan Patterson",
+    "age": 24,
+    "caps": 26,
+    "goals": 1,
+    "club": "Everton"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Kenny McLean",
+    "age": 34,
+    "caps": 58,
+    "goals": 3,
+    "club": "Norwich City"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Anthony Ralston",
+    "age": 27,
+    "caps": 27,
+    "goals": 1,
+    "club": "Celtic"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Findlay Curtis",
+    "age": 20,
+    "caps": 3,
+    "goals": 1,
+    "club": "Kilmarnock"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Scott McKenna",
+    "age": 29,
+    "caps": 50,
+    "goals": 1,
+    "club": "Dinamo Zagreb"
+   }
+  ]
+ },
+ {
+  "nation": "Australia",
+  "group": "D",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Mathew Ryan",
+    "age": 34,
+    "caps": 104,
+    "goals": 0,
+    "club": "Levante"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Miloš Degenek",
+    "age": 32,
+    "caps": 57,
+    "goals": 1,
+    "club": "APOEL"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Alessandro Circati",
+    "age": 22,
+    "caps": 13,
+    "goals": 1,
+    "club": "Parma"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Jacob Italiano",
+    "age": 24,
+    "caps": 5,
+    "goals": 0,
+    "club": "Grazer AK"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Jordan Bos",
+    "age": 23,
+    "caps": 27,
+    "goals": 4,
+    "club": "Feyenoord"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Jason Geria",
+    "age": 33,
+    "caps": 14,
+    "goals": 0,
+    "club": "Albirex Niigata"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Mathew Leckie",
+    "age": 35,
+    "caps": 80,
+    "goals": 14,
+    "club": "Melbourne City"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Connor Metcalfe",
+    "age": 26,
+    "caps": 36,
+    "goals": 1,
+    "club": "FC St. Pauli"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Mohamed Touré",
+    "age": 22,
+    "caps": 10,
+    "goals": 2,
+    "club": "Norwich City"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Ajdin Hrustic",
+    "age": 29,
+    "caps": 37,
+    "goals": 4,
+    "club": "Heracles Almelo"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Awer Mabil",
+    "age": 30,
+    "caps": 38,
+    "goals": 10,
+    "club": "Castellón"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Paul Izzo",
+    "age": 31,
+    "caps": 4,
+    "goals": 0,
+    "club": "Randers"
+   },
+   {
+    "num": 13,
+    "pos": "MF",
+    "name": "Aiden O'Neill",
+    "age": 27,
+    "caps": 31,
+    "goals": 0,
+    "club": "New York City FC"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Cammy Devlin",
+    "age": 28,
+    "caps": 5,
+    "goals": 0,
+    "club": "Heart of Midlothian"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Kai Trewin",
+    "age": 25,
+    "caps": 6,
+    "goals": 0,
+    "club": "New York City FC"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Aziz Behich",
+    "age": 35,
+    "caps": 84,
+    "goals": 3,
+    "club": "Melbourne City"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Nestory Irankunda",
+    "age": 20,
+    "caps": 15,
+    "goals": 5,
+    "club": "Watford"
+   },
+   {
+    "num": 18,
+    "pos": "GK",
+    "name": "Patrick Beach",
+    "age": 22,
+    "caps": 2,
+    "goals": 0,
+    "club": "Melbourne City"
+   },
+   {
+    "num": 19,
+    "pos": "DF",
+    "name": "Harry Souttar",
+    "age": 27,
+    "caps": 38,
+    "goals": 11,
+    "club": "Leicester City"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Cristian Volpato",
+    "age": 22,
+    "caps": 1,
+    "goals": 0,
+    "club": "Sassuolo"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "Cameron Burgess",
+    "age": 30,
+    "caps": 27,
+    "goals": 0,
+    "club": "Swansea City"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Jackson Irvine",
+    "age": 33,
+    "caps": 82,
+    "goals": 14,
+    "club": "FC St. Pauli"
+   },
+   {
+    "num": 23,
+    "pos": "FW",
+    "name": "Nishan Velupillay",
+    "age": 25,
+    "caps": 7,
+    "goals": 3,
+    "club": "Melbourne Victory"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Paul Okon-Engstler",
+    "age": 21,
+    "caps": 6,
+    "goals": 0,
+    "club": "Sydney FC"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Lucas Herrington",
+    "age": 18,
+    "caps": 4,
+    "goals": 0,
+    "club": "Colorado Rapids"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Tete Yengi",
+    "age": 25,
+    "caps": 1,
+    "goals": 1,
+    "club": "Machida Zelvia"
+   }
+  ]
+ },
+ {
+  "nation": "Paraguay",
+  "group": "D",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Gatito Fernández",
+    "age": 38,
+    "caps": 31,
+    "goals": 0,
+    "club": "Cerro Porteño"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Gustavo Velázquez",
+    "age": 35,
+    "caps": 13,
+    "goals": 1,
+    "club": "Cerro Porteño"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Omar Alderete",
+    "age": 29,
+    "caps": 36,
+    "goals": 3,
+    "club": "Sunderland"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Juan José Cáceres",
+    "age": 26,
+    "caps": 17,
+    "goals": 0,
+    "club": "Dynamo Moscow"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Fabián Balbuena",
+    "age": 34,
+    "caps": 48,
+    "goals": 2,
+    "club": "Grêmio"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Júnior Alonso",
+    "age": 33,
+    "caps": 71,
+    "goals": 3,
+    "club": "Atlético Mineiro"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Ramón Sosa",
+    "age": 26,
+    "caps": 29,
+    "goals": 1,
+    "club": "Palmeiras"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Diego Gómez",
+    "age": 23,
+    "caps": 24,
+    "goals": 3,
+    "club": "Brighton & Hove Albion"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Antonio Sanabria",
+    "age": 30,
+    "caps": 48,
+    "goals": 7,
+    "club": "Cremonese"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Miguel Almirón",
+    "age": 32,
+    "caps": 76,
+    "goals": 10,
+    "club": "Atlanta United FC"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Maurício",
+    "age": 24,
+    "caps": 3,
+    "goals": 0,
+    "club": "Palmeiras"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Orlando Gill",
+    "age": 25,
+    "caps": 6,
+    "goals": 0,
+    "club": "San Lorenzo"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "José Canale",
+    "age": 29,
+    "caps": 2,
+    "goals": 0,
+    "club": "Lanús"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Andrés Cubas",
+    "age": 30,
+    "caps": 33,
+    "goals": 0,
+    "club": "Vancouver Whitecaps FC"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Gustavo Gómez",
+    "age": 33,
+    "caps": 89,
+    "goals": 4,
+    "club": "Palmeiras"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Damián Bobadilla",
+    "age": 24,
+    "caps": 19,
+    "goals": 1,
+    "club": "São Paulo"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Kaku",
+    "age": 31,
+    "caps": 33,
+    "goals": 6,
+    "club": "Al Ain"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Álex Arce",
+    "age": 30,
+    "caps": 15,
+    "goals": 1,
+    "club": "Independiente Rivadavia"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Julio Enciso",
+    "age": 22,
+    "caps": 32,
+    "goals": 4,
+    "club": "Strasbourg"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Braian Ojeda",
+    "age": 25,
+    "caps": 17,
+    "goals": 0,
+    "club": "Orlando City SC"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Gabriel Ávalos",
+    "age": 35,
+    "caps": 23,
+    "goals": 2,
+    "club": "Independiente"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Gastón Olveira",
+    "age": 33,
+    "caps": 1,
+    "goals": 0,
+    "club": "Olimpia"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Matías Galarza",
+    "age": 24,
+    "caps": 15,
+    "goals": 3,
+    "club": "Atlanta United FC"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Gustavo Caballero",
+    "age": 24,
+    "caps": 2,
+    "goals": 1,
+    "club": "Portsmouth"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Isidro Pitta",
+    "age": 26,
+    "caps": 5,
+    "goals": 0,
+    "club": "Red Bull Bragantino"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Alexandro Maidana",
+    "age": 20,
+    "caps": 2,
+    "goals": 1,
+    "club": "Talleres"
+   }
+  ]
+ },
+ {
+  "nation": "Turkey",
+  "group": "D",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Mert Günok",
+    "age": 37,
+    "caps": 37,
+    "goals": 0,
+    "club": "Fenerbahçe"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Zeki Çelik",
+    "age": 29,
+    "caps": 61,
+    "goals": 3,
+    "club": "Roma"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Merih Demiral",
+    "age": 28,
+    "caps": 62,
+    "goals": 6,
+    "club": "Al-Ahli"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Çağlar Söyüncü",
+    "age": 30,
+    "caps": 60,
+    "goals": 2,
+    "club": "Fenerbahçe"
+   },
+   {
+    "num": 5,
+    "pos": "MF",
+    "name": "Salih Özcan",
+    "age": 28,
+    "caps": 30,
+    "goals": 1,
+    "club": "Borussia Dortmund"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Orkun Kökçü",
+    "age": 25,
+    "caps": 50,
+    "goals": 4,
+    "club": "Beşiktaş"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Kerem Aktürkoğlu",
+    "age": 27,
+    "caps": 52,
+    "goals": 15,
+    "club": "Fenerbahçe"
+   },
+   {
+    "num": 8,
+    "pos": "FW",
+    "name": "Arda Güler",
+    "age": 21,
+    "caps": 29,
+    "goals": 6,
+    "club": "Real Madrid"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Deniz Gül",
+    "age": 21,
+    "caps": 8,
+    "goals": 2,
+    "club": "Porto"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Hakan Çalhanoğlu",
+    "age": 32,
+    "caps": 105,
+    "goals": 22,
+    "club": "Inter Milan"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Kenan Yıldız",
+    "age": 21,
+    "caps": 28,
+    "goals": 5,
+    "club": "Juventus"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Altay Bayındır",
+    "age": 28,
+    "caps": 12,
+    "goals": 0,
+    "club": "Manchester United"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Eren Elmalı",
+    "age": 25,
+    "caps": 23,
+    "goals": 0,
+    "club": "Galatasaray"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Abdülkerim Bardakcı",
+    "age": 31,
+    "caps": 27,
+    "goals": 2,
+    "club": "Galatasaray"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Ozan Kabak",
+    "age": 26,
+    "caps": 30,
+    "goals": 2,
+    "club": "TSG Hoffenheim"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "İsmail Yüksek",
+    "age": 27,
+    "caps": 32,
+    "goals": 1,
+    "club": "Fenerbahçe"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "İrfan Can Kahveci",
+    "age": 30,
+    "caps": 47,
+    "goals": 6,
+    "club": "Kasımpaşa"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Mert Müldür",
+    "age": 27,
+    "caps": 45,
+    "goals": 3,
+    "club": "Fenerbahçe"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Yunus Akgün",
+    "age": 25,
+    "caps": 19,
+    "goals": 4,
+    "club": "Galatasaray"
+   },
+   {
+    "num": 20,
+    "pos": "DF",
+    "name": "Ferdi Kadıoğlu",
+    "age": 26,
+    "caps": 30,
+    "goals": 2,
+    "club": "Brighton & Hove Albion"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Barış Alper Yılmaz",
+    "age": 26,
+    "caps": 35,
+    "goals": 4,
+    "club": "Galatasaray"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Kaan Ayhan",
+    "age": 31,
+    "caps": 73,
+    "goals": 5,
+    "club": "Galatasaray"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Uğurcan Çakır",
+    "age": 30,
+    "caps": 39,
+    "goals": 0,
+    "club": "Galatasaray"
+   },
+   {
+    "num": 24,
+    "pos": "FW",
+    "name": "Oğuz Aydın",
+    "age": 25,
+    "caps": 11,
+    "goals": 0,
+    "club": "Fenerbahçe"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Samet Akaydin",
+    "age": 32,
+    "caps": 19,
+    "goals": 1,
+    "club": "Çaykur Rizespor"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Can Uzun",
+    "age": 20,
+    "caps": 6,
+    "goals": 1,
+    "club": "Eintracht Frankfurt"
+   }
+  ]
+ },
+ {
+  "nation": "United States",
+  "group": "D",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Matt Turner",
+    "age": 31,
+    "caps": 54,
+    "goals": 0,
+    "club": "New England Revolution"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Sergiño Dest",
+    "age": 25,
+    "caps": 39,
+    "goals": 3,
+    "club": "PSV Eindhoven"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Chris Richards",
+    "age": 26,
+    "caps": 36,
+    "goals": 3,
+    "club": "Crystal Palace"
+   },
+   {
+    "num": 4,
+    "pos": "MF",
+    "name": "Tyler Adams",
+    "age": 27,
+    "caps": 54,
+    "goals": 2,
+    "club": "Bournemouth"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Antonee Robinson",
+    "age": 28,
+    "caps": 54,
+    "goals": 5,
+    "club": "Fulham"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Auston Trusty",
+    "age": 27,
+    "caps": 8,
+    "goals": 0,
+    "club": "Celtic"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Giovanni Reyna",
+    "age": 23,
+    "caps": 38,
+    "goals": 9,
+    "club": "Borussia Mönchengladbach"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Weston McKennie",
+    "age": 27,
+    "caps": 66,
+    "goals": 12,
+    "club": "Juventus"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Ricardo Pepi",
+    "age": 23,
+    "caps": 37,
+    "goals": 13,
+    "club": "PSV Eindhoven"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Christian Pulisic",
+    "age": 27,
+    "caps": 86,
+    "goals": 33,
+    "club": "Milan"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Brenden Aaronson",
+    "age": 25,
+    "caps": 58,
+    "goals": 9,
+    "club": "Leeds United"
+   },
+   {
+    "num": 12,
+    "pos": "DF",
+    "name": "Miles Robinson",
+    "age": 29,
+    "caps": 40,
+    "goals": 3,
+    "club": "FC Cincinnati"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Tim Ream",
+    "age": 38,
+    "caps": 82,
+    "goals": 1,
+    "club": "Charlotte FC"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Sebastian Berhalter",
+    "age": 25,
+    "caps": 13,
+    "goals": 1,
+    "club": "Vancouver Whitecaps FC"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Cristian Roldan",
+    "age": 31,
+    "caps": 47,
+    "goals": 0,
+    "club": "Seattle Sounders FC"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Alex Freeman",
+    "age": 21,
+    "caps": 17,
+    "goals": 2,
+    "club": "Villarreal"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Malik Tillman",
+    "age": 24,
+    "caps": 30,
+    "goals": 3,
+    "club": "Bayer Leverkusen"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Max Arfsten",
+    "age": 25,
+    "caps": 20,
+    "goals": 1,
+    "club": "Columbus Crew"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Haji Wright",
+    "age": 28,
+    "caps": 20,
+    "goals": 7,
+    "club": "Coventry City"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Folarin Balogun",
+    "age": 24,
+    "caps": 27,
+    "goals": 9,
+    "club": "Monaco"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Timothy Weah",
+    "age": 26,
+    "caps": 51,
+    "goals": 7,
+    "club": "Marseille"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Mark McKenzie",
+    "age": 27,
+    "caps": 29,
+    "goals": 0,
+    "club": "Toulouse"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Joe Scally",
+    "age": 23,
+    "caps": 26,
+    "goals": 0,
+    "club": "Borussia Mönchengladbach"
+   },
+   {
+    "num": 24,
+    "pos": "GK",
+    "name": "Matt Freese",
+    "age": 27,
+    "caps": 15,
+    "goals": 0,
+    "club": "New York City FC"
+   },
+   {
+    "num": 25,
+    "pos": "GK",
+    "name": "Chris Brady",
+    "age": 22,
+    "caps": 1,
+    "goals": 0,
+    "club": "Chicago Fire FC"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Alejandro Zendejas",
+    "age": 28,
+    "caps": 14,
+    "goals": 2,
+    "club": "América"
+   }
+  ]
+ },
+ {
+  "nation": "Curaçao",
+  "group": "E",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Eloy Room",
+    "age": 37,
+    "caps": 71,
+    "goals": 0,
+    "club": "Miami FC"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Shurandy Sambo",
+    "age": 24,
+    "caps": 8,
+    "goals": 0,
+    "club": "Sparta Rotterdam"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Juriën Gaari",
+    "age": 32,
+    "caps": 60,
+    "goals": 1,
+    "club": "Abha"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Roshon van Eijma",
+    "age": 28,
+    "caps": 28,
+    "goals": 1,
+    "club": "RKC Waalwijk"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Sherel Floranus",
+    "age": 27,
+    "caps": 28,
+    "goals": 0,
+    "club": "PEC Zwolle"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Godfried Roemeratoe",
+    "age": 26,
+    "caps": 28,
+    "goals": 1,
+    "club": "RKC Waalwijk"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Juninho Bacuna",
+    "age": 28,
+    "caps": 49,
+    "goals": 15,
+    "club": "Volendam"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Livano Comenencia",
+    "age": 22,
+    "caps": 20,
+    "goals": 2,
+    "club": "Zürich"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Jürgen Locadia",
+    "age": 32,
+    "caps": 13,
+    "goals": 1,
+    "club": "Miami FC"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Leandro Bacuna",
+    "age": 34,
+    "caps": 72,
+    "goals": 16,
+    "club": "Iğdır"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Jeremy Antonisse",
+    "age": 24,
+    "caps": 27,
+    "goals": 4,
+    "club": "Kifisia"
+   },
+   {
+    "num": 12,
+    "pos": "FW",
+    "name": "Sontje Hansen",
+    "age": 24,
+    "caps": 6,
+    "goals": 1,
+    "club": "Middlesbrough"
+   },
+   {
+    "num": 13,
+    "pos": "FW",
+    "name": "Tyrese Noslin",
+    "age": 23,
+    "caps": 7,
+    "goals": 1,
+    "club": "Telstar"
+   },
+   {
+    "num": 14,
+    "pos": "FW",
+    "name": "Kenji Gorré",
+    "age": 31,
+    "caps": 38,
+    "goals": 6,
+    "club": "Maccabi Haifa"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Ar'jany Martha",
+    "age": 22,
+    "caps": 9,
+    "goals": 2,
+    "club": "Rotherham United"
+   },
+   {
+    "num": 16,
+    "pos": "FW",
+    "name": "Jearl Margaritha",
+    "age": 26,
+    "caps": 22,
+    "goals": 5,
+    "club": "Beveren"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Brandley Kuwas",
+    "age": 33,
+    "caps": 35,
+    "goals": 2,
+    "club": "Volendam"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Armando Obispo",
+    "age": 27,
+    "caps": 6,
+    "goals": 0,
+    "club": "PSV Eindhoven"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Gervane Kastaneer",
+    "age": 30,
+    "caps": 29,
+    "goals": 9,
+    "club": "Terengganu"
+   },
+   {
+    "num": 20,
+    "pos": "DF",
+    "name": "Joshua Brenet",
+    "age": 32,
+    "caps": 18,
+    "goals": 2,
+    "club": "Kayserispor"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Tahith Chong",
+    "age": 26,
+    "caps": 6,
+    "goals": 3,
+    "club": "Sheffield United"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Kevin Felida",
+    "age": 26,
+    "caps": 19,
+    "goals": 1,
+    "club": "Den Bosch"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Riechedly Bazoer",
+    "age": 29,
+    "caps": 5,
+    "goals": 0,
+    "club": "Konyaspor"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Deveron Fonville",
+    "age": 23,
+    "caps": 2,
+    "goals": 0,
+    "club": "NEC"
+   },
+   {
+    "num": 25,
+    "pos": "GK",
+    "name": "Tyrick Bodak",
+    "age": 24,
+    "caps": 4,
+    "goals": 0,
+    "club": "Telstar"
+   },
+   {
+    "num": 26,
+    "pos": "GK",
+    "name": "Trevor Doornbusch",
+    "age": 26,
+    "caps": 8,
+    "goals": 0,
+    "club": "VVV-Venlo"
+   }
+  ]
+ },
+ {
+  "nation": "Ecuador",
+  "group": "E",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Hernán Galíndez",
+    "age": 39,
+    "caps": 35,
+    "goals": 0,
+    "club": "Huracán"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Félix Torres",
+    "age": 29,
+    "caps": 49,
+    "goals": 5,
+    "club": "Internacional"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Piero Hincapié",
+    "age": 24,
+    "caps": 52,
+    "goals": 3,
+    "club": "Arsenal"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Joel Ordóñez",
+    "age": 22,
+    "caps": 17,
+    "goals": 0,
+    "club": "Club Brugge"
+   },
+   {
+    "num": 5,
+    "pos": "MF",
+    "name": "Jordy Alcívar",
+    "age": 26,
+    "caps": 11,
+    "goals": 1,
+    "club": "Independiente del Valle"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Willian Pacho",
+    "age": 24,
+    "caps": 34,
+    "goals": 2,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 7,
+    "pos": "DF",
+    "name": "Pervis Estupiñán",
+    "age": 28,
+    "caps": 54,
+    "goals": 5,
+    "club": "Milan"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Anthony Valencia",
+    "age": 22,
+    "caps": 3,
+    "goals": 1,
+    "club": "Antwerp"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "John Yeboah",
+    "age": 25,
+    "caps": 23,
+    "goals": 3,
+    "club": "Venezia"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Kendry Páez",
+    "age": 19,
+    "caps": 26,
+    "goals": 2,
+    "club": "River Plate"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Kevin Rodríguez",
+    "age": 26,
+    "caps": 31,
+    "goals": 2,
+    "club": "Union Saint-Gilloise"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Moisés Ramírez",
+    "age": 25,
+    "caps": 7,
+    "goals": 0,
+    "club": "Kifisia"
+   },
+   {
+    "num": 13,
+    "pos": "FW",
+    "name": "Enner Valencia",
+    "age": 36,
+    "caps": 105,
+    "goals": 49,
+    "club": "Pachuca"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Alan Minda",
+    "age": 23,
+    "caps": 20,
+    "goals": 2,
+    "club": "Atlético Mineiro"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Pedro Vite",
+    "age": 24,
+    "caps": 17,
+    "goals": 1,
+    "club": "UNAM"
+   },
+   {
+    "num": 16,
+    "pos": "FW",
+    "name": "Jordy Caicedo",
+    "age": 28,
+    "caps": 20,
+    "goals": 4,
+    "club": "Huracán"
+   },
+   {
+    "num": 17,
+    "pos": "DF",
+    "name": "Ángelo Preciado",
+    "age": 28,
+    "caps": 55,
+    "goals": 0,
+    "club": "Atlético Mineiro"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Denil Castillo",
+    "age": 22,
+    "caps": 5,
+    "goals": 0,
+    "club": "Midtjylland"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Gonzalo Plata",
+    "age": 25,
+    "caps": 50,
+    "goals": 8,
+    "club": "Flamengo"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Nilson Angulo",
+    "age": 22,
+    "caps": 14,
+    "goals": 2,
+    "club": "Sunderland"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Alan Franco",
+    "age": 27,
+    "caps": 58,
+    "goals": 1,
+    "club": "Atlético Mineiro"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Gonzalo Valle",
+    "age": 30,
+    "caps": 4,
+    "goals": 0,
+    "club": "LDU Quito"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Moisés Caicedo",
+    "age": 24,
+    "caps": 61,
+    "goals": 3,
+    "club": "Chelsea"
+   },
+   {
+    "num": 24,
+    "pos": "FW",
+    "name": "Jeremy Arévalo",
+    "age": 21,
+    "caps": 4,
+    "goals": 0,
+    "club": "VfB Stuttgart"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Jackson Porozo",
+    "age": 25,
+    "caps": 10,
+    "goals": 1,
+    "club": "Tijuana"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Yaimar Medina",
+    "age": 21,
+    "caps": 6,
+    "goals": 0,
+    "club": "Genk"
+   }
+  ]
+ },
+ {
+  "nation": "Germany",
+  "group": "E",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Manuel Neuer",
+    "age": 40,
+    "caps": 124,
+    "goals": 0,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Antonio Rüdiger",
+    "age": 33,
+    "caps": 82,
+    "goals": 3,
+    "club": "Real Madrid"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Waldemar Anton",
+    "age": 29,
+    "caps": 13,
+    "goals": 0,
+    "club": "Borussia Dortmund"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Jonathan Tah",
+    "age": 30,
+    "caps": 47,
+    "goals": 1,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 5,
+    "pos": "MF",
+    "name": "Aleksandar Pavlović",
+    "age": 22,
+    "caps": 11,
+    "goals": 1,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Joshua Kimmich",
+    "age": 31,
+    "caps": 110,
+    "goals": 10,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Kai Havertz",
+    "age": 27,
+    "caps": 58,
+    "goals": 22,
+    "club": "Arsenal"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Leon Goretzka",
+    "age": 31,
+    "caps": 70,
+    "goals": 15,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 9,
+    "pos": "MF",
+    "name": "Jamie Leweling",
+    "age": 25,
+    "caps": 5,
+    "goals": 1,
+    "club": "VfB Stuttgart"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Jamal Musiala",
+    "age": 23,
+    "caps": 42,
+    "goals": 9,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Nick Woltemade",
+    "age": 24,
+    "caps": 11,
+    "goals": 4,
+    "club": "Newcastle United"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Oliver Baumann",
+    "age": 36,
+    "caps": 13,
+    "goals": 0,
+    "club": "TSG Hoffenheim"
+   },
+   {
+    "num": 13,
+    "pos": "MF",
+    "name": "Pascal Groß",
+    "age": 34,
+    "caps": 18,
+    "goals": 1,
+    "club": "Brighton & Hove Albion"
+   },
+   {
+    "num": 14,
+    "pos": "FW",
+    "name": "Maximilian Beier",
+    "age": 23,
+    "caps": 9,
+    "goals": 0,
+    "club": "Borussia Dortmund"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Nico Schlotterbeck",
+    "age": 26,
+    "caps": 27,
+    "goals": 0,
+    "club": "Borussia Dortmund"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Angelo Stiller",
+    "age": 25,
+    "caps": 8,
+    "goals": 0,
+    "club": "VfB Stuttgart"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Florian Wirtz",
+    "age": 23,
+    "caps": 41,
+    "goals": 11,
+    "club": "Liverpool"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Nathaniel Brown",
+    "age": 22,
+    "caps": 5,
+    "goals": 0,
+    "club": "Eintracht Frankfurt"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Leroy Sané",
+    "age": 30,
+    "caps": 76,
+    "goals": 17,
+    "club": "Galatasaray"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Nadiem Amiri",
+    "age": 29,
+    "caps": 11,
+    "goals": 1,
+    "club": "Mainz 05"
+   },
+   {
+    "num": 21,
+    "pos": "GK",
+    "name": "Alexander Nübel",
+    "age": 29,
+    "caps": 3,
+    "goals": 0,
+    "club": "VfB Stuttgart"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "David Raum",
+    "age": 28,
+    "caps": 37,
+    "goals": 1,
+    "club": "RB Leipzig"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Felix Nmecha",
+    "age": 25,
+    "caps": 8,
+    "goals": 1,
+    "club": "Borussia Dortmund"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Malick Thiaw",
+    "age": 24,
+    "caps": 5,
+    "goals": 0,
+    "club": "Newcastle United"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Assan Ouédraogo",
+    "age": 20,
+    "caps": 1,
+    "goals": 1,
+    "club": "RB Leipzig"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Deniz Undav",
+    "age": 29,
+    "caps": 9,
+    "goals": 6,
+    "club": "VfB Stuttgart"
+   }
+  ]
+ },
+ {
+  "nation": "Ivory Coast",
+  "group": "E",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Yahia Fofana",
+    "age": 25,
+    "caps": 35,
+    "goals": 0,
+    "club": "Çaykur Rizespor"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Ousmane Diomande",
+    "age": 22,
+    "caps": 15,
+    "goals": 1,
+    "club": "Sporting CP"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Ghislain Konan",
+    "age": 30,
+    "caps": 54,
+    "goals": 0,
+    "club": "Gil Vicente"
+   },
+   {
+    "num": 4,
+    "pos": "MF",
+    "name": "Jean Michaël Seri",
+    "age": 34,
+    "caps": 65,
+    "goals": 4,
+    "club": "Maribor"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Wilfried Singo",
+    "age": 25,
+    "caps": 34,
+    "goals": 1,
+    "club": "Galatasaray"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Seko Fofana",
+    "age": 31,
+    "caps": 32,
+    "goals": 7,
+    "club": "Porto"
+   },
+   {
+    "num": 7,
+    "pos": "DF",
+    "name": "Odilon Kossounou",
+    "age": 25,
+    "caps": 35,
+    "goals": 0,
+    "club": "Atalanta"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Franck Kessié",
+    "age": 29,
+    "caps": 103,
+    "goals": 15,
+    "club": "Al-Ahli"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Ange-Yoan Bonny",
+    "age": 22,
+    "caps": 1,
+    "goals": 0,
+    "club": "Inter Milan"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Simon Adingra",
+    "age": 24,
+    "caps": 29,
+    "goals": 5,
+    "club": "Monaco"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Yan Diomande",
+    "age": 19,
+    "caps": 10,
+    "goals": 3,
+    "club": "RB Leipzig"
+   },
+   {
+    "num": 12,
+    "pos": "FW",
+    "name": "Elye Wahi",
+    "age": 23,
+    "caps": 2,
+    "goals": 0,
+    "club": "Nice"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Christopher Opéri",
+    "age": 29,
+    "caps": 12,
+    "goals": 0,
+    "club": "İstanbul Başakşehir"
+   },
+   {
+    "num": 14,
+    "pos": "FW",
+    "name": "Oumar Diakité",
+    "age": 22,
+    "caps": 29,
+    "goals": 6,
+    "club": "Cercle Brugge"
+   },
+   {
+    "num": 15,
+    "pos": "FW",
+    "name": "Amad Diallo",
+    "age": 23,
+    "caps": 19,
+    "goals": 6,
+    "club": "Manchester United"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "Mohamed Koné",
+    "age": 24,
+    "caps": 0,
+    "goals": 0,
+    "club": "Charleroi"
+   },
+   {
+    "num": 17,
+    "pos": "DF",
+    "name": "Guéla Doué",
+    "age": 23,
+    "caps": 20,
+    "goals": 3,
+    "club": "Strasbourg"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Ibrahim Sangaré",
+    "age": 28,
+    "caps": 58,
+    "goals": 12,
+    "club": "Nottingham Forest"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Nicolas Pépé",
+    "age": 31,
+    "caps": 55,
+    "goals": 12,
+    "club": "Villarreal"
+   },
+   {
+    "num": 20,
+    "pos": "DF",
+    "name": "Emmanuel Agbadou",
+    "age": 28,
+    "caps": 20,
+    "goals": 2,
+    "club": "Beşiktaş"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "Evan Ndicka",
+    "age": 26,
+    "caps": 28,
+    "goals": 0,
+    "club": "Roma"
+   },
+   {
+    "num": 22,
+    "pos": "FW",
+    "name": "Evann Guessand",
+    "age": 24,
+    "caps": 21,
+    "goals": 4,
+    "club": "Crystal Palace"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Alban Lafont",
+    "age": 27,
+    "caps": 4,
+    "goals": 0,
+    "club": "Panathinaikos"
+   },
+   {
+    "num": 24,
+    "pos": "FW",
+    "name": "Bazoumana Touré",
+    "age": 20,
+    "caps": 6,
+    "goals": 2,
+    "club": "TSG Hoffenheim"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Parfait Guiagon",
+    "age": 25,
+    "caps": 5,
+    "goals": 0,
+    "club": "Charleroi"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Christ Inao Oulaï",
+    "age": 20,
+    "caps": 9,
+    "goals": 0,
+    "club": "Trabzonspor"
+   }
+  ]
+ },
+ {
+  "nation": "Japan",
+  "group": "F",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Zion Suzuki",
+    "age": 23,
+    "caps": 24,
+    "goals": 0,
+    "club": "Parma"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Yukinari Sugawara",
+    "age": 25,
+    "caps": 21,
+    "goals": 2,
+    "club": "Werder Bremen"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Shōgo Taniguchi",
+    "age": 34,
+    "caps": 38,
+    "goals": 1,
+    "club": "Sint-Truiden"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Kō Itakura",
+    "age": 29,
+    "caps": 40,
+    "goals": 2,
+    "club": "Ajax"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Yūto Nagatomo",
+    "age": 39,
+    "caps": 145,
+    "goals": 4,
+    "club": "FC Tokyo"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Wataru Endo",
+    "age": 33,
+    "caps": 73,
+    "goals": 4,
+    "club": "Liverpool"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Ao Tanaka",
+    "age": 27,
+    "caps": 38,
+    "goals": 8,
+    "club": "Leeds United"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Takefusa Kubo",
+    "age": 25,
+    "caps": 49,
+    "goals": 7,
+    "club": "Real Sociedad"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Keisuke Gotō",
+    "age": 21,
+    "caps": 4,
+    "goals": 0,
+    "club": "Sint-Truiden"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Ritsu Dōan",
+    "age": 27,
+    "caps": 65,
+    "goals": 11,
+    "club": "Eintracht Frankfurt"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Daizen Maeda",
+    "age": 28,
+    "caps": 27,
+    "goals": 4,
+    "club": "Celtic"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Keisuke Ōsako",
+    "age": 26,
+    "caps": 11,
+    "goals": 0,
+    "club": "Sanfrecce Hiroshima"
+   },
+   {
+    "num": 13,
+    "pos": "MF",
+    "name": "Keito Nakamura",
+    "age": 25,
+    "caps": 25,
+    "goals": 10,
+    "club": "Reims"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Junya Itō",
+    "age": 33,
+    "caps": 69,
+    "goals": 15,
+    "club": "Genk"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Daichi Kamada",
+    "age": 29,
+    "caps": 49,
+    "goals": 12,
+    "club": "Crystal Palace"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Tsuyoshi Watanabe",
+    "age": 29,
+    "caps": 11,
+    "goals": 0,
+    "club": "Feyenoord"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Yuito Suzuki",
+    "age": 24,
+    "caps": 6,
+    "goals": 0,
+    "club": "SC Freiburg"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Ayase Ueda",
+    "age": 27,
+    "caps": 39,
+    "goals": 16,
+    "club": "Feyenoord"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Kōki Ogawa",
+    "age": 28,
+    "caps": 15,
+    "goals": 11,
+    "club": "NEC"
+   },
+   {
+    "num": 20,
+    "pos": "DF",
+    "name": "Ayumu Seko",
+    "age": 26,
+    "caps": 14,
+    "goals": 0,
+    "club": "Le Havre"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "Hiroki Itō",
+    "age": 27,
+    "caps": 24,
+    "goals": 1,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Takehiro Tomiyasu",
+    "age": 27,
+    "caps": 43,
+    "goals": 1,
+    "club": "Ajax"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Tomoki Hayakawa",
+    "age": 27,
+    "caps": 4,
+    "goals": 0,
+    "club": "Kashima Antlers"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Kaishū Sano",
+    "age": 25,
+    "caps": 13,
+    "goals": 0,
+    "club": "Mainz 05"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Junnosuke Suzuki",
+    "age": 22,
+    "caps": 6,
+    "goals": 0,
+    "club": "Copenhagen"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Kento Shiogai",
+    "age": 21,
+    "caps": 2,
+    "goals": 0,
+    "club": "VfL Wolfsburg"
+   }
+  ]
+ },
+ {
+  "nation": "Netherlands",
+  "group": "F",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Bart Verbruggen",
+    "age": 23,
+    "caps": 29,
+    "goals": 0,
+    "club": "Brighton & Hove Albion"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Lutsharel Geertruida",
+    "age": 25,
+    "caps": 21,
+    "goals": 0,
+    "club": "Sunderland"
+   },
+   {
+    "num": 3,
+    "pos": "MF",
+    "name": "Marten de Roon",
+    "age": 35,
+    "caps": 43,
+    "goals": 1,
+    "club": "Atalanta"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Virgil van Dijk",
+    "age": 34,
+    "caps": 92,
+    "goals": 12,
+    "club": "Liverpool"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Nathan Aké",
+    "age": 31,
+    "caps": 59,
+    "goals": 5,
+    "club": "Manchester City"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Jan Paul van Hecke",
+    "age": 26,
+    "caps": 12,
+    "goals": 0,
+    "club": "Brighton & Hove Albion"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Justin Kluivert",
+    "age": 27,
+    "caps": 12,
+    "goals": 0,
+    "club": "Bournemouth"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Ryan Gravenberch",
+    "age": 24,
+    "caps": 27,
+    "goals": 1,
+    "club": "Liverpool"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Wout Weghorst",
+    "age": 33,
+    "caps": 52,
+    "goals": 14,
+    "club": "Ajax"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Memphis Depay",
+    "age": 32,
+    "caps": 109,
+    "goals": 55,
+    "club": "Corinthians"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Cody Gakpo",
+    "age": 27,
+    "caps": 50,
+    "goals": 21,
+    "club": "Liverpool"
+   },
+   {
+    "num": 12,
+    "pos": "DF",
+    "name": "Mats Wieffer",
+    "age": 26,
+    "caps": 15,
+    "goals": 1,
+    "club": "Brighton & Hove Albion"
+   },
+   {
+    "num": 13,
+    "pos": "GK",
+    "name": "Robin Roefs",
+    "age": 23,
+    "caps": 1,
+    "goals": 0,
+    "club": "Sunderland"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Tijjani Reijnders",
+    "age": 27,
+    "caps": 32,
+    "goals": 7,
+    "club": "Manchester City"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Micky van de Ven",
+    "age": 25,
+    "caps": 21,
+    "goals": 1,
+    "club": "Tottenham Hotspur"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Guus Til",
+    "age": 28,
+    "caps": 7,
+    "goals": 1,
+    "club": "PSV Eindhoven"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Noa Lang",
+    "age": 26,
+    "caps": 15,
+    "goals": 3,
+    "club": "Galatasaray"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Donyell Malen",
+    "age": 27,
+    "caps": 53,
+    "goals": 13,
+    "club": "Roma"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Brian Brobbey",
+    "age": 24,
+    "caps": 12,
+    "goals": 1,
+    "club": "Sunderland"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Teun Koopmeiners",
+    "age": 28,
+    "caps": 28,
+    "goals": 3,
+    "club": "Juventus"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Frenkie de Jong",
+    "age": 29,
+    "caps": 66,
+    "goals": 2,
+    "club": "Barcelona"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Denzel Dumfries",
+    "age": 30,
+    "caps": 72,
+    "goals": 11,
+    "club": "Inter Milan"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Mark Flekken",
+    "age": 32,
+    "caps": 12,
+    "goals": 0,
+    "club": "Bayer Leverkusen"
+   },
+   {
+    "num": 24,
+    "pos": "FW",
+    "name": "Crysencio Summerville",
+    "age": 24,
+    "caps": 2,
+    "goals": 0,
+    "club": "West Ham United"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Jorrel Hato",
+    "age": 20,
+    "caps": 8,
+    "goals": 0,
+    "club": "Chelsea"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Quinten Timber",
+    "age": 24,
+    "caps": 11,
+    "goals": 1,
+    "club": "Marseille"
+   }
+  ]
+ },
+ {
+  "nation": "Sweden",
+  "group": "F",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Jacob Widell Zetterström",
+    "age": 27,
+    "caps": 3,
+    "goals": 0,
+    "club": "Derby County"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Gustaf Lagerbielke",
+    "age": 26,
+    "caps": 11,
+    "goals": 2,
+    "club": "Braga"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Victor Lindelöf",
+    "age": 31,
+    "caps": 76,
+    "goals": 3,
+    "club": "Aston Villa"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Isak Hien",
+    "age": 27,
+    "caps": 29,
+    "goals": 0,
+    "club": "Atalanta"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Gabriel Gudmundsson",
+    "age": 27,
+    "caps": 24,
+    "goals": 0,
+    "club": "Leeds United"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Herman Johansson",
+    "age": 28,
+    "caps": 3,
+    "goals": 0,
+    "club": "FC Dallas"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Lucas Bergvall",
+    "age": 20,
+    "caps": 10,
+    "goals": 0,
+    "club": "Tottenham Hotspur"
+   },
+   {
+    "num": 8,
+    "pos": "DF",
+    "name": "Daniel Svensson",
+    "age": 24,
+    "caps": 13,
+    "goals": 0,
+    "club": "Borussia Dortmund"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Alexander Isak",
+    "age": 26,
+    "caps": 58,
+    "goals": 17,
+    "club": "Liverpool"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Benjamin Nygren",
+    "age": 24,
+    "caps": 11,
+    "goals": 3,
+    "club": "Celtic"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Anthony Elanga",
+    "age": 24,
+    "caps": 30,
+    "goals": 6,
+    "club": "Newcastle United"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Viktor Johansson",
+    "age": 27,
+    "caps": 12,
+    "goals": 0,
+    "club": "Stoke City"
+   },
+   {
+    "num": 13,
+    "pos": "MF",
+    "name": "Ken Sema",
+    "age": 32,
+    "caps": 33,
+    "goals": 5,
+    "club": "Pafos"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Hjalmar Ekdal",
+    "age": 27,
+    "caps": 13,
+    "goals": 0,
+    "club": "Burnley"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Carl Starfelt",
+    "age": 31,
+    "caps": 18,
+    "goals": 0,
+    "club": "Celta Vigo"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Jesper Karlström",
+    "age": 30,
+    "caps": 25,
+    "goals": 0,
+    "club": "Udinese"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Viktor Gyökeres",
+    "age": 28,
+    "caps": 33,
+    "goals": 20,
+    "club": "Arsenal"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Yasin Ayari",
+    "age": 22,
+    "caps": 21,
+    "goals": 3,
+    "club": "Brighton & Hove Albion"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Mattias Svanberg",
+    "age": 27,
+    "caps": 41,
+    "goals": 2,
+    "club": "VfL Wolfsburg"
+   },
+   {
+    "num": 20,
+    "pos": "DF",
+    "name": "Eric Smith",
+    "age": 29,
+    "caps": 2,
+    "goals": 0,
+    "club": "FC St. Pauli"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "Alexander Bernhardsson",
+    "age": 27,
+    "caps": 11,
+    "goals": 0,
+    "club": "Holstein Kiel"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Besfort Zeneli",
+    "age": 23,
+    "caps": 8,
+    "goals": 0,
+    "club": "Union Saint-Gilloise"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Kristoffer Nordfeldt",
+    "age": 36,
+    "caps": 21,
+    "goals": 0,
+    "club": "AIK"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Elliot Stroud",
+    "age": 23,
+    "caps": 1,
+    "goals": 0,
+    "club": "Mjällby AIF"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Gustaf Nilsson",
+    "age": 29,
+    "caps": 10,
+    "goals": 4,
+    "club": "Club Brugge"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Taha Ali",
+    "age": 27,
+    "caps": 2,
+    "goals": 0,
+    "club": "Malmö FF"
+   }
+  ]
+ },
+ {
+  "nation": "Tunisia",
+  "group": "F",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Mouhib Chamakh",
+    "age": 24,
+    "caps": 2,
+    "goals": 0,
+    "club": "Club Africain"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Ali Abdi",
+    "age": 32,
+    "caps": 46,
+    "goals": 7,
+    "club": "Nice"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Montassar Talbi",
+    "age": 28,
+    "caps": 64,
+    "goals": 4,
+    "club": "Lorient"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Omar Rekik",
+    "age": 24,
+    "caps": 6,
+    "goals": 0,
+    "club": "Maribor"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Adem Arous",
+    "age": 21,
+    "caps": 2,
+    "goals": 0,
+    "club": "Kasımpaşa"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Dylan Bronn",
+    "age": 30,
+    "caps": 52,
+    "goals": 2,
+    "club": "Servette"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Elias Achouri",
+    "age": 27,
+    "caps": 30,
+    "goals": 4,
+    "club": "Copenhagen"
+   },
+   {
+    "num": 8,
+    "pos": "FW",
+    "name": "Elias Saad",
+    "age": 26,
+    "caps": 15,
+    "goals": 4,
+    "club": "Hannover 96"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Hazem Mastouri",
+    "age": 28,
+    "caps": 19,
+    "goals": 4,
+    "club": "Dynamo Makhachkala"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Hannibal Mejbri",
+    "age": 23,
+    "caps": 45,
+    "goals": 1,
+    "club": "Burnley"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Ismaël Gharbi",
+    "age": 22,
+    "caps": 17,
+    "goals": 2,
+    "club": "FC Augsburg"
+   },
+   {
+    "num": 12,
+    "pos": "DF",
+    "name": "Mortadha Ben Ouanes",
+    "age": 31,
+    "caps": 18,
+    "goals": 0,
+    "club": "Kasımpaşa"
+   },
+   {
+    "num": 13,
+    "pos": "MF",
+    "name": "Rani Khedira",
+    "age": 32,
+    "caps": 3,
+    "goals": 0,
+    "club": "Union Berlin"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Khalil Ayari",
+    "age": 21,
+    "caps": 4,
+    "goals": 0,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Hadj Mahmoud",
+    "age": 26,
+    "caps": 9,
+    "goals": 0,
+    "club": "Lugano"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "Aymen Dahmen",
+    "age": 29,
+    "caps": 37,
+    "goals": 0,
+    "club": "CS Sfaxien"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Ellyes Skhiri",
+    "age": 31,
+    "caps": 83,
+    "goals": 4,
+    "club": "Eintracht Frankfurt"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Rayan Elloumi",
+    "age": 18,
+    "caps": 4,
+    "goals": 0,
+    "club": "Vancouver Whitecaps FC"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Firas Chaouat",
+    "age": 30,
+    "caps": 30,
+    "goals": 6,
+    "club": "Club Africain"
+   },
+   {
+    "num": 20,
+    "pos": "DF",
+    "name": "Yan Valery",
+    "age": 27,
+    "caps": 22,
+    "goals": 0,
+    "club": "Young Boys"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "Mohamed Amine Ben Hamida",
+    "age": 30,
+    "caps": 13,
+    "goals": 0,
+    "club": "Espérance de Tunis"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Sabri Ben Hessen",
+    "age": 29,
+    "caps": 2,
+    "goals": 0,
+    "club": "Étoile du Sahel"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Moutaz Neffati",
+    "age": 21,
+    "caps": 5,
+    "goals": 0,
+    "club": "IFK Norrköping"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Raed Chikhaoui",
+    "age": 22,
+    "caps": 0,
+    "goals": 0,
+    "club": "US Monastir"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Anis Ben Slimane",
+    "age": 25,
+    "caps": 41,
+    "goals": 4,
+    "club": "Norwich City"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Sebastian Tounekti",
+    "age": 23,
+    "caps": 12,
+    "goals": 1,
+    "club": "Celtic"
+   }
+  ]
+ },
+ {
+  "nation": "Belgium",
+  "group": "G",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Thibaut Courtois",
+    "age": 34,
+    "caps": 109,
+    "goals": 0,
+    "club": "Real Madrid"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Zeno Debast",
+    "age": 22,
+    "caps": 26,
+    "goals": 1,
+    "club": "Sporting CP"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Arthur Theate",
+    "age": 26,
+    "caps": 33,
+    "goals": 1,
+    "club": "Eintracht Frankfurt"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Brandon Mechele",
+    "age": 33,
+    "caps": 9,
+    "goals": 1,
+    "club": "Club Brugge"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Maxim De Cuyper",
+    "age": 25,
+    "caps": 19,
+    "goals": 4,
+    "club": "Brighton & Hove Albion"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Axel Witsel",
+    "age": 37,
+    "caps": 138,
+    "goals": 12,
+    "club": "Girona"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Kevin De Bruyne",
+    "age": 34,
+    "caps": 119,
+    "goals": 37,
+    "club": "Napoli"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Youri Tielemans",
+    "age": 29,
+    "caps": 85,
+    "goals": 13,
+    "club": "Aston Villa"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Romelu Lukaku",
+    "age": 33,
+    "caps": 126,
+    "goals": 90,
+    "club": "Napoli"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Leandro Trossard",
+    "age": 31,
+    "caps": 51,
+    "goals": 12,
+    "club": "Arsenal"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Jérémy Doku",
+    "age": 24,
+    "caps": 43,
+    "goals": 7,
+    "club": "Manchester City"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Senne Lammens",
+    "age": 23,
+    "caps": 2,
+    "goals": 0,
+    "club": "Manchester United"
+   },
+   {
+    "num": 13,
+    "pos": "GK",
+    "name": "Mike Penders",
+    "age": 20,
+    "caps": 0,
+    "goals": 0,
+    "club": "Strasbourg"
+   },
+   {
+    "num": 14,
+    "pos": "FW",
+    "name": "Dodi Lukébakio",
+    "age": 28,
+    "caps": 30,
+    "goals": 6,
+    "club": "Benfica"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Thomas Meunier",
+    "age": 34,
+    "caps": 80,
+    "goals": 10,
+    "club": "Lille"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Koni De Winter",
+    "age": 23,
+    "caps": 8,
+    "goals": 0,
+    "club": "Milan"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Charles De Ketelaere",
+    "age": 25,
+    "caps": 30,
+    "goals": 6,
+    "club": "Atalanta"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Joaquin Seys",
+    "age": 21,
+    "caps": 5,
+    "goals": 0,
+    "club": "Club Brugge"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Diego Moreira",
+    "age": 21,
+    "caps": 3,
+    "goals": 0,
+    "club": "Strasbourg"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Hans Vanaken",
+    "age": 33,
+    "caps": 34,
+    "goals": 7,
+    "club": "Club Brugge"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "Timothy Castagne",
+    "age": 30,
+    "caps": 63,
+    "goals": 2,
+    "club": "Fulham"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Alexis Saelemaekers",
+    "age": 26,
+    "caps": 24,
+    "goals": 2,
+    "club": "Milan"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Nicolas Raskin",
+    "age": 25,
+    "caps": 13,
+    "goals": 2,
+    "club": "Rangers"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Amadou Onana",
+    "age": 24,
+    "caps": 29,
+    "goals": 1,
+    "club": "Aston Villa"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Nathan Ngoy",
+    "age": 23,
+    "caps": 4,
+    "goals": 0,
+    "club": "Lille"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Matias Fernandez-Pardo",
+    "age": 21,
+    "caps": 2,
+    "goals": 0,
+    "club": "Lille"
+   }
+  ]
+ },
+ {
+  "nation": "Egypt",
+  "group": "G",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Mohamed El Shenawy",
+    "age": 37,
+    "caps": 76,
+    "goals": 0,
+    "club": "Al Ahly"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Yasser Ibrahim",
+    "age": 33,
+    "caps": 17,
+    "goals": 1,
+    "club": "Al Ahly"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Mohamed Hany",
+    "age": 30,
+    "caps": 42,
+    "goals": 0,
+    "club": "Al Ahly"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Hossam Abdelmaguid",
+    "age": 25,
+    "caps": 13,
+    "goals": 0,
+    "club": "Zamalek"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Ramy Rabia",
+    "age": 33,
+    "caps": 44,
+    "goals": 5,
+    "club": "Al Ain"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Mohamed Abdelmonem",
+    "age": 27,
+    "caps": 36,
+    "goals": 3,
+    "club": "Nice"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Trézéguet",
+    "age": 31,
+    "caps": 96,
+    "goals": 23,
+    "club": "Al Ahly"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Emam Ashour",
+    "age": 28,
+    "caps": 29,
+    "goals": 0,
+    "club": "Al Ahly"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Hamza Abdelkarim",
+    "age": 18,
+    "caps": 2,
+    "goals": 0,
+    "club": "Barcelona B"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Mohamed Salah",
+    "age": 33,
+    "caps": 116,
+    "goals": 67,
+    "club": "Liverpool"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Mostafa Ziko",
+    "age": 29,
+    "caps": 2,
+    "goals": 2,
+    "club": "Pyramids"
+   },
+   {
+    "num": 12,
+    "pos": "FW",
+    "name": "Haissem Hassan",
+    "age": 24,
+    "caps": 4,
+    "goals": 0,
+    "club": "Oviedo"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Ahmed Fatouh",
+    "age": 28,
+    "caps": 39,
+    "goals": 1,
+    "club": "Zamalek"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Hamdy Fathy",
+    "age": 31,
+    "caps": 63,
+    "goals": 3,
+    "club": "Al-Wakrah"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Karim Hafez",
+    "age": 30,
+    "caps": 9,
+    "goals": 0,
+    "club": "Pyramids"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "El Mahdy Soliman",
+    "age": 39,
+    "caps": 0,
+    "goals": 0,
+    "club": "Zamalek"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Mohanad Lasheen",
+    "age": 30,
+    "caps": 23,
+    "goals": 0,
+    "club": "Pyramids"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Nabil Emad",
+    "age": 30,
+    "caps": 12,
+    "goals": 0,
+    "club": "Al-Najma"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Marwan Attia",
+    "age": 27,
+    "caps": 34,
+    "goals": 1,
+    "club": "Al Ahly"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Ibrahim Adel",
+    "age": 25,
+    "caps": 24,
+    "goals": 3,
+    "club": "Nordsjælland"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Mahmoud Saber",
+    "age": 24,
+    "caps": 15,
+    "goals": 1,
+    "club": "ZED"
+   },
+   {
+    "num": 22,
+    "pos": "FW",
+    "name": "Omar Marmoush",
+    "age": 27,
+    "caps": 49,
+    "goals": 11,
+    "club": "Manchester City"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Mostafa Shobeir",
+    "age": 26,
+    "caps": 9,
+    "goals": 0,
+    "club": "Al Ahly"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Tarek Alaa",
+    "age": 24,
+    "caps": 3,
+    "goals": 0,
+    "club": "ZED"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Zizo",
+    "age": 30,
+    "caps": 63,
+    "goals": 5,
+    "club": "Al Ahly"
+   },
+   {
+    "num": 26,
+    "pos": "GK",
+    "name": "Mohamed Alaa",
+    "age": 27,
+    "caps": 0,
+    "goals": 0,
+    "club": "El Gouna"
+   }
+  ]
+ },
+ {
+  "nation": "Iran",
+  "group": "G",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Alireza Beiranvand",
+    "age": 33,
+    "caps": 86,
+    "goals": 0,
+    "club": "Tractor"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Saleh Hardani",
+    "age": 27,
+    "caps": 18,
+    "goals": 1,
+    "club": "Esteghlal"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Ehsan Hajsafi",
+    "age": 36,
+    "caps": 146,
+    "goals": 7,
+    "club": "Sepahan"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Shojae Khalilzadeh",
+    "age": 37,
+    "caps": 58,
+    "goals": 2,
+    "club": "Tractor"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Milad Mohammadi",
+    "age": 32,
+    "caps": 76,
+    "goals": 1,
+    "club": "Persepolis"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Saeid Ezatolahi",
+    "age": 29,
+    "caps": 83,
+    "goals": 2,
+    "club": "Shabab Al Ahli"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Alireza Jahanbakhsh",
+    "age": 32,
+    "caps": 98,
+    "goals": 17,
+    "club": "Dender"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Mohammad Mohebi",
+    "age": 27,
+    "caps": 36,
+    "goals": 14,
+    "club": "Rostov"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Mehdi Taremi",
+    "age": 33,
+    "caps": 105,
+    "goals": 60,
+    "club": "Olympiacos"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Mehdi Ghayedi",
+    "age": 27,
+    "caps": 30,
+    "goals": 10,
+    "club": "Al Nasr"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Ali Alipour",
+    "age": 30,
+    "caps": 14,
+    "goals": 1,
+    "club": "Persepolis"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Payam Niazmand",
+    "age": 31,
+    "caps": 15,
+    "goals": 0,
+    "club": "Persepolis"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Hossein Kanaanizadegan",
+    "age": 32,
+    "caps": 65,
+    "goals": 6,
+    "club": "Persepolis"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Saman Ghoddos",
+    "age": 32,
+    "caps": 68,
+    "goals": 3,
+    "club": "Kalba"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Rouzbeh Cheshmi",
+    "age": 32,
+    "caps": 40,
+    "goals": 3,
+    "club": "Esteghlal"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Mehdi Torabi",
+    "age": 31,
+    "caps": 52,
+    "goals": 7,
+    "club": "Tractor"
+   },
+   {
+    "num": 17,
+    "pos": "DF",
+    "name": "Aria Yousefi",
+    "age": 24,
+    "caps": 14,
+    "goals": 1,
+    "club": "Sepahan"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Amirhossein Hosseinzadeh",
+    "age": 25,
+    "caps": 18,
+    "goals": 5,
+    "club": "Tractor"
+   },
+   {
+    "num": 19,
+    "pos": "DF",
+    "name": "Ali Nemati",
+    "age": 30,
+    "caps": 17,
+    "goals": 0,
+    "club": "Foolad"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Shahriyar Moghanlou",
+    "age": 31,
+    "caps": 21,
+    "goals": 2,
+    "club": "Kalba"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Mohammad Ghorbani",
+    "age": 24,
+    "caps": 16,
+    "goals": 0,
+    "club": "Al Wahda"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Hossein Hosseini",
+    "age": 33,
+    "caps": 13,
+    "goals": 0,
+    "club": "Sepahan"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Ramin Rezaeian",
+    "age": 36,
+    "caps": 74,
+    "goals": 8,
+    "club": "Foolad"
+   },
+   {
+    "num": 24,
+    "pos": "FW",
+    "name": "Dennis Eckert",
+    "age": 29,
+    "caps": 0,
+    "goals": 0,
+    "club": "Standard Liège"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Danial Eiri",
+    "age": 22,
+    "caps": 0,
+    "goals": 0,
+    "club": "Malavan"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Amirmohammad Razzaghinia",
+    "age": 20,
+    "caps": 4,
+    "goals": 0,
+    "club": "Esteghlal"
+   }
+  ]
+ },
+ {
+  "nation": "New Zealand",
+  "group": "G",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Max Crocombe",
+    "age": 32,
+    "caps": 24,
+    "goals": 0,
+    "club": "Millwall"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Tim Payne",
+    "age": 32,
+    "caps": 51,
+    "goals": 3,
+    "club": "Wellington Phoenix"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Francis de Vries",
+    "age": 31,
+    "caps": 20,
+    "goals": 1,
+    "club": "Auckland FC"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Tyler Bindon",
+    "age": 21,
+    "caps": 25,
+    "goals": 3,
+    "club": "Sheffield United"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Michael Boxall",
+    "age": 37,
+    "caps": 63,
+    "goals": 1,
+    "club": "Minnesota United FC"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Joe Bell",
+    "age": 27,
+    "caps": 32,
+    "goals": 1,
+    "club": "Viking"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Matthew Garbett",
+    "age": 24,
+    "caps": 37,
+    "goals": 5,
+    "club": "Peterborough United"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Marko Stamenić",
+    "age": 24,
+    "caps": 39,
+    "goals": 3,
+    "club": "Swansea City"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Chris Wood",
+    "age": 34,
+    "caps": 90,
+    "goals": 45,
+    "club": "Nottingham Forest"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Sarpreet Singh",
+    "age": 27,
+    "caps": 28,
+    "goals": 3,
+    "club": "Wellington Phoenix"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Elijah Just",
+    "age": 26,
+    "caps": 44,
+    "goals": 9,
+    "club": "Motherwell"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Alex Paulsen",
+    "age": 23,
+    "caps": 8,
+    "goals": 0,
+    "club": "Lechia Gdańsk"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Liberato Cacace",
+    "age": 25,
+    "caps": 37,
+    "goals": 1,
+    "club": "Wrexham"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Alex Rufer",
+    "age": 29,
+    "caps": 26,
+    "goals": 0,
+    "club": "Wellington Phoenix"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Nando Pijnaker",
+    "age": 27,
+    "caps": 25,
+    "goals": 0,
+    "club": "Auckland FC"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Finn Surman",
+    "age": 22,
+    "caps": 19,
+    "goals": 2,
+    "club": "Portland Timbers"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Kosta Barbarouses",
+    "age": 36,
+    "caps": 76,
+    "goals": 10,
+    "club": "Western Sydney Wanderers"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Ben Waine",
+    "age": 24,
+    "caps": 31,
+    "goals": 9,
+    "club": "Port Vale"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Ben Old",
+    "age": 23,
+    "caps": 24,
+    "goals": 2,
+    "club": "Saint-Étienne"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Callum McCowatt",
+    "age": 27,
+    "caps": 32,
+    "goals": 4,
+    "club": "Silkeborg"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Jesse Randall",
+    "age": 23,
+    "caps": 11,
+    "goals": 2,
+    "club": "Auckland FC"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Michael Woud",
+    "age": 27,
+    "caps": 6,
+    "goals": 0,
+    "club": "Auckland FC"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Ryan Thomas",
+    "age": 31,
+    "caps": 25,
+    "goals": 3,
+    "club": "PEC Zwolle"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Callan Elliot",
+    "age": 26,
+    "caps": 11,
+    "goals": 0,
+    "club": "Auckland FC"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Lachlan Bayliss",
+    "age": 23,
+    "caps": 4,
+    "goals": 0,
+    "club": "Newcastle Jets"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Tommy Smith",
+    "age": 36,
+    "caps": 56,
+    "goals": 2,
+    "club": "Braintree Town"
+   }
+  ]
+ },
+ {
+  "nation": "Cape Verde",
+  "group": "H",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Vozinha",
+    "age": 40,
+    "caps": 86,
+    "goals": 0,
+    "club": "Chaves"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Stopira",
+    "age": 38,
+    "caps": 62,
+    "goals": 4,
+    "club": "Torreense"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Diney",
+    "age": 31,
+    "caps": 30,
+    "goals": 2,
+    "club": "Al Bataeh"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Roberto Lopes",
+    "age": 33,
+    "caps": 45,
+    "goals": 0,
+    "club": "Shamrock Rovers"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Logan Costa",
+    "age": 25,
+    "caps": 28,
+    "goals": 0,
+    "club": "Villarreal"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Kevin Pina",
+    "age": 29,
+    "caps": 31,
+    "goals": 3,
+    "club": "Krasnodar"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Jovane Cabral",
+    "age": 27,
+    "caps": 27,
+    "goals": 2,
+    "club": "Estrela Amadora"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "João Paulo",
+    "age": 28,
+    "caps": 42,
+    "goals": 1,
+    "club": "FCSB"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Gilson Benchimol",
+    "age": 24,
+    "caps": 22,
+    "goals": 6,
+    "club": "Akron Tolyatti"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Jamiro Monteiro",
+    "age": 32,
+    "caps": 55,
+    "goals": 5,
+    "club": "PEC Zwolle"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Garry Rodrigues",
+    "age": 35,
+    "caps": 60,
+    "goals": 10,
+    "club": "Apollon Limassol"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Márcio Rosa",
+    "age": 29,
+    "caps": 11,
+    "goals": 0,
+    "club": "Montana"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Sidny Lopes Cabral",
+    "age": 23,
+    "caps": 9,
+    "goals": 3,
+    "club": "Benfica"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Deroy Duarte",
+    "age": 26,
+    "caps": 30,
+    "goals": 0,
+    "club": "Ludogorets Razgrad"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Laros Duarte",
+    "age": 29,
+    "caps": 13,
+    "goals": 1,
+    "club": "Puskás Akadémia"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Yannick Semedo",
+    "age": 30,
+    "caps": 10,
+    "goals": 1,
+    "club": "Farense"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Willy Semedo",
+    "age": 32,
+    "caps": 38,
+    "goals": 3,
+    "club": "Omonia"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Telmo Arcanjo",
+    "age": 24,
+    "caps": 16,
+    "goals": 1,
+    "club": "Vitória de Guimarães"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Dailon Livramento",
+    "age": 25,
+    "caps": 22,
+    "goals": 7,
+    "club": "Casa Pia"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Ryan Mendes",
+    "age": 36,
+    "caps": 98,
+    "goals": 22,
+    "club": "Iğdır"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Nuno da Costa",
+    "age": 35,
+    "caps": 9,
+    "goals": 2,
+    "club": "İstanbul Başakşehir"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Steven Moreira",
+    "age": 31,
+    "caps": 20,
+    "goals": 0,
+    "club": "Columbus Crew"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "CJ dos Santos",
+    "age": 25,
+    "caps": 1,
+    "goals": 0,
+    "club": "San Diego FC"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Wagner Pina",
+    "age": 23,
+    "caps": 13,
+    "goals": 0,
+    "club": "Trabzonspor"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Kelvin Pires",
+    "age": 26,
+    "caps": 5,
+    "goals": 1,
+    "club": "SJK"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Hélio Varela",
+    "age": 24,
+    "caps": 20,
+    "goals": 0,
+    "club": "Maccabi Tel Aviv"
+   }
+  ]
+ },
+ {
+  "nation": "Saudi Arabia",
+  "group": "H",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Nawaf Al-Aqidi",
+    "age": 26,
+    "caps": 22,
+    "goals": 0,
+    "club": "Al-Nassr"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Ali Majrashi",
+    "age": 26,
+    "caps": 21,
+    "goals": 0,
+    "club": "Al-Ahli"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Ali Lajami",
+    "age": 30,
+    "caps": 21,
+    "goals": 1,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Abdulelah Al-Amri",
+    "age": 29,
+    "caps": 42,
+    "goals": 1,
+    "club": "Al-Nassr"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Hassan Al-Tambakti",
+    "age": 27,
+    "caps": 51,
+    "goals": 1,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Nasser Al-Dawsari",
+    "age": 27,
+    "caps": 43,
+    "goals": 0,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Musab Al-Juwayr",
+    "age": 22,
+    "caps": 34,
+    "goals": 6,
+    "club": "Al-Qadsiah"
+   },
+   {
+    "num": 8,
+    "pos": "FW",
+    "name": "Ayman Yahya",
+    "age": 25,
+    "caps": 26,
+    "goals": 0,
+    "club": "Al-Nassr"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Firas Al-Buraikan",
+    "age": 26,
+    "caps": 69,
+    "goals": 15,
+    "club": "Al-Ahli"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Salem Al-Dawsari",
+    "age": 34,
+    "caps": 109,
+    "goals": 27,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Saleh Al-Shehri",
+    "age": 32,
+    "caps": 55,
+    "goals": 18,
+    "club": "Al-Ittihad"
+   },
+   {
+    "num": 12,
+    "pos": "DF",
+    "name": "Saud Abdulhamid",
+    "age": 26,
+    "caps": 54,
+    "goals": 1,
+    "club": "Lens"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Nawaf Boushal",
+    "age": 26,
+    "caps": 24,
+    "goals": 0,
+    "club": "Al-Nassr"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Hassan Kadesh",
+    "age": 33,
+    "caps": 20,
+    "goals": 2,
+    "club": "Al-Ittihad"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Abdullah Al-Khaibari",
+    "age": 29,
+    "caps": 39,
+    "goals": 0,
+    "club": "Al-Nassr"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Ziyad Al-Johani",
+    "age": 24,
+    "caps": 12,
+    "goals": 0,
+    "club": "Al-Ahli"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Khalid Al-Ghannam",
+    "age": 25,
+    "caps": 6,
+    "goals": 0,
+    "club": "Al-Ettifaq"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Alaa Al-Hejji",
+    "age": 30,
+    "caps": 2,
+    "goals": 0,
+    "club": "Neom"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Abdullah Al-Hamdan",
+    "age": 26,
+    "caps": 49,
+    "goals": 12,
+    "club": "Al-Nassr"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Sultan Mandash",
+    "age": 31,
+    "caps": 6,
+    "goals": 2,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 21,
+    "pos": "GK",
+    "name": "Mohammed Al-Owais",
+    "age": 34,
+    "caps": 63,
+    "goals": 0,
+    "club": "Al-Ula"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Ahmed Al-Kassar",
+    "age": 35,
+    "caps": 9,
+    "goals": 0,
+    "club": "Al-Qadsiah"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Mohamed Kanno",
+    "age": 31,
+    "caps": 76,
+    "goals": 8,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Moteb Al-Harbi",
+    "age": 26,
+    "caps": 12,
+    "goals": 0,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Jehad Thakri",
+    "age": 24,
+    "caps": 7,
+    "goals": 0,
+    "club": "Al-Qadsiah"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Mohammed Abu Al-Shamat",
+    "age": 23,
+    "caps": 6,
+    "goals": 0,
+    "club": "Al-Qadsiah"
+   }
+  ]
+ },
+ {
+  "nation": "Spain",
+  "group": "H",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "David Raya",
+    "age": 30,
+    "caps": 13,
+    "goals": 0,
+    "club": "Arsenal"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Marc Pubill",
+    "age": 22,
+    "caps": 2,
+    "goals": 0,
+    "club": "Atlético Madrid"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Álex Grimaldo",
+    "age": 30,
+    "caps": 14,
+    "goals": 0,
+    "club": "Bayer Leverkusen"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Eric García",
+    "age": 25,
+    "caps": 21,
+    "goals": 0,
+    "club": "Barcelona"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Marcos Llorente",
+    "age": 31,
+    "caps": 24,
+    "goals": 0,
+    "club": "Atlético Madrid"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Mikel Merino",
+    "age": 29,
+    "caps": 43,
+    "goals": 10,
+    "club": "Arsenal"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Ferran Torres",
+    "age": 26,
+    "caps": 57,
+    "goals": 24,
+    "club": "Barcelona"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Fabián Ruiz",
+    "age": 30,
+    "caps": 42,
+    "goals": 6,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 9,
+    "pos": "MF",
+    "name": "Gavi",
+    "age": 21,
+    "caps": 30,
+    "goals": 5,
+    "club": "Barcelona"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Dani Olmo",
+    "age": 28,
+    "caps": 50,
+    "goals": 12,
+    "club": "Barcelona"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Yéremy Pino",
+    "age": 23,
+    "caps": 23,
+    "goals": 4,
+    "club": "Crystal Palace"
+   },
+   {
+    "num": 12,
+    "pos": "DF",
+    "name": "Pedro Porro",
+    "age": 26,
+    "caps": 18,
+    "goals": 0,
+    "club": "Tottenham Hotspur"
+   },
+   {
+    "num": 13,
+    "pos": "GK",
+    "name": "Joan Garcia",
+    "age": 25,
+    "caps": 2,
+    "goals": 0,
+    "club": "Barcelona"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Aymeric Laporte",
+    "age": 32,
+    "caps": 46,
+    "goals": 2,
+    "club": "Athletic Bilbao"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Álex Baena",
+    "age": 24,
+    "caps": 17,
+    "goals": 2,
+    "club": "Atlético Madrid"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Rodri",
+    "age": 29,
+    "caps": 62,
+    "goals": 4,
+    "club": "Manchester City"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Nico Williams",
+    "age": 23,
+    "caps": 30,
+    "goals": 6,
+    "club": "Athletic Bilbao"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Martín Zubimendi",
+    "age": 27,
+    "caps": 26,
+    "goals": 3,
+    "club": "Arsenal"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Lamine Yamal",
+    "age": 18,
+    "caps": 25,
+    "goals": 6,
+    "club": "Barcelona"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Pedri",
+    "age": 23,
+    "caps": 41,
+    "goals": 6,
+    "club": "Barcelona"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Mikel Oyarzabal",
+    "age": 29,
+    "caps": 53,
+    "goals": 25,
+    "club": "Real Sociedad"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Pau Cubarsí",
+    "age": 19,
+    "caps": 12,
+    "goals": 0,
+    "club": "Barcelona"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Unai Simón",
+    "age": 28,
+    "caps": 58,
+    "goals": 0,
+    "club": "Athletic Bilbao"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Marc Cucurella",
+    "age": 27,
+    "caps": 24,
+    "goals": 1,
+    "club": "Chelsea"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Víctor Muñoz",
+    "age": 22,
+    "caps": 2,
+    "goals": 1,
+    "club": "Osasuna"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Borja Iglesias",
+    "age": 33,
+    "caps": 8,
+    "goals": 0,
+    "club": "Celta Vigo"
+   }
+  ]
+ },
+ {
+  "nation": "Uruguay",
+  "group": "H",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Sergio Rochet",
+    "age": 33,
+    "caps": 35,
+    "goals": 0,
+    "club": "Internacional"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "José Giménez",
+    "age": 31,
+    "caps": 99,
+    "goals": 8,
+    "club": "Atlético Madrid"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Sebastián Cáceres",
+    "age": 26,
+    "caps": 24,
+    "goals": 0,
+    "club": "América"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Ronald Araújo",
+    "age": 27,
+    "caps": 27,
+    "goals": 1,
+    "club": "Barcelona"
+   },
+   {
+    "num": 5,
+    "pos": "MF",
+    "name": "Manuel Ugarte",
+    "age": 25,
+    "caps": 36,
+    "goals": 1,
+    "club": "Manchester United"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Rodrigo Bentancur",
+    "age": 28,
+    "caps": 74,
+    "goals": 3,
+    "club": "Tottenham Hotspur"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Nicolás de la Cruz",
+    "age": 29,
+    "caps": 34,
+    "goals": 5,
+    "club": "Flamengo"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Federico Valverde",
+    "age": 27,
+    "caps": 73,
+    "goals": 9,
+    "club": "Real Madrid"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Darwin Núñez",
+    "age": 26,
+    "caps": 38,
+    "goals": 13,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Giorgian de Arrascaeta",
+    "age": 32,
+    "caps": 60,
+    "goals": 13,
+    "club": "Flamengo"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Facundo Pellistri",
+    "age": 24,
+    "caps": 39,
+    "goals": 2,
+    "club": "Panathinaikos"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Santiago Mele",
+    "age": 28,
+    "caps": 8,
+    "goals": 0,
+    "club": "Monterrey"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Guillermo Varela",
+    "age": 33,
+    "caps": 28,
+    "goals": 0,
+    "club": "Flamengo"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Agustín Canobbio",
+    "age": 27,
+    "caps": 15,
+    "goals": 1,
+    "club": "Fluminense"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Emiliano Martínez",
+    "age": 26,
+    "caps": 10,
+    "goals": 0,
+    "club": "Palmeiras"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Mathías Olivera",
+    "age": 28,
+    "caps": 35,
+    "goals": 2,
+    "club": "Napoli"
+   },
+   {
+    "num": 17,
+    "pos": "DF",
+    "name": "Matías Viña",
+    "age": 28,
+    "caps": 43,
+    "goals": 1,
+    "club": "River Plate"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Brian Rodríguez",
+    "age": 26,
+    "caps": 32,
+    "goals": 4,
+    "club": "América"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Rodrigo Aguirre",
+    "age": 31,
+    "caps": 10,
+    "goals": 3,
+    "club": "UANL"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Maximiliano Araújo",
+    "age": 26,
+    "caps": 28,
+    "goals": 3,
+    "club": "Sporting CP"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Federico Viñas",
+    "age": 27,
+    "caps": 11,
+    "goals": 2,
+    "club": "Oviedo"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Joaquín Piquerez",
+    "age": 27,
+    "caps": 19,
+    "goals": 0,
+    "club": "Palmeiras"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Fernando Muslera",
+    "age": 39,
+    "caps": 134,
+    "goals": 0,
+    "club": "Estudiantes"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Santiago Bueno",
+    "age": 27,
+    "caps": 8,
+    "goals": 0,
+    "club": "Wolverhampton Wanderers"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Juan Manuel Sanabria",
+    "age": 26,
+    "caps": 5,
+    "goals": 1,
+    "club": "Real Salt Lake"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Rodrigo Zalazar",
+    "age": 26,
+    "caps": 8,
+    "goals": 2,
+    "club": "Braga"
+   }
+  ]
+ },
+ {
+  "nation": "France",
+  "group": "I",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Brice Samba",
+    "age": 32,
+    "caps": 4,
+    "goals": 0,
+    "club": "Rennes"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Malo Gusto",
+    "age": 23,
+    "caps": 11,
+    "goals": 0,
+    "club": "Chelsea"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Lucas Digne",
+    "age": 32,
+    "caps": 58,
+    "goals": 0,
+    "club": "Aston Villa"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Dayot Upamecano",
+    "age": 27,
+    "caps": 38,
+    "goals": 2,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Jules Koundé",
+    "age": 27,
+    "caps": 48,
+    "goals": 0,
+    "club": "Barcelona"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Manu Koné",
+    "age": 25,
+    "caps": 14,
+    "goals": 0,
+    "club": "Roma"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Ousmane Dembélé",
+    "age": 29,
+    "caps": 59,
+    "goals": 7,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Aurélien Tchouaméni",
+    "age": 26,
+    "caps": 46,
+    "goals": 3,
+    "club": "Real Madrid"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Marcus Thuram",
+    "age": 28,
+    "caps": 34,
+    "goals": 3,
+    "club": "Inter Milan"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Kylian Mbappé",
+    "age": 27,
+    "caps": 98,
+    "goals": 56,
+    "club": "Real Madrid"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Michael Olise",
+    "age": 24,
+    "caps": 17,
+    "goals": 7,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 12,
+    "pos": "FW",
+    "name": "Bradley Barcola",
+    "age": 23,
+    "caps": 20,
+    "goals": 3,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 13,
+    "pos": "MF",
+    "name": "N'Golo Kanté",
+    "age": 35,
+    "caps": 69,
+    "goals": 2,
+    "club": "Fenerbahçe"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Adrien Rabiot",
+    "age": 31,
+    "caps": 59,
+    "goals": 7,
+    "club": "Milan"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Ibrahima Konaté",
+    "age": 27,
+    "caps": 28,
+    "goals": 0,
+    "club": "Liverpool"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "Mike Maignan",
+    "age": 30,
+    "caps": 40,
+    "goals": 0,
+    "club": "Milan"
+   },
+   {
+    "num": 17,
+    "pos": "DF",
+    "name": "William Saliba",
+    "age": 25,
+    "caps": 32,
+    "goals": 0,
+    "club": "Arsenal"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Warren Zaïre-Emery",
+    "age": 20,
+    "caps": 11,
+    "goals": 1,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 19,
+    "pos": "DF",
+    "name": "Théo Hernandez",
+    "age": 28,
+    "caps": 44,
+    "goals": 2,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Désiré Doué",
+    "age": 21,
+    "caps": 7,
+    "goals": 2,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "Lucas Hernandez",
+    "age": 30,
+    "caps": 42,
+    "goals": 0,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 22,
+    "pos": "FW",
+    "name": "Jean-Philippe Mateta",
+    "age": 28,
+    "caps": 4,
+    "goals": 2,
+    "club": "Crystal Palace"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Robin Risser",
+    "age": 21,
+    "caps": 0,
+    "goals": 0,
+    "club": "Lens"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Rayan Cherki",
+    "age": 22,
+    "caps": 7,
+    "goals": 2,
+    "club": "Manchester City"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Maghnes Akliouche",
+    "age": 24,
+    "caps": 9,
+    "goals": 1,
+    "club": "Monaco"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Maxence Lacroix",
+    "age": 26,
+    "caps": 4,
+    "goals": 0,
+    "club": "Crystal Palace"
+   }
+  ]
+ },
+ {
+  "nation": "Iraq",
+  "group": "I",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Fahad Talib",
+    "age": 31,
+    "caps": 21,
+    "goals": 0,
+    "club": "Al-Talaba"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Rebin Sulaka",
+    "age": 34,
+    "caps": 55,
+    "goals": 1,
+    "club": "Port"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Hussein Ali",
+    "age": 24,
+    "caps": 26,
+    "goals": 1,
+    "club": "Pogoń Szczecin"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Zaid Tahseen",
+    "age": 25,
+    "caps": 27,
+    "goals": 1,
+    "club": "Pakhtakor"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Akam Hashim",
+    "age": 27,
+    "caps": 13,
+    "goals": 1,
+    "club": "Al-Zawraa"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Manaf Younis",
+    "age": 29,
+    "caps": 33,
+    "goals": 1,
+    "club": "Al-Shorta"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Youssef Amyn",
+    "age": 22,
+    "caps": 26,
+    "goals": 2,
+    "club": "AEK Larnaca"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Ibrahim Bayesh",
+    "age": 26,
+    "caps": 75,
+    "goals": 8,
+    "club": "Al Dhafra"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Ali Al-Hamadi",
+    "age": 24,
+    "caps": 19,
+    "goals": 5,
+    "club": "Luton Town"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Mohanad Ali",
+    "age": 25,
+    "caps": 71,
+    "goals": 27,
+    "club": "Dibba"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Ahmed Qasem",
+    "age": 22,
+    "caps": 2,
+    "goals": 0,
+    "club": "Nashville SC"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Jalal Hassan",
+    "age": 35,
+    "caps": 101,
+    "goals": 0,
+    "club": "Al-Zawraa"
+   },
+   {
+    "num": 13,
+    "pos": "FW",
+    "name": "Ali Yousif",
+    "age": 30,
+    "caps": 6,
+    "goals": 1,
+    "club": "Al-Talaba"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Zidane Iqbal",
+    "age": 23,
+    "caps": 24,
+    "goals": 2,
+    "club": "Utrecht"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Ahmed Maknzi",
+    "age": 24,
+    "caps": 6,
+    "goals": 0,
+    "club": "Al-Karma"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Amir Al-Ammari",
+    "age": 28,
+    "caps": 50,
+    "goals": 3,
+    "club": "Cracovia"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Ali Jasim",
+    "age": 22,
+    "caps": 36,
+    "goals": 2,
+    "club": "Al-Najma"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Aymen Hussein",
+    "age": 30,
+    "caps": 94,
+    "goals": 33,
+    "club": "Al-Karma"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Kevin Yakob",
+    "age": 25,
+    "caps": 8,
+    "goals": 0,
+    "club": "AGF"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Aimar Sher",
+    "age": 23,
+    "caps": 6,
+    "goals": 0,
+    "club": "Sarpsborg 08"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Marko Farji",
+    "age": 22,
+    "caps": 11,
+    "goals": 0,
+    "club": "Venezia"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Ahmed Basil",
+    "age": 29,
+    "caps": 15,
+    "goals": 0,
+    "club": "Al-Shorta"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Merchas Doski",
+    "age": 26,
+    "caps": 31,
+    "goals": 1,
+    "club": "Viktoria Plzeň"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Zaid Ismail",
+    "age": 24,
+    "caps": 6,
+    "goals": 0,
+    "club": "Al-Talaba"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Mustafa Saadoon",
+    "age": 25,
+    "caps": 16,
+    "goals": 0,
+    "club": "Al-Shorta"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Frans Putros",
+    "age": 32,
+    "caps": 27,
+    "goals": 0,
+    "club": "Persib"
+   }
+  ]
+ },
+ {
+  "nation": "Norway",
+  "group": "I",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Ørjan Nyland",
+    "age": 35,
+    "caps": 71,
+    "goals": 0,
+    "club": "Sevilla"
+   },
+   {
+    "num": 2,
+    "pos": "MF",
+    "name": "Morten Thorsby",
+    "age": 30,
+    "caps": 31,
+    "goals": 0,
+    "club": "Cremonese"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Kristoffer Ajer",
+    "age": 28,
+    "caps": 52,
+    "goals": 2,
+    "club": "Brentford"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Leo Østigård",
+    "age": 26,
+    "caps": 38,
+    "goals": 1,
+    "club": "Genoa"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "David Møller Wolfe",
+    "age": 24,
+    "caps": 22,
+    "goals": 1,
+    "club": "Wolverhampton Wanderers"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Patrick Berg",
+    "age": 28,
+    "caps": 43,
+    "goals": 0,
+    "club": "Bodø/Glimt"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Alexander Sørloth",
+    "age": 30,
+    "caps": 72,
+    "goals": 26,
+    "club": "Atlético Madrid"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Sander Berge",
+    "age": 28,
+    "caps": 66,
+    "goals": 1,
+    "club": "Fulham"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Erling Haaland",
+    "age": 25,
+    "caps": 50,
+    "goals": 55,
+    "club": "Manchester City"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Martin Ødegaard",
+    "age": 27,
+    "caps": 68,
+    "goals": 5,
+    "club": "Arsenal"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Jørgen Strand Larsen",
+    "age": 26,
+    "caps": 28,
+    "goals": 6,
+    "club": "Crystal Palace"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Sander Tangvik",
+    "age": 23,
+    "caps": 0,
+    "goals": 0,
+    "club": "Hamburger SV"
+   },
+   {
+    "num": 13,
+    "pos": "GK",
+    "name": "Egil Selvik",
+    "age": 28,
+    "caps": 7,
+    "goals": 0,
+    "club": "Watford"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Fredrik Aursnes",
+    "age": 30,
+    "caps": 22,
+    "goals": 1,
+    "club": "Benfica"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Fredrik André Bjørkan",
+    "age": 27,
+    "caps": 21,
+    "goals": 1,
+    "club": "Bodø/Glimt"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Marcus Holmgren Pedersen",
+    "age": 25,
+    "caps": 32,
+    "goals": 0,
+    "club": "Torino"
+   },
+   {
+    "num": 17,
+    "pos": "DF",
+    "name": "Torbjørn Heggem",
+    "age": 27,
+    "caps": 15,
+    "goals": 0,
+    "club": "Bologna"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Kristian Thorstvedt",
+    "age": 27,
+    "caps": 37,
+    "goals": 4,
+    "club": "Sassuolo"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Thelo Aasgaard",
+    "age": 24,
+    "caps": 8,
+    "goals": 5,
+    "club": "Rangers"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Antonio Nusa",
+    "age": 21,
+    "caps": 24,
+    "goals": 8,
+    "club": "RB Leipzig"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Andreas Schjelderup",
+    "age": 22,
+    "caps": 12,
+    "goals": 1,
+    "club": "Benfica"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Oscar Bobb",
+    "age": 22,
+    "caps": 20,
+    "goals": 2,
+    "club": "Fulham"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Jens Petter Hauge",
+    "age": 26,
+    "caps": 15,
+    "goals": 1,
+    "club": "Bodø/Glimt"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Sondre Langås",
+    "age": 25,
+    "caps": 3,
+    "goals": 0,
+    "club": "Derby County"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Henrik Falchener",
+    "age": 23,
+    "caps": 1,
+    "goals": 0,
+    "club": "Viking"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Julian Ryerson",
+    "age": 28,
+    "caps": 43,
+    "goals": 1,
+    "club": "Borussia Dortmund"
+   }
+  ]
+ },
+ {
+  "nation": "Senegal",
+  "group": "I",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Yehvann Diouf",
+    "age": 26,
+    "caps": 2,
+    "goals": 0,
+    "club": "Nice"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Mamadou Sarr",
+    "age": 20,
+    "caps": 7,
+    "goals": 0,
+    "club": "Chelsea"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Kalidou Koulibaly",
+    "age": 34,
+    "caps": 102,
+    "goals": 2,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Abdoulaye Seck",
+    "age": 34,
+    "caps": 22,
+    "goals": 4,
+    "club": "Maccabi Haifa"
+   },
+   {
+    "num": 5,
+    "pos": "MF",
+    "name": "Idrissa Gueye",
+    "age": 36,
+    "caps": 130,
+    "goals": 7,
+    "club": "Everton"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Pathé Ciss",
+    "age": 32,
+    "caps": 29,
+    "goals": 0,
+    "club": "Rayo Vallecano"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Assane Diao",
+    "age": 20,
+    "caps": 5,
+    "goals": 0,
+    "club": "Como"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Lamine Camara",
+    "age": 22,
+    "caps": 32,
+    "goals": 7,
+    "club": "Monaco"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Bamba Dieng",
+    "age": 26,
+    "caps": 22,
+    "goals": 2,
+    "club": "Lorient"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Sadio Mané",
+    "age": 34,
+    "caps": 127,
+    "goals": 55,
+    "club": "Al-Nassr"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Nicolas Jackson",
+    "age": 24,
+    "caps": 32,
+    "goals": 8,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 12,
+    "pos": "FW",
+    "name": "Cherif Ndiaye",
+    "age": 30,
+    "caps": 18,
+    "goals": 4,
+    "club": "Samsunspor"
+   },
+   {
+    "num": 13,
+    "pos": "FW",
+    "name": "Iliman Ndiaye",
+    "age": 26,
+    "caps": 39,
+    "goals": 4,
+    "club": "Everton"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Ismail Jakobs",
+    "age": 26,
+    "caps": 29,
+    "goals": 0,
+    "club": "Galatasaray"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Krépin Diatta",
+    "age": 27,
+    "caps": 60,
+    "goals": 2,
+    "club": "Monaco"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "Édouard Mendy",
+    "age": 34,
+    "caps": 56,
+    "goals": 0,
+    "club": "Al-Ahli"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Pape Matar Sarr",
+    "age": 23,
+    "caps": 39,
+    "goals": 4,
+    "club": "Tottenham Hotspur"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Ismaïla Sarr",
+    "age": 28,
+    "caps": 82,
+    "goals": 19,
+    "club": "Crystal Palace"
+   },
+   {
+    "num": 19,
+    "pos": "DF",
+    "name": "Moussa Niakhaté",
+    "age": 30,
+    "caps": 30,
+    "goals": 0,
+    "club": "Lyon"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Ibrahim Mbaye",
+    "age": 18,
+    "caps": 10,
+    "goals": 3,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Habib Diarra",
+    "age": 22,
+    "caps": 20,
+    "goals": 4,
+    "club": "Sunderland"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Bara Sapoko Ndiaye",
+    "age": 18,
+    "caps": 1,
+    "goals": 0,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Mory Diaw",
+    "age": 32,
+    "caps": 5,
+    "goals": 0,
+    "club": "Le Havre"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Antoine Mendy",
+    "age": 22,
+    "caps": 6,
+    "goals": 0,
+    "club": "Nice"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "El Hadji Malick Diouf",
+    "age": 21,
+    "caps": 19,
+    "goals": 1,
+    "club": "West Ham United"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Pape Gueye",
+    "age": 27,
+    "caps": 41,
+    "goals": 5,
+    "club": "Villarreal"
+   }
+  ]
+ },
+ {
+  "nation": "Algeria",
+  "group": "J",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Melvin Mastil",
+    "age": 26,
+    "caps": 1,
+    "goals": 0,
+    "club": "Stade Nyonnais"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Aïssa Mandi",
+    "age": 34,
+    "caps": 117,
+    "goals": 7,
+    "club": "Lille"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Achref Abada",
+    "age": 26,
+    "caps": 7,
+    "goals": 1,
+    "club": "USM Alger"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Mohamed Amine Tougai",
+    "age": 26,
+    "caps": 29,
+    "goals": 2,
+    "club": "Espérance de Tunis"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Zineddine Belaïd",
+    "age": 27,
+    "caps": 10,
+    "goals": 1,
+    "club": "JS Kabylie"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Ramiz Zerrouki",
+    "age": 28,
+    "caps": 52,
+    "goals": 3,
+    "club": "Twente"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Riyad Mahrez",
+    "age": 35,
+    "caps": 114,
+    "goals": 38,
+    "club": "Al-Ahli"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Houssem Aouar",
+    "age": 27,
+    "caps": 20,
+    "goals": 6,
+    "club": "Al-Ittihad"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Amine Gouiri",
+    "age": 26,
+    "caps": 22,
+    "goals": 8,
+    "club": "Marseille"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Farès Chaïbi",
+    "age": 23,
+    "caps": 29,
+    "goals": 3,
+    "club": "Eintracht Frankfurt"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Anis Hadj Moussa",
+    "age": 24,
+    "caps": 14,
+    "goals": 1,
+    "club": "Feyenoord"
+   },
+   {
+    "num": 12,
+    "pos": "FW",
+    "name": "Nadhir Benbouali",
+    "age": 26,
+    "caps": 3,
+    "goals": 1,
+    "club": "Győri ETO"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Jaouen Hadjam",
+    "age": 23,
+    "caps": 17,
+    "goals": 3,
+    "club": "Young Boys"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Hicham Boudaoui",
+    "age": 26,
+    "caps": 32,
+    "goals": 0,
+    "club": "Nice"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Rayan Aït-Nouri",
+    "age": 25,
+    "caps": 28,
+    "goals": 0,
+    "club": "Manchester City"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "Oussama Benbot",
+    "age": 31,
+    "caps": 2,
+    "goals": 0,
+    "club": "USM Alger"
+   },
+   {
+    "num": 17,
+    "pos": "DF",
+    "name": "Rafik Belghali",
+    "age": 24,
+    "caps": 12,
+    "goals": 1,
+    "club": "Hellas Verona"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Mohamed Amoura",
+    "age": 26,
+    "caps": 45,
+    "goals": 19,
+    "club": "VfL Wolfsburg"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Nabil Bentaleb",
+    "age": 31,
+    "caps": 59,
+    "goals": 6,
+    "club": "Lille"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Adil Boulbina",
+    "age": 23,
+    "caps": 11,
+    "goals": 6,
+    "club": "Al-Duhail"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "Ramy Bensebaini",
+    "age": 31,
+    "caps": 81,
+    "goals": 7,
+    "club": "Borussia Dortmund"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Ibrahim Maza",
+    "age": 20,
+    "caps": 16,
+    "goals": 2,
+    "club": "Bayer Leverkusen"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Luca Zidane",
+    "age": 28,
+    "caps": 7,
+    "goals": 0,
+    "club": "Granada"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Yacine Titraoui",
+    "age": 22,
+    "caps": 5,
+    "goals": 0,
+    "club": "Charleroi"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Farès Ghedjemis",
+    "age": 23,
+    "caps": 1,
+    "goals": 1,
+    "club": "Frosinone"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Samir Chergui",
+    "age": 27,
+    "caps": 4,
+    "goals": 0,
+    "club": "Paris FC"
+   }
+  ]
+ },
+ {
+  "nation": "Argentina",
+  "group": "J",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Juan Musso",
+    "age": 32,
+    "caps": 4,
+    "goals": 0,
+    "club": "Atlético Madrid"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Nicolás Tagliafico",
+    "age": 33,
+    "caps": 76,
+    "goals": 1,
+    "club": "Lyon"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Gonzalo Montiel",
+    "age": 29,
+    "caps": 38,
+    "goals": 2,
+    "club": "River Plate"
+   },
+   {
+    "num": 5,
+    "pos": "MF",
+    "name": "Leandro Paredes",
+    "age": 31,
+    "caps": 77,
+    "goals": 5,
+    "club": "Boca Juniors"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Lisandro Martínez",
+    "age": 28,
+    "caps": 27,
+    "goals": 1,
+    "club": "Manchester United"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Rodrigo De Paul",
+    "age": 32,
+    "caps": 86,
+    "goals": 2,
+    "club": "Inter Miami CF"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Valentín Barco",
+    "age": 21,
+    "caps": 3,
+    "goals": 1,
+    "club": "Strasbourg"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Julián Alvarez",
+    "age": 26,
+    "caps": 51,
+    "goals": 14,
+    "club": "Atlético Madrid"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Lionel Messi",
+    "age": 38,
+    "caps": 198,
+    "goals": 116,
+    "club": "Inter Miami CF"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Giovani Lo Celso",
+    "age": 30,
+    "caps": 66,
+    "goals": 4,
+    "club": "Real Betis"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Gerónimo Rulli",
+    "age": 34,
+    "caps": 7,
+    "goals": 0,
+    "club": "Marseille"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Cristian Romero",
+    "age": 28,
+    "caps": 50,
+    "goals": 3,
+    "club": "Tottenham Hotspur"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Exequiel Palacios",
+    "age": 27,
+    "caps": 39,
+    "goals": 0,
+    "club": "Bayer Leverkusen"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Nicolás González",
+    "age": 28,
+    "caps": 50,
+    "goals": 6,
+    "club": "Atlético Madrid"
+   },
+   {
+    "num": 16,
+    "pos": "FW",
+    "name": "Thiago Almada",
+    "age": 25,
+    "caps": 15,
+    "goals": 4,
+    "club": "Atlético Madrid"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Giuliano Simeone",
+    "age": 23,
+    "caps": 12,
+    "goals": 2,
+    "club": "Atlético Madrid"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Nico Paz",
+    "age": 21,
+    "caps": 8,
+    "goals": 1,
+    "club": "Como"
+   },
+   {
+    "num": 19,
+    "pos": "DF",
+    "name": "Nicolás Otamendi",
+    "age": 38,
+    "caps": 131,
+    "goals": 8,
+    "club": "Benfica"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Alexis Mac Allister",
+    "age": 27,
+    "caps": 45,
+    "goals": 6,
+    "club": "Liverpool"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "José Manuel López",
+    "age": 25,
+    "caps": 4,
+    "goals": 0,
+    "club": "Palmeiras"
+   },
+   {
+    "num": 22,
+    "pos": "FW",
+    "name": "Lautaro Martínez",
+    "age": 28,
+    "caps": 76,
+    "goals": 37,
+    "club": "Inter Milan"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Emiliano Martínez",
+    "age": 33,
+    "caps": 59,
+    "goals": 0,
+    "club": "Aston Villa"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Enzo Fernández",
+    "age": 25,
+    "caps": 41,
+    "goals": 6,
+    "club": "Chelsea"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Facundo Medina",
+    "age": 27,
+    "caps": 8,
+    "goals": 0,
+    "club": "Marseille"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Nahuel Molina",
+    "age": 28,
+    "caps": 58,
+    "goals": 1,
+    "club": "Atlético Madrid"
+   }
+  ]
+ },
+ {
+  "nation": "Austria",
+  "group": "J",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Alexander Schlager",
+    "age": 30,
+    "caps": 26,
+    "goals": 0,
+    "club": "Red Bull Salzburg"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "David Affengruber",
+    "age": 25,
+    "caps": 1,
+    "goals": 0,
+    "club": "Elche"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Kevin Danso",
+    "age": 27,
+    "caps": 32,
+    "goals": 0,
+    "club": "Tottenham Hotspur"
+   },
+   {
+    "num": 4,
+    "pos": "MF",
+    "name": "Xaver Schlager",
+    "age": 28,
+    "caps": 51,
+    "goals": 4,
+    "club": "RB Leipzig"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Stefan Posch",
+    "age": 29,
+    "caps": 52,
+    "goals": 5,
+    "club": "Mainz 05"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Nicolas Seiwald",
+    "age": 25,
+    "caps": 47,
+    "goals": 1,
+    "club": "RB Leipzig"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Marko Arnautović",
+    "age": 37,
+    "caps": 133,
+    "goals": 47,
+    "club": "Red Star Belgrade"
+   },
+   {
+    "num": 8,
+    "pos": "DF",
+    "name": "David Alaba",
+    "age": 33,
+    "caps": 113,
+    "goals": 15,
+    "club": "Real Madrid"
+   },
+   {
+    "num": 9,
+    "pos": "MF",
+    "name": "Marcel Sabitzer",
+    "age": 32,
+    "caps": 98,
+    "goals": 26,
+    "club": "Borussia Dortmund"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Florian Grillitsch",
+    "age": 30,
+    "caps": 58,
+    "goals": 1,
+    "club": "Braga"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Michael Gregoritsch",
+    "age": 32,
+    "caps": 75,
+    "goals": 24,
+    "club": "FC Augsburg"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Florian Wiegele",
+    "age": 25,
+    "caps": 1,
+    "goals": 0,
+    "club": "Viktoria Plzeň"
+   },
+   {
+    "num": 13,
+    "pos": "GK",
+    "name": "Patrick Pentz",
+    "age": 29,
+    "caps": 18,
+    "goals": 0,
+    "club": "Brøndby"
+   },
+   {
+    "num": 14,
+    "pos": "FW",
+    "name": "Saša Kalajdžić",
+    "age": 28,
+    "caps": 22,
+    "goals": 4,
+    "club": "LASK"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Philipp Lienhart",
+    "age": 29,
+    "caps": 41,
+    "goals": 3,
+    "club": "SC Freiburg"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Phillipp Mwene",
+    "age": 32,
+    "caps": 30,
+    "goals": 0,
+    "club": "Mainz 05"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Carney Chukwuemeka",
+    "age": 22,
+    "caps": 3,
+    "goals": 1,
+    "club": "Borussia Dortmund"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Romano Schmid",
+    "age": 26,
+    "caps": 34,
+    "goals": 3,
+    "club": "Werder Bremen"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Konrad Laimer",
+    "age": 29,
+    "caps": 57,
+    "goals": 7,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Patrick Wimmer",
+    "age": 25,
+    "caps": 30,
+    "goals": 1,
+    "club": "VfL Wolfsburg"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Alexander Prass",
+    "age": 25,
+    "caps": 19,
+    "goals": 0,
+    "club": "TSG Hoffenheim"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Marco Friedl",
+    "age": 28,
+    "caps": 11,
+    "goals": 0,
+    "club": "Werder Bremen"
+   },
+   {
+    "num": 24,
+    "pos": "MF",
+    "name": "Paul Wanner",
+    "age": 20,
+    "caps": 3,
+    "goals": 0,
+    "club": "PSV Eindhoven"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Michael Svoboda",
+    "age": 27,
+    "caps": 4,
+    "goals": 0,
+    "club": "Venezia"
+   },
+   {
+    "num": 26,
+    "pos": "MF",
+    "name": "Alessandro Schöpf",
+    "age": 32,
+    "caps": 35,
+    "goals": 6,
+    "club": "Wolfsberger AC"
+   }
+  ]
+ },
+ {
+  "nation": "Jordan",
+  "group": "J",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Yazeed Abulaila",
+    "age": 33,
+    "caps": 76,
+    "goals": 0,
+    "club": "Al-Hussein"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Mohammad Abu Hashish",
+    "age": 31,
+    "caps": 56,
+    "goals": 1,
+    "club": "Al-Karma"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Abdallah Nasib",
+    "age": 32,
+    "caps": 65,
+    "goals": 3,
+    "club": "Al-Zawraa"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Husam Abu Dahab",
+    "age": 26,
+    "caps": 18,
+    "goals": 0,
+    "club": "Al-Faisaly"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Yazan Al-Arab",
+    "age": 30,
+    "caps": 80,
+    "goals": 3,
+    "club": "FC Seoul"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Amer Jamous",
+    "age": 23,
+    "caps": 19,
+    "goals": 1,
+    "club": "Al-Zawraa"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Mohammad Abu Zrayq",
+    "age": 28,
+    "caps": 41,
+    "goals": 5,
+    "club": "Raja Casablanca"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Noor Al-Rawabdeh",
+    "age": 29,
+    "caps": 68,
+    "goals": 3,
+    "club": "Selangor"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Ali Olwan",
+    "age": 26,
+    "caps": 66,
+    "goals": 29,
+    "club": "Al-Sailiya"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Musa Al-Taamari",
+    "age": 29,
+    "caps": 92,
+    "goals": 24,
+    "club": "Rennes"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Odeh Al-Fakhouri",
+    "age": 20,
+    "caps": 10,
+    "goals": 1,
+    "club": "Pyramids"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Nour Bani Attiah",
+    "age": 33,
+    "caps": 5,
+    "goals": 0,
+    "club": "Al-Faisaly"
+   },
+   {
+    "num": 13,
+    "pos": "FW",
+    "name": "Mahmoud Al-Mardi",
+    "age": 32,
+    "caps": 89,
+    "goals": 9,
+    "club": "Al-Hussein"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Rajaei Ayed",
+    "age": 32,
+    "caps": 72,
+    "goals": 0,
+    "club": "Al-Hussein"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Ibrahim Sadeh",
+    "age": 26,
+    "caps": 57,
+    "goals": 3,
+    "club": "Al-Karma"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Mo Abualnadi",
+    "age": 25,
+    "caps": 18,
+    "goals": 0,
+    "club": "Selangor"
+   },
+   {
+    "num": 17,
+    "pos": "DF",
+    "name": "Salim Obaid",
+    "age": 34,
+    "caps": 11,
+    "goals": 0,
+    "club": "Al-Hussein"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Mohammad Taha",
+    "age": 20,
+    "caps": 2,
+    "goals": 0,
+    "club": "Al-Hussein"
+   },
+   {
+    "num": 19,
+    "pos": "DF",
+    "name": "Saed Al-Rosan",
+    "age": 29,
+    "caps": 21,
+    "goals": 2,
+    "club": "Al-Hussein"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Mohannad Abu Taha",
+    "age": 23,
+    "caps": 29,
+    "goals": 1,
+    "club": "Al-Quwa Al-Jawiya"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Nizar Al-Rashdan",
+    "age": 27,
+    "caps": 47,
+    "goals": 4,
+    "club": "Qatar SC"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Abdallah Al-Fakhouri",
+    "age": 26,
+    "caps": 11,
+    "goals": 0,
+    "club": "Al-Wehdat"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Ihsan Haddad",
+    "age": 32,
+    "caps": 92,
+    "goals": 2,
+    "club": "Al-Hussein"
+   },
+   {
+    "num": 24,
+    "pos": "FW",
+    "name": "Ali Azaizeh",
+    "age": 22,
+    "caps": 4,
+    "goals": 0,
+    "club": "Al-Shabab"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Mohammad Al-Dawoud",
+    "age": 34,
+    "caps": 13,
+    "goals": 1,
+    "club": "Al-Wehdat"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Anas Badawi",
+    "age": 28,
+    "caps": 1,
+    "goals": 0,
+    "club": "Al-Faisaly"
+   }
+  ]
+ },
+ {
+  "nation": "Colombia",
+  "group": "K",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "David Ospina",
+    "age": 37,
+    "caps": 130,
+    "goals": 0,
+    "club": "Atlético Nacional"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Daniel Muñoz",
+    "age": 30,
+    "caps": 46,
+    "goals": 3,
+    "club": "Crystal Palace"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Jhon Lucumí",
+    "age": 27,
+    "caps": 37,
+    "goals": 1,
+    "club": "Bologna"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Santiago Arias",
+    "age": 34,
+    "caps": 68,
+    "goals": 0,
+    "club": "Independiente"
+   },
+   {
+    "num": 5,
+    "pos": "MF",
+    "name": "Kevin Castaño",
+    "age": 25,
+    "caps": 25,
+    "goals": 0,
+    "club": "River Plate"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Richard Ríos",
+    "age": 26,
+    "caps": 32,
+    "goals": 2,
+    "club": "Benfica"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Luis Díaz",
+    "age": 29,
+    "caps": 74,
+    "goals": 22,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Jorge Carrascal",
+    "age": 28,
+    "caps": 24,
+    "goals": 2,
+    "club": "Flamengo"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Jhon Córdoba",
+    "age": 33,
+    "caps": 21,
+    "goals": 6,
+    "club": "Krasnodar"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "James Rodríguez",
+    "age": 34,
+    "caps": 126,
+    "goals": 31,
+    "club": "Minnesota United FC"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Jhon Arias",
+    "age": 28,
+    "caps": 38,
+    "goals": 6,
+    "club": "Palmeiras"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Camilo Vargas",
+    "age": 37,
+    "caps": 42,
+    "goals": 0,
+    "club": "Atlas"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Yerry Mina",
+    "age": 31,
+    "caps": 54,
+    "goals": 8,
+    "club": "Cagliari"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Gustavo Puerta",
+    "age": 22,
+    "caps": 6,
+    "goals": 1,
+    "club": "Racing Santander"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Juan Portilla",
+    "age": 27,
+    "caps": 10,
+    "goals": 0,
+    "club": "Athletico Paranaense"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Jefferson Lerma",
+    "age": 31,
+    "caps": 65,
+    "goals": 5,
+    "club": "Crystal Palace"
+   },
+   {
+    "num": 17,
+    "pos": "DF",
+    "name": "Johan Mojica",
+    "age": 33,
+    "caps": 45,
+    "goals": 1,
+    "club": "Mallorca"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Willer Ditta",
+    "age": 28,
+    "caps": 5,
+    "goals": 0,
+    "club": "Cruz Azul"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Cucho Hernández",
+    "age": 27,
+    "caps": 9,
+    "goals": 2,
+    "club": "Real Betis"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Juan Fernando Quintero",
+    "age": 33,
+    "caps": 49,
+    "goals": 6,
+    "club": "River Plate"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Jaminton Campaz",
+    "age": 26,
+    "caps": 10,
+    "goals": 1,
+    "club": "Rosario Central"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Deiver Machado",
+    "age": 32,
+    "caps": 15,
+    "goals": 0,
+    "club": "Nantes"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Davinson Sánchez",
+    "age": 29,
+    "caps": 79,
+    "goals": 4,
+    "club": "Galatasaray"
+   },
+   {
+    "num": 24,
+    "pos": "GK",
+    "name": "Álvaro Montero",
+    "age": 31,
+    "caps": 12,
+    "goals": 0,
+    "club": "Vélez Sarsfield"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Luis Suárez",
+    "age": 28,
+    "caps": 12,
+    "goals": 5,
+    "club": "Sporting CP"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Andrés Gómez",
+    "age": 23,
+    "caps": 8,
+    "goals": 2,
+    "club": "Vasco da Gama"
+   }
+  ]
+ },
+ {
+  "nation": "DR Congo",
+  "group": "K",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Lionel Mpasi",
+    "age": 31,
+    "caps": 28,
+    "goals": 0,
+    "club": "Le Havre"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Aaron Wan-Bissaka",
+    "age": 28,
+    "caps": 11,
+    "goals": 0,
+    "club": "West Ham United"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Steve Kapuadi",
+    "age": 28,
+    "caps": 4,
+    "goals": 0,
+    "club": "Widzew Łódź"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Axel Tuanzebe",
+    "age": 28,
+    "caps": 13,
+    "goals": 1,
+    "club": "Burnley"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Dylan Batubinsika",
+    "age": 30,
+    "caps": 14,
+    "goals": 1,
+    "club": "AEL"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Ngal'ayel Mukau",
+    "age": 21,
+    "caps": 13,
+    "goals": 0,
+    "club": "Lille"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Nathanaël Mbuku",
+    "age": 24,
+    "caps": 18,
+    "goals": 2,
+    "club": "Montpellier"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Samuel Moutoussamy",
+    "age": 29,
+    "caps": 57,
+    "goals": 0,
+    "club": "Atromitos"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Brian Cipenga",
+    "age": 28,
+    "caps": 7,
+    "goals": 0,
+    "club": "Castellón"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Théo Bongonda",
+    "age": 30,
+    "caps": 37,
+    "goals": 7,
+    "club": "Spartak Moscow"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Gaël Kakuta",
+    "age": 34,
+    "caps": 30,
+    "goals": 5,
+    "club": "AEL"
+   },
+   {
+    "num": 12,
+    "pos": "DF",
+    "name": "Joris Kayembe",
+    "age": 31,
+    "caps": 25,
+    "goals": 0,
+    "club": "Genk"
+   },
+   {
+    "num": 13,
+    "pos": "FW",
+    "name": "Meschak Elia",
+    "age": 28,
+    "caps": 68,
+    "goals": 12,
+    "club": "Alanyaspor"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Noah Sadiki",
+    "age": 21,
+    "caps": 19,
+    "goals": 0,
+    "club": "Sunderland"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Aaron Tshibola",
+    "age": 31,
+    "caps": 16,
+    "goals": 1,
+    "club": "Kilmarnock"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "Timothy Fayulu",
+    "age": 26,
+    "caps": 3,
+    "goals": 0,
+    "club": "Noah"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Cédric Bakambu",
+    "age": 35,
+    "caps": 69,
+    "goals": 21,
+    "club": "Real Betis"
+   },
+   {
+    "num": 18,
+    "pos": "MF",
+    "name": "Charles Pickel",
+    "age": 29,
+    "caps": 34,
+    "goals": 1,
+    "club": "Espanyol"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Fiston Mayele",
+    "age": 31,
+    "caps": 37,
+    "goals": 6,
+    "club": "Pyramids"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Yoane Wissa",
+    "age": 29,
+    "caps": 37,
+    "goals": 9,
+    "club": "Newcastle United"
+   },
+   {
+    "num": 21,
+    "pos": "GK",
+    "name": "Matthieu Epolo",
+    "age": 21,
+    "caps": 1,
+    "goals": 0,
+    "club": "Standard Liège"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Chancel Mbemba",
+    "age": 31,
+    "caps": 108,
+    "goals": 7,
+    "club": "Lille"
+   },
+   {
+    "num": 23,
+    "pos": "FW",
+    "name": "Simon Banza",
+    "age": 29,
+    "caps": 15,
+    "goals": 2,
+    "club": "Al Jazira"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Gédéon Kalulu",
+    "age": 28,
+    "caps": 28,
+    "goals": 0,
+    "club": "Aris Limassol"
+   },
+   {
+    "num": 25,
+    "pos": "MF",
+    "name": "Edo Kayembe",
+    "age": 28,
+    "caps": 42,
+    "goals": 2,
+    "club": "Watford"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Arthur Masuaku",
+    "age": 32,
+    "caps": 45,
+    "goals": 4,
+    "club": "Lens"
+   }
+  ]
+ },
+ {
+  "nation": "Portugal",
+  "group": "K",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Diogo Costa",
+    "age": 26,
+    "caps": 42,
+    "goals": 0,
+    "club": "Porto"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Nélson Semedo",
+    "age": 32,
+    "caps": 49,
+    "goals": 0,
+    "club": "Fenerbahçe"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Rúben Dias",
+    "age": 29,
+    "caps": 75,
+    "goals": 3,
+    "club": "Manchester City"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Tomás Araújo",
+    "age": 24,
+    "caps": 4,
+    "goals": 0,
+    "club": "Benfica"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Diogo Dalot",
+    "age": 27,
+    "caps": 34,
+    "goals": 3,
+    "club": "Manchester United"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Matheus Nunes",
+    "age": 27,
+    "caps": 19,
+    "goals": 2,
+    "club": "Manchester City"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Cristiano Ronaldo",
+    "age": 41,
+    "caps": 227,
+    "goals": 143,
+    "club": "Al-Nassr"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Bruno Fernandes",
+    "age": 31,
+    "caps": 88,
+    "goals": 29,
+    "club": "Manchester United"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Gonçalo Ramos",
+    "age": 24,
+    "caps": 24,
+    "goals": 10,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Bernardo Silva",
+    "age": 31,
+    "caps": 108,
+    "goals": 14,
+    "club": "Manchester City"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "João Félix",
+    "age": 26,
+    "caps": 53,
+    "goals": 12,
+    "club": "Al-Nassr"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "José Sá",
+    "age": 33,
+    "caps": 5,
+    "goals": 0,
+    "club": "Wolverhampton Wanderers"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Renato Veiga",
+    "age": 22,
+    "caps": 12,
+    "goals": 1,
+    "club": "Villarreal"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Gonçalo Inácio",
+    "age": 24,
+    "caps": 21,
+    "goals": 2,
+    "club": "Sporting CP"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "João Neves",
+    "age": 21,
+    "caps": 21,
+    "goals": 3,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 16,
+    "pos": "FW",
+    "name": "Francisco Trincão",
+    "age": 26,
+    "caps": 17,
+    "goals": 3,
+    "club": "Sporting CP"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "Rafael Leão",
+    "age": 27,
+    "caps": 44,
+    "goals": 5,
+    "club": "Milan"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Pedro Neto",
+    "age": 26,
+    "caps": 24,
+    "goals": 2,
+    "club": "Chelsea"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Gonçalo Guedes",
+    "age": 29,
+    "caps": 34,
+    "goals": 8,
+    "club": "Real Sociedad"
+   },
+   {
+    "num": 20,
+    "pos": "DF",
+    "name": "João Cancelo",
+    "age": 32,
+    "caps": 67,
+    "goals": 12,
+    "club": "Barcelona"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Rúben Neves",
+    "age": 29,
+    "caps": 66,
+    "goals": 1,
+    "club": "Al-Hilal"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Rui Silva",
+    "age": 32,
+    "caps": 3,
+    "goals": 0,
+    "club": "Sporting CP"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Vitinha",
+    "age": 26,
+    "caps": 37,
+    "goals": 0,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Samú Costa",
+    "age": 25,
+    "caps": 5,
+    "goals": 0,
+    "club": "Mallorca"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Nuno Mendes",
+    "age": 23,
+    "caps": 43,
+    "goals": 1,
+    "club": "Paris Saint-Germain"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Francisco Conceição",
+    "age": 23,
+    "caps": 16,
+    "goals": 3,
+    "club": "Juventus"
+   }
+  ]
+ },
+ {
+  "nation": "Uzbekistan",
+  "group": "K",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Utkir Yusupov",
+    "age": 35,
+    "caps": 40,
+    "goals": 0,
+    "club": "Navbahor Namangan"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Abdukodir Khusanov",
+    "age": 22,
+    "caps": 27,
+    "goals": 0,
+    "club": "Manchester City"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Khojiakbar Alijonov",
+    "age": 29,
+    "caps": 40,
+    "goals": 2,
+    "club": "Pakhtakor"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Farrukh Sayfiev",
+    "age": 35,
+    "caps": 46,
+    "goals": 1,
+    "club": "Neftchi Fergana"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Rustam Ashurmatov",
+    "age": 29,
+    "caps": 49,
+    "goals": 1,
+    "club": "Esteghlal"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Akmal Mozgovoy",
+    "age": 27,
+    "caps": 25,
+    "goals": 1,
+    "club": "Pakhtakor"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Otabek Shukurov",
+    "age": 29,
+    "caps": 84,
+    "goals": 9,
+    "club": "Baniyas"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Jamshid Iskanderov",
+    "age": 32,
+    "caps": 38,
+    "goals": 4,
+    "club": "Neftchi Fergana"
+   },
+   {
+    "num": 9,
+    "pos": "MF",
+    "name": "Odiljon Hamrobekov",
+    "age": 30,
+    "caps": 72,
+    "goals": 1,
+    "club": "Tractor"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Jaloliddin Masharipov",
+    "age": 32,
+    "caps": 74,
+    "goals": 12,
+    "club": "Esteghlal"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Oston Urunov",
+    "age": 25,
+    "caps": 42,
+    "goals": 10,
+    "club": "Persepolis"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Abduvohid Nematov",
+    "age": 25,
+    "caps": 8,
+    "goals": 0,
+    "club": "Nasaf"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Sherzod Nasrullaev",
+    "age": 27,
+    "caps": 31,
+    "goals": 2,
+    "club": "Nasaf"
+   },
+   {
+    "num": 14,
+    "pos": "FW",
+    "name": "Eldor Shomurodov",
+    "age": 30,
+    "caps": 92,
+    "goals": 44,
+    "club": "İstanbul Başakşehir"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Umar Eshmurodov",
+    "age": 33,
+    "caps": 29,
+    "goals": 0,
+    "club": "Nasaf"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "Botirali Ergashev",
+    "age": 30,
+    "caps": 2,
+    "goals": 0,
+    "club": "Neftchi Fergana"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Dostonbek Khamdamov",
+    "age": 29,
+    "caps": 34,
+    "goals": 5,
+    "club": "Pakhtakor"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Abdulla Abdullaev",
+    "age": 28,
+    "caps": 17,
+    "goals": 0,
+    "club": "Dibba"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Azizjon Ganiev",
+    "age": 28,
+    "caps": 19,
+    "goals": 0,
+    "club": "Al Bataeh"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Azizbek Amonov",
+    "age": 28,
+    "caps": 12,
+    "goals": 2,
+    "club": "Dinamo Samarqand"
+   },
+   {
+    "num": 21,
+    "pos": "FW",
+    "name": "Igor Sergeev",
+    "age": 33,
+    "caps": 83,
+    "goals": 25,
+    "club": "Persepolis"
+   },
+   {
+    "num": 22,
+    "pos": "MF",
+    "name": "Abbosbek Fayzullaev",
+    "age": 22,
+    "caps": 32,
+    "goals": 8,
+    "club": "İstanbul Başakşehir"
+   },
+   {
+    "num": 23,
+    "pos": "MF",
+    "name": "Sherzod Esanov",
+    "age": 23,
+    "caps": 1,
+    "goals": 0,
+    "club": "Bukhara"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Bekhruz Karimov",
+    "age": 18,
+    "caps": 2,
+    "goals": 0,
+    "club": "Surkhon Termiz"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Avazbek Ulmasaliev",
+    "age": 26,
+    "caps": 0,
+    "goals": 0,
+    "club": "AGMK"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Jakhongir Urozov",
+    "age": 22,
+    "caps": 4,
+    "goals": 0,
+    "club": "Dinamo Samarqand"
+   }
+  ]
+ },
+ {
+  "nation": "Croatia",
+  "group": "L",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Dominik Livaković",
+    "age": 31,
+    "caps": 75,
+    "goals": 0,
+    "club": "Dinamo Zagreb"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Josip Stanišić",
+    "age": 26,
+    "caps": 31,
+    "goals": 0,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Marin Pongračić",
+    "age": 28,
+    "caps": 20,
+    "goals": 0,
+    "club": "Fiorentina"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Joško Gvardiol",
+    "age": 24,
+    "caps": 48,
+    "goals": 4,
+    "club": "Manchester City"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Duje Ćaleta-Car",
+    "age": 29,
+    "caps": 38,
+    "goals": 1,
+    "club": "Real Sociedad"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Josip Šutalo",
+    "age": 26,
+    "caps": 33,
+    "goals": 0,
+    "club": "Ajax"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "Nikola Moro",
+    "age": 28,
+    "caps": 10,
+    "goals": 0,
+    "club": "Bologna"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Mateo Kovačić",
+    "age": 32,
+    "caps": 113,
+    "goals": 5,
+    "club": "Manchester City"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Andrej Kramarić",
+    "age": 34,
+    "caps": 116,
+    "goals": 36,
+    "club": "TSG Hoffenheim"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Luka Modrić",
+    "age": 40,
+    "caps": 198,
+    "goals": 29,
+    "club": "Milan"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Ante Budimir",
+    "age": 34,
+    "caps": 38,
+    "goals": 6,
+    "club": "Osasuna"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Ivor Pandur",
+    "age": 26,
+    "caps": 0,
+    "goals": 0,
+    "club": "Hull City"
+   },
+   {
+    "num": 13,
+    "pos": "MF",
+    "name": "Nikola Vlašić",
+    "age": 28,
+    "caps": 63,
+    "goals": 10,
+    "club": "Torino"
+   },
+   {
+    "num": 14,
+    "pos": "FW",
+    "name": "Ivan Perišić",
+    "age": 37,
+    "caps": 154,
+    "goals": 38,
+    "club": "PSV Eindhoven"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Mario Pašalić",
+    "age": 31,
+    "caps": 85,
+    "goals": 12,
+    "club": "Atalanta"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Martin Baturina",
+    "age": 23,
+    "caps": 19,
+    "goals": 1,
+    "club": "Como"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Petar Sučić",
+    "age": 22,
+    "caps": 17,
+    "goals": 1,
+    "club": "Inter Milan"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Kristijan Jakić",
+    "age": 29,
+    "caps": 17,
+    "goals": 2,
+    "club": "FC Augsburg"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Toni Fruk",
+    "age": 25,
+    "caps": 7,
+    "goals": 1,
+    "club": "Rijeka"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Igor Matanović",
+    "age": 23,
+    "caps": 9,
+    "goals": 2,
+    "club": "SC Freiburg"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Luka Sučić",
+    "age": 23,
+    "caps": 21,
+    "goals": 1,
+    "club": "Real Sociedad"
+   },
+   {
+    "num": 22,
+    "pos": "DF",
+    "name": "Luka Vušković",
+    "age": 19,
+    "caps": 5,
+    "goals": 1,
+    "club": "Hamburger SV"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "Dominik Kotarski",
+    "age": 26,
+    "caps": 4,
+    "goals": 0,
+    "club": "Copenhagen"
+   },
+   {
+    "num": 24,
+    "pos": "FW",
+    "name": "Marco Pašalić",
+    "age": 25,
+    "caps": 15,
+    "goals": 1,
+    "club": "Orlando City SC"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Martin Erlić",
+    "age": 28,
+    "caps": 13,
+    "goals": 1,
+    "club": "Midtjylland"
+   },
+   {
+    "num": 26,
+    "pos": "FW",
+    "name": "Petar Musa",
+    "age": 28,
+    "caps": 11,
+    "goals": 1,
+    "club": "FC Dallas"
+   }
+  ]
+ },
+ {
+  "nation": "England",
+  "group": "L",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Jordan Pickford",
+    "age": 32,
+    "caps": 83,
+    "goals": 0,
+    "club": "Everton"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Ezri Konsa",
+    "age": 28,
+    "caps": 19,
+    "goals": 1,
+    "club": "Aston Villa"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "Nico O'Reilly",
+    "age": 21,
+    "caps": 4,
+    "goals": 0,
+    "club": "Manchester City"
+   },
+   {
+    "num": 4,
+    "pos": "MF",
+    "name": "Declan Rice",
+    "age": 27,
+    "caps": 72,
+    "goals": 6,
+    "club": "Arsenal"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "John Stones",
+    "age": 32,
+    "caps": 88,
+    "goals": 3,
+    "club": "Manchester City"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Marc Guéhi",
+    "age": 25,
+    "caps": 28,
+    "goals": 1,
+    "club": "Manchester City"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Bukayo Saka",
+    "age": 24,
+    "caps": 48,
+    "goals": 14,
+    "club": "Arsenal"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Elliot Anderson",
+    "age": 23,
+    "caps": 8,
+    "goals": 0,
+    "club": "Nottingham Forest"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Harry Kane",
+    "age": 32,
+    "caps": 113,
+    "goals": 79,
+    "club": "Bayern Munich"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Jude Bellingham",
+    "age": 22,
+    "caps": 47,
+    "goals": 6,
+    "club": "Real Madrid"
+   },
+   {
+    "num": 11,
+    "pos": "FW",
+    "name": "Marcus Rashford",
+    "age": 28,
+    "caps": 71,
+    "goals": 18,
+    "club": "Barcelona"
+   },
+   {
+    "num": 12,
+    "pos": "DF",
+    "name": "Tino Livramento",
+    "age": 23,
+    "caps": 6,
+    "goals": 0,
+    "club": "Newcastle United"
+   },
+   {
+    "num": 13,
+    "pos": "GK",
+    "name": "Dean Henderson",
+    "age": 29,
+    "caps": 4,
+    "goals": 0,
+    "club": "Crystal Palace"
+   },
+   {
+    "num": 14,
+    "pos": "MF",
+    "name": "Jordan Henderson",
+    "age": 35,
+    "caps": 90,
+    "goals": 3,
+    "club": "Brentford"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Dan Burn",
+    "age": 34,
+    "caps": 7,
+    "goals": 0,
+    "club": "Newcastle United"
+   },
+   {
+    "num": 16,
+    "pos": "MF",
+    "name": "Kobbie Mainoo",
+    "age": 21,
+    "caps": 13,
+    "goals": 0,
+    "club": "Manchester United"
+   },
+   {
+    "num": 17,
+    "pos": "MF",
+    "name": "Morgan Rogers",
+    "age": 23,
+    "caps": 14,
+    "goals": 1,
+    "club": "Aston Villa"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Anthony Gordon",
+    "age": 25,
+    "caps": 18,
+    "goals": 2,
+    "club": "Newcastle United"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Ollie Watkins",
+    "age": 30,
+    "caps": 21,
+    "goals": 6,
+    "club": "Aston Villa"
+   },
+   {
+    "num": 20,
+    "pos": "FW",
+    "name": "Noni Madueke",
+    "age": 24,
+    "caps": 10,
+    "goals": 1,
+    "club": "Arsenal"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "Eberechi Eze",
+    "age": 27,
+    "caps": 16,
+    "goals": 3,
+    "club": "Arsenal"
+   },
+   {
+    "num": 22,
+    "pos": "FW",
+    "name": "Ivan Toney",
+    "age": 30,
+    "caps": 8,
+    "goals": 1,
+    "club": "Al-Ahli"
+   },
+   {
+    "num": 23,
+    "pos": "GK",
+    "name": "James Trafford",
+    "age": 23,
+    "caps": 2,
+    "goals": 0,
+    "club": "Manchester City"
+   },
+   {
+    "num": 24,
+    "pos": "DF",
+    "name": "Reece James",
+    "age": 26,
+    "caps": 23,
+    "goals": 1,
+    "club": "Chelsea"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Djed Spence",
+    "age": 25,
+    "caps": 5,
+    "goals": 0,
+    "club": "Tottenham Hotspur"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Jarell Quansah",
+    "age": 23,
+    "caps": 2,
+    "goals": 0,
+    "club": "Bayer Leverkusen"
+   }
+  ]
+ },
+ {
+  "nation": "Ghana",
+  "group": "L",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Lawrence Ati-Zigi",
+    "age": 29,
+    "caps": 29,
+    "goals": 0,
+    "club": "St. Gallen"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "Alidu Seidu",
+    "age": 26,
+    "caps": 24,
+    "goals": 1,
+    "club": "Rennes"
+   },
+   {
+    "num": 3,
+    "pos": "MF",
+    "name": "Caleb Yirenkyi",
+    "age": 20,
+    "caps": 11,
+    "goals": 1,
+    "club": "Nordsjælland"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Jonas Adjetey",
+    "age": 22,
+    "caps": 10,
+    "goals": 0,
+    "club": "VfL Wolfsburg"
+   },
+   {
+    "num": 5,
+    "pos": "MF",
+    "name": "Thomas Partey",
+    "age": 32,
+    "caps": 57,
+    "goals": 15,
+    "club": "Villarreal"
+   },
+   {
+    "num": 6,
+    "pos": "DF",
+    "name": "Abdul Mumin",
+    "age": 28,
+    "caps": 5,
+    "goals": 0,
+    "club": "Rayo Vallecano"
+   },
+   {
+    "num": 7,
+    "pos": "FW",
+    "name": "Abdul Fatawu",
+    "age": 22,
+    "caps": 28,
+    "goals": 3,
+    "club": "Leicester City"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Kwasi Sibo",
+    "age": 27,
+    "caps": 8,
+    "goals": 0,
+    "club": "Oviedo"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Jordan Ayew",
+    "age": 34,
+    "caps": 120,
+    "goals": 34,
+    "club": "Leicester City"
+   },
+   {
+    "num": 10,
+    "pos": "FW",
+    "name": "Brandon Thomas-Asante",
+    "age": 27,
+    "caps": 8,
+    "goals": 1,
+    "club": "Coventry City"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Antoine Semenyo",
+    "age": 26,
+    "caps": 34,
+    "goals": 3,
+    "club": "Manchester City"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "Joseph Anang",
+    "age": 26,
+    "caps": 1,
+    "goals": 0,
+    "club": "St Patrick's Athletic"
+   },
+   {
+    "num": 13,
+    "pos": "FW",
+    "name": "Christopher Bonsu Baah",
+    "age": 21,
+    "caps": 9,
+    "goals": 0,
+    "club": "Al-Qadsiah"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Gideon Mensah",
+    "age": 27,
+    "caps": 40,
+    "goals": 0,
+    "club": "Auxerre"
+   },
+   {
+    "num": 15,
+    "pos": "MF",
+    "name": "Elisha Owusu",
+    "age": 28,
+    "caps": 20,
+    "goals": 0,
+    "club": "Auxerre"
+   },
+   {
+    "num": 16,
+    "pos": "GK",
+    "name": "Benjamin Asare",
+    "age": 33,
+    "caps": 11,
+    "goals": 0,
+    "club": "Hearts of Oak"
+   },
+   {
+    "num": 17,
+    "pos": "DF",
+    "name": "Abdul Rahman Baba",
+    "age": 31,
+    "caps": 51,
+    "goals": 1,
+    "club": "PAOK"
+   },
+   {
+    "num": 18,
+    "pos": "DF",
+    "name": "Jerome Opoku",
+    "age": 27,
+    "caps": 11,
+    "goals": 1,
+    "club": "İstanbul Başakşehir"
+   },
+   {
+    "num": 19,
+    "pos": "FW",
+    "name": "Iñaki Williams",
+    "age": 31,
+    "caps": 26,
+    "goals": 2,
+    "club": "Athletic Bilbao"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Augustine Boakye",
+    "age": 25,
+    "caps": 0,
+    "goals": 0,
+    "club": "Saint-Étienne"
+   },
+   {
+    "num": 21,
+    "pos": "DF",
+    "name": "Kojo Peprah Oppong",
+    "age": 22,
+    "caps": 4,
+    "goals": 0,
+    "club": "Nice"
+   },
+   {
+    "num": 22,
+    "pos": "FW",
+    "name": "Kamaldeen Sulemana",
+    "age": 24,
+    "caps": 28,
+    "goals": 1,
+    "club": "Atalanta"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Derrick Luckassen",
+    "age": 30,
+    "caps": 1,
+    "goals": 0,
+    "club": "Pafos"
+   },
+   {
+    "num": 24,
+    "pos": "FW",
+    "name": "Ernest Nuamah",
+    "age": 22,
+    "caps": 18,
+    "goals": 4,
+    "club": "Lyon"
+   },
+   {
+    "num": 25,
+    "pos": "FW",
+    "name": "Prince Kwabena Adu",
+    "age": 22,
+    "caps": 5,
+    "goals": 0,
+    "club": "Viktoria Plzeň"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Marvin Senaya",
+    "age": 25,
+    "caps": 2,
+    "goals": 0,
+    "club": "Auxerre"
+   }
+  ]
+ },
+ {
+  "nation": "Panama",
+  "group": "L",
+  "players": [
+   {
+    "num": 1,
+    "pos": "GK",
+    "name": "Luis Mejía",
+    "age": 35,
+    "caps": 56,
+    "goals": 0,
+    "club": "Nacional"
+   },
+   {
+    "num": 2,
+    "pos": "DF",
+    "name": "César Blackman",
+    "age": 28,
+    "caps": 40,
+    "goals": 3,
+    "club": "Slovan Bratislava"
+   },
+   {
+    "num": 3,
+    "pos": "DF",
+    "name": "José Córdoba",
+    "age": 25,
+    "caps": 32,
+    "goals": 1,
+    "club": "Norwich City"
+   },
+   {
+    "num": 4,
+    "pos": "DF",
+    "name": "Fidel Escobar",
+    "age": 31,
+    "caps": 99,
+    "goals": 4,
+    "club": "Saprissa"
+   },
+   {
+    "num": 5,
+    "pos": "DF",
+    "name": "Edgardo Fariña",
+    "age": 24,
+    "caps": 18,
+    "goals": 0,
+    "club": "Pari Nizhny Novgorod"
+   },
+   {
+    "num": 6,
+    "pos": "MF",
+    "name": "Cristian Martínez",
+    "age": 29,
+    "caps": 66,
+    "goals": 2,
+    "club": "Ironi Kiryat Shmona"
+   },
+   {
+    "num": 7,
+    "pos": "MF",
+    "name": "José Luis Rodríguez",
+    "age": 27,
+    "caps": 70,
+    "goals": 8,
+    "club": "Juárez"
+   },
+   {
+    "num": 8,
+    "pos": "MF",
+    "name": "Adalberto Carrasquilla",
+    "age": 27,
+    "caps": 73,
+    "goals": 3,
+    "club": "UNAM"
+   },
+   {
+    "num": 9,
+    "pos": "FW",
+    "name": "Tomás Rodríguez",
+    "age": 27,
+    "caps": 13,
+    "goals": 4,
+    "club": "Saprissa"
+   },
+   {
+    "num": 10,
+    "pos": "MF",
+    "name": "Ismael Díaz",
+    "age": 29,
+    "caps": 57,
+    "goals": 17,
+    "club": "León"
+   },
+   {
+    "num": 11,
+    "pos": "MF",
+    "name": "Yoel Bárcenas",
+    "age": 32,
+    "caps": 104,
+    "goals": 10,
+    "club": "Mazatlán"
+   },
+   {
+    "num": 12,
+    "pos": "GK",
+    "name": "César Samudio",
+    "age": 32,
+    "caps": 5,
+    "goals": 0,
+    "club": "Marathón"
+   },
+   {
+    "num": 13,
+    "pos": "DF",
+    "name": "Jiovany Ramos",
+    "age": 29,
+    "caps": 23,
+    "goals": 2,
+    "club": "Puerto Cabello"
+   },
+   {
+    "num": 14,
+    "pos": "DF",
+    "name": "Carlos Harvey",
+    "age": 26,
+    "caps": 28,
+    "goals": 3,
+    "club": "Minnesota United FC"
+   },
+   {
+    "num": 15,
+    "pos": "DF",
+    "name": "Eric Davis",
+    "age": 35,
+    "caps": 107,
+    "goals": 9,
+    "club": "Plaza Amador"
+   },
+   {
+    "num": 16,
+    "pos": "DF",
+    "name": "Andrés Andrade",
+    "age": 27,
+    "caps": 50,
+    "goals": 1,
+    "club": "LASK"
+   },
+   {
+    "num": 17,
+    "pos": "FW",
+    "name": "José Fajardo",
+    "age": 32,
+    "caps": 68,
+    "goals": 17,
+    "club": "Universidad Católica"
+   },
+   {
+    "num": 18,
+    "pos": "FW",
+    "name": "Cecilio Waterman",
+    "age": 35,
+    "caps": 55,
+    "goals": 15,
+    "club": "Universidad de Concepción"
+   },
+   {
+    "num": 19,
+    "pos": "MF",
+    "name": "Alberto Quintero",
+    "age": 38,
+    "caps": 141,
+    "goals": 7,
+    "club": "Plaza Amador"
+   },
+   {
+    "num": 20,
+    "pos": "MF",
+    "name": "Aníbal Godoy",
+    "age": 36,
+    "caps": 159,
+    "goals": 4,
+    "club": "San Diego FC"
+   },
+   {
+    "num": 21,
+    "pos": "MF",
+    "name": "César Yanis",
+    "age": 30,
+    "caps": 56,
+    "goals": 5,
+    "club": "Cobresal"
+   },
+   {
+    "num": 22,
+    "pos": "GK",
+    "name": "Orlando Mosquera",
+    "age": 31,
+    "caps": 48,
+    "goals": 0,
+    "club": "Al-Fayha"
+   },
+   {
+    "num": 23,
+    "pos": "DF",
+    "name": "Michael Amir Murillo",
+    "age": 30,
+    "caps": 94,
+    "goals": 9,
+    "club": "Beşiktaş"
+   },
+   {
+    "num": 24,
+    "pos": "FW",
+    "name": "Azarias Londoño",
+    "age": 24,
+    "caps": 11,
+    "goals": 0,
+    "club": "Universidad Católica"
+   },
+   {
+    "num": 25,
+    "pos": "DF",
+    "name": "Roderick Miller",
+    "age": 34,
+    "caps": 50,
+    "goals": 2,
+    "club": "Turan Tovuz"
+   },
+   {
+    "num": 26,
+    "pos": "DF",
+    "name": "Jorge Gutiérrez",
+    "age": 27,
+    "caps": 18,
+    "goals": 0,
+    "club": "Deportivo La Guaira"
+   }
+  ]
+ }
+]
