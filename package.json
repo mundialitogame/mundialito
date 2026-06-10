@@ -11,12 +11,14 @@
     "data:parse": "node scripts/parse-squads.mjs",
     "data:build": "node scripts/parse-squads.mjs && node scripts/build-data.mjs",
     "icons": "node scripts/make-icons.mjs",
-    "sim": "node scripts/simtest.ts"
+    "sim": "node scripts/simtest.ts",
+    "deploy": "npm run build && wrangler deploy"
   },
   "devDependencies": {
     "@types/node": "^25.9.2",
     "playwright": "^1.60.0",
     "typescript": "^5.6.0",
-    "vite": "^6.0.0"
+    "vite": "^6.0.0",
+    "wrangler": "^4.99.0"
   }
 }
